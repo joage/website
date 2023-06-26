@@ -16,6 +16,7 @@ module.exports = {
     fontFamily: {
       'sans': ['Roboto'],
       'serif': ['Times'],
+      'mono': ['Courier New'],
     }
   },
   plugins: [],
