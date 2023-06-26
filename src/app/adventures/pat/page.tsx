@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const Patagonia = () => (
-  <Post title="Patagonia" date="March 2023" prev="/">
+  <Post title="Patagonia" date="March 2023" next="/adventures/test">
     <ImageGroup images={[{path: "/images/frey.jpg", caption: "Jagged peaks above Refugio Frey"}]} />
 
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
