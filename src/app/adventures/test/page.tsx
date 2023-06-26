@@ -3,7 +3,7 @@ import Post from '@/components/Post';
 
 const Test = () => (
   <Post title="Test" date="June 2023" prev="/adventures/pat">
-    <ImageGroup images={[{path: "/images/IMG_3810.jpg", caption: "Jagged peaks above Refugio Frey"}]} />
+    <ImageGroup images={[{path: "/images/IMG_3810.jpeg", caption: "Jagged peaks above Refugio Frey"}]} />
 
     This is a trst commit from george iphone's
     
