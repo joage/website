@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const Patagonia = () => (
-  <Post title="Patagonia" date="March 2023" next="/adventures/test">
+  <Post title="Patagonia" date="March 2023" prev="/adventures/utah-2" next="/adventures/shasta">
     <ImageGroup images={[{path: "/images/frey.jpg", caption: "Jagged peaks above Refugio Frey"}]} />
 
     <p>Earlier this year I was given a somewhat unexpected opportunity to travel to Argentina for work. Knowing that the south of the country possessed beautiful mountains, I took up this offer excitedly in hopes of exploring them.</p>
@@ -11,7 +11,7 @@ const Patagonia = () => (
 
     Undeterred by this delay, we set off the next morning for the town of Villa Catedral. A missed bus ride and 10 km of road walking later, we arrived at the trailhead. The trail to Refugio Frey itself was very pretty. It carried us up the rolling hillsides, into a rainforest, and finally over the rocky ledges to Laguna Toncek. My pack felt noticeably lighter than what I was used to while backpacking in the states, because instead of carrying a tent we would sleep in refugios, alpine huts along the way.
 
-    <ImageGroup images={[{path: "/images/IMG_5964_Original.jpeg", caption: "Hiking up to Frey"}]} />
+    <ImageGroup images={[{path: "/images/IMG_5864_Original.jpeg", caption: "Hiking up to Frey"}]} />
     
     <p>At the refugio we met some nice Brazilians and a solo Argentinian hiker/musician whom we’d continue to run into over the next couple of days.</p>
 
