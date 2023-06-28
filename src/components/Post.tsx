@@ -12,7 +12,7 @@ interface PostProps {
 }
 
 const Post = ({title, date, prev, next, children}: PostProps) => (
-    <main className="flex flex-col min-h-screen items-center justify-between p-4">
+    <main className="flex flex-col min-h-screen items-center p-4">
         <Nav />
         <div className="flex flex-col gap-6 max-w-3xl">
             <div className="flex gap-4">
