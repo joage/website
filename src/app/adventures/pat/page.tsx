@@ -15,10 +15,12 @@ const Patagonia = () => (
 
     Day two was when the real climbing began. Topping out the first pass, we were treated with a stunning view of the surrounding area and an equally good view of the descent, which looked incredibly steep.
 
-    <ImageGroup images={[{path: "/images/descending.jpg", caption: "On the descent to Laguna Jakob"}, {path: "/images/boulders.jpg", caption: "Slow going down a soul-crushing boulder field"}]} />
+    <ImageGroup images={[{path: "/images/IMG_5909_Original.jpeg", caption: "Refugio Frey"}, {path: "/images/IMG_9946.jpeg", caption: "Alpine lake above Frey"}]} />
 
     A dip into the valley below only meant that we had to regain the elevation in the afternoon, but at least we found a friend while stopping for a lunch break.
-
+  
+    <ImageGroup images={[{path: "/images/lookingpass.jpeg", caption: "Top of the first pass"}, {path: "/images/IMG_5970_Original.jpeg", caption: "A crested caracara"}]} />
+    
     <ImageGroup images={[{path: "/images/valley.jpg", caption: "Climbing above treeline on the second pass of the day"}]} />
 
     By the time we made it up to the next pass, we could see our destination, a tiny house by the lake far below us.
