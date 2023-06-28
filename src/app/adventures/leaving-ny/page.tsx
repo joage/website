@@ -1,0 +1,17 @@
+import ImageGroup from '@/components/ImageGroup';
+import Post from '@/components/Post';
+
+const Leaving = () => (
+  <Post title="Test" date="June 2023" prev="/adventures/shasta">
+    <ImageGroup images={[{path: "/images/IMG_3810.jpeg", caption: "Goodbye, Brooklyn."}]} />
+
+In June I quit my job in California and decided to travel for a bit this summer.
+
+During a week of catching up with old friends in NYC, I made this website to document my hikes and the places i’ll be going to in Europe. In a few days I’ll be walking the Tour du Mont Blanc, and later in July I want to do the GR 10 in the south of France.
+
+So the trip reports that follow will be written solely on my phone’s notes app and uploaded using github mobile  (bear with me) when I reach wifi. Here I go!
+
+  </Post>
+);
+
+export default Leaving;
