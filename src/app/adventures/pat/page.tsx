@@ -5,13 +5,15 @@ const Patagonia = () => (
   <Post title="Patagonia" date="March 2023" next="/adventures/test">
     <ImageGroup images={[{path: "/images/frey.jpg", caption: "Jagged peaks above Refugio Frey"}]} />
 
-    Earlier this year I was given a somewhat unexpected opportunity to travel to Argentina for work. Knowing that the south of the country possessed beautiful mountains, I took up this offer excitedly in hopes of exploring them. 
+    <p>Earlier this year I was given a somewhat unexpected opportunity to travel to Argentina for work. Knowing that the south of the country possessed beautiful mountains, I took up this offer excitedly in hopes of exploring them.</p>
 
-    After a week of brutal late summer heat in Buenos Aires, Ayla and I stashed our laptops with a kind coworker and boarded a plane to chilly Bariloche. There was rain forecasted the entire time we were going to be there. As soon as we arrived, Ayla discovered she had gotten severe food poisoning. This set our hiking plans back one day, during which I sampled some local delicacies while she rested and made a miraculous recovery.
+    <p>After a week of brutal late summer heat in Buenos Aires, Ayla and I stashed our laptops with a kind coworker and boarded a plane to chilly Bariloche. There was rain forecasted the entire time we were going to be there. As soon as we arrived, Ayla discovered she had gotten severe food poisoning. This set our hiking plans back one day, during which I sampled some local delicacies while she rested and made a miraculous recovery.</p>
 
     Undeterred by this delay, we set off the next morning for the town of Villa Catedral. A missed bus ride and 10 km of road walking later, we arrived at the trailhead. The trail to Refugio Frey itself was very pretty. It carried us up the rolling hillsides, into a rainforest, and finally over the rocky ledges to Laguna Toncek. My pack felt noticeably lighter than what I was used to while backpacking in the states, because instead of carrying a tent we would sleep in refugios, alpine huts along the way.
 
-    At the refugio we met some nice Brazilians and a solo Argentinian hiker/musician whom we’d continue to run into over the next couple of days.
+    <ImageGroup images={[{path: "/images/IMG_5964_Original.jpeg", caption: "Hiking up to Frey"}]} />
+    
+    <p>At the refugio we met some nice Brazilians and a solo Argentinian hiker/musician whom we’d continue to run into over the next couple of days.</p>
 
     Day two was when the real climbing began. Topping out the first pass, we were treated with a stunning view of the surrounding area and an equally good view of the descent, which looked incredibly steep.
 
@@ -39,6 +41,8 @@ const Patagonia = () => (
     
     To our surprise, outside the empanada shop a group of (North) Americans spotted our Osprey gear and greeted us in English. After confirming they were not about to kidnap us, we hopped into their van and got a ride to our campsite for the night. As it turned out, we had just met the guy who established most of the sport climbing routes in the area. Dylan and his friends took us out climbing the following day at Lago Gutierrez.
 
+    <ImageGroup images={[{path: "/images/holeyclimb.jpeg", caption: "My first outdoor top-rope!"}, {path: "/images/IMG_6067.jpeg", caption: "Russell leading 5.11a"}]} />
+    
     After all, this overcast weather made for a moody but extremely epic trip in the mountains of Patagonia. I was surprised at how varied the landscapes were, and how kindly we were treated by strangers. Bariloche is a special place and I definitely want to come back to revisit the area someday.
   </Post>
 );
