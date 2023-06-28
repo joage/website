@@ -2,48 +2,46 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const Shasta = () => (
-  <Post title="Shasta" date="May 2023" prev="/adventures/pat" next="/adventures/leaving-ny">
-    <ImageGroup images={[{path: "/images/frey.jpg", caption: "Jagged peaks above Refugio Frey"}]} />
+  <Post title="Shasta" date="May 13, 2023" prev="/adventures/pat" next="/adventures/leaving-ny">
+    <ImageGroup images={[{path: "/images/IMG_1741.jpeg", caption: ""}]} />
 
-    <p>Earlier this year I was given a somewhat unexpected opportunity to travel to Argentina for work. Knowing that the south of the country possessed beautiful mountains, I took up this offer excitedly in hopes of exploring them.</p>
+    <p>Mount Shasta is my favorite mountain. Rising tall above the surrounding northern CA plains, you can see it from 2 hours away on the approach from Hwy 5. I didn’t take many photos on this trip because of how tired I was the entire time, but here’s the story of David and I summiting this 14,000 ft active volcano.</p>
 
-    <p>After a week of brutal late summer heat in Buenos Aires, Ayla and I stashed our laptops with a kind coworker and boarded a plane to chilly Bariloche. There was rain forecasted the entire time we were going to be there. As soon as we arrived, Ayla discovered she had gotten severe food poisoning. This set our hiking plans back one day, during which I sampled some local delicacies while she rested and made a miraculous recovery.</p>
+    <p>One year ago, my coworker David flew up to SF to climb Shasta but we had to cancel the trip due to bad weather. This year he booked a more last minute flight, and in the days leading up to our planned outing we watched in anticipation as the forecast cleared up for an ideal summit attempt.</p>
 
-    Undeterred by this delay, we set off the next morning for the town of Villa Catedral. A missed bus ride and 10 km of road walking later, we arrived at the trailhead. The trail to Refugio Frey itself was very pretty. It carried us up the rolling hillsides, into a rainforest, and finally over the rocky ledges to Laguna Toncek. My pack felt noticeably lighter than what I was used to while backpacking in the states, because instead of carrying a tent we would sleep in refugios, alpine huts along the way.
+    We got up in San Jose at around 5am to begin the 5 hr drive to the trailhead. This was a record snow year, and in our packs we had a bit more gear than usual. Avalanche danger was low, but we still decided to pick up some safety equipment from a shop in Mt Shasta City before making our way to Bunny Flat trailhead at 6,900ft.
 
-    <ImageGroup images={[{path: "/images/IMG_5864_Original.jpeg", caption: "Hiking up to Frey"}]} />
-    
-    <p>At the refugio we met some nice Brazilians and a solo Argentinian hiker/musician whom we’d continue to run into over the next couple of days.</p>
+    <ImageGroup images={[{path: "/images/IMG_3653.jpeg", caption: "David going up Avalanche Gulch"}]} />
 
-    Day two was when the real climbing began. Topping out the first pass, we were treated with a stunning view of the surrounding area and an equally good view of the descent, which looked incredibly steep.
+    As expected, the snow at the trailhead was so high that it completely covered the National Forest sign. We strapped on our snowshoes here and started the trek to Helen Lake following a steady conga line of climbers and skiers, who were easily visible against the pillowy slopes of Avalanche Gulch.
 
-    <ImageGroup images={[{path: "/images/IMG_5909_Original.jpeg", caption: "Refugio Frey"}, {path: "/images/IMG_9946.jpeg", caption: "Alpine lake above Frey"}]} />
+    <ImageGroup images={[{path: "/images/IMG_1717.jpeg", caption: "Camp spot at Helen lake"}]} />
 
-    A dip into the valley below only meant that we had to regain the elevation in the afternoon, but at least we found a friend while stopping for a lunch break.
-  
-    <ImageGroup images={[{path: "/images/lookingpass.jpeg", caption: "Top of the first pass"}, {path: "/images/IMG_5970_Original.jpeg", caption: "A crested caracara"}]} />
-    
-    <ImageGroup images={[{path: "/images/valley.jpg", caption: "Climbing above treeline on the second pass of the day"}]} />
+    <p>We made it into camp at 10,000 ft, just as the heat started to get unbearable. Settling into a tent site already dug out by some skiers the day before, we gathered snow in bags to melt for water. The rest of the day was uneventful as we cooked dinner, watched an epic sunset, and zipped into our sleeping bags by 8pm.</p>
 
-    By the time we made it up to the next pass, we could see our destination, a tiny house by the lake far below us.
+    At 2 in the morning on Mothers day we woke up to start our climb in the dark. I slept poorly not because it was cold, but because the wind was so loud and  the tent flapping kept me awake. Shuffling past some guided groups on
+    the way up, we made it up the Red Banks, the steepest part of the climb about an hour after sunrise. The views here could not have been better, and we could see the shadow of the mountain far in the distance. 
 
-    <ImageGroup images={[{path: "/images/descending.jpg", caption: "On the descent to Laguna Jakob"}, {path: "/images/boulders.jpg", caption: "Slow going down a soul-crushing boulder field"}]} />
+    <ImageGroup images={[{path: "/images/IMG_1727.jpeg", caption: "Taking a break at Red Banks"}, {path: "/images/IMG_3670.jpeg", caption: "View of Shastina from Misery Hill"}]} />
 
-    Many scree-sliding steps later, day 2 ended at Refugio Jakob with a warning from the host. There was a storm coming in tomorrow, and the next section of trail, which was already difficult in good weather, may be impassable in the rain.
+    <p>I really started feeling the altitude at around 12000 ft, and the going got slower. I decided to drop my pack at the base of Misery Hill and continue to the summit on crampons, one trekking pole and ice axe only.</p>
 
-    <ImageGroup images={[{path: "/images/jakob.jpg", caption: "Laguna Jakob"}]} />
+    David was a bit further ahead but we could now see the summit. Here is also when I realized I left my fruit snacks in the pack, and for the rest of the way up I thought about the sugar rush i was missing out on now but would be a nice treat later on during the descent.
 
+    <ImageGroup images={[{path: "/images/IMG_3672.jpeg", caption: "Last push to the summit block"}]} />
 
-    Waking up the next morning feeling rather spooked by the conditions and tired from the endless up-and-down the day before, we decided to hike down into town instead of continuing on to the next refugio. This turned out to be the right decision, because we had also underestimated how much food to bring on the trip. By the end of the third day we had no more snacks left and stumbled into town hungry for empanadas.
-    
-    <ImageGroup images={[{path: "/images/descent.jpg", caption: "Lush valley on the hike out"}]} />
-    <ImageGroup images={[{path: "/images/waterfall.jpg", caption: ""}]} />
-    
-    To our surprise, outside the empanada shop a group of (North) Americans spotted our Osprey gear and greeted us in English. After confirming they were not about to kidnap us, we hopped into their van and got a ride to our campsite for the night. As it turned out, we had just met the guy who established most of the sport climbing routes in the area. Dylan and his friends took us out climbing the following day at Lago Gutierrez.
+    At 8 am, we crested the final hill and all that was left was the last couple hundred feet of the summit block. 30 minutes later, we were on top. We had done it! 
 
-    <ImageGroup images={[{path: "/images/holeyclimb.jpeg", caption: "My first outdoor top-rope!"}, {path: "/images/IMG_6067.jpeg", caption: "Russell leading 5.11a"}]} />
-    
-    After all, this overcast weather made for a moody but extremely epic trip in the mountains of Patagonia. I was surprised at how varied the landscapes were, and how kindly we were treated by strangers. Bariloche is a special place and I definitely want to come back to revisit the area someday.
+    <ImageGroup images={[{path: "/images/IMG_1731.jpeg", caption: ""}]} />
+
+    <ImageGroup images={[{path: "/images/IMG_3683.jpeg", caption: "View from the top"}]} />
+
+    The descent started slowly, and i was pretty exhausted by the time we got back to Red Banks. Some people started glissading (sliding on butt) down the steep slope to save energy, so we did the same. Not only was this super fun and fast, I was able to get some extra practice with my self-arrest technique.
+
+    <ImageGroup images={[{path: "/images/IMG_3692.jpeg", caption: "Walking all the way back down"}]} />
+
+    At Helen lake I took a nap before packing up our stuff to continue down the mountain. This was easily the worst part of the trip, with all the skiers zooming past us while we post-holed down the melting hillside even with snowshoes on. I made a mental note to bring skis up to Helen lake for the descent 
+    if I ever did this again. David had more gas left in the tank than me, so he was far ahead but waited patiently close to the end so we could finish it together. Incredibly tired and blistered, we returned to the car at 5pm, just as the rental shop was about to close. What a climb!
   </Post>
 );
 
