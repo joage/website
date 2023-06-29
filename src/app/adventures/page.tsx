@@ -25,7 +25,7 @@ export default function Adventures() {
             WIP - Coyote Gulch (Utah Part 1)
           </li>
         </ul>
-        <p>Will add older trips when I have time!</p> time</p>
+        <p>Will add older trips when I have time!</p>
       </div>
     </main>
   )
