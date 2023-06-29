@@ -1,4 +1,5 @@
-import Nav from '../components/Nav';
+import ImageGroup from '@/components/ImageGroup';
+import Nav from '@/components/Nav';
 
 export default function Home() {
   return (
