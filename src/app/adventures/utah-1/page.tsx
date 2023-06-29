@@ -41,7 +41,7 @@ const Coyote = () => (
 
     Once out of the gulch, we enjoyed a mind blowing sunset across a martian landscape. We thought we were close to being back in the car, but the last stretch of route-finding in the dark was our final challenge. Luckily we figured it out and with the backpacking trip completed, we were free the next day to explore some bonus slot canyons before heading back to civilization.
     
-    <ImageGroup images={[{path: "/images/PXL_20221123_001619202_Original.jpeg", caption: "Coyote Gulch Exit"}]} />
+    <ImageGroup images={[{path: "/images/PXL_20221123_001619202_Original.jpeg", caption: "Sunsets hit different in the desert"}]} />
   </Post>
 );
 
