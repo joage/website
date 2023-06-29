@@ -27,17 +27,21 @@ const Coyote = () => (
 
     <p>In order to access the gulch, we had to continue driving down this dirt track, park, and hike out to a point known as Crack in the Wall. Here we descended a narrow slit, while Fischer lowered our bags by rope over the rim of the canyon.</p>
 
-    <ImageGroup images={[{path: "/images/IMG_2827.jpeg", caption: "Chloe after surviving the crack"}]} />
+    <ImageGroup images={[{path: "/images/IMG_2827.jpeg", caption: "Chloe survived the crack"}]} />
 
-    Hiking inside the gulch felt more like a game of not getting our socks and shoes wet. The four of us each chose different strategies at stream crossings - barefoot wading, risky long jumps with shoes on, or a combo of both. Fortunately it had not rained in a while so water levels were okay. We soon made it to a nice cave that we’d call home for the night.
+    <p>Hiking inside the gulch felt more like a game of not getting our socks and shoes wet. The four of us each chose different strategies at stream crossings - barefoot wading, risky long jumps with shoes on, or a combo of both. Fortunately it had not rained in a while so water levels were okay. We soon made it to a nice cave that we’d call home for the night.</p>
 
-    tent spot - caption coyotes
+    Day two was even more spectacular than the first, with the highlights being Jacob Hamblin Arch and spotting petroglyphs high up on the canyon walls.
 
-    Day two in the gulch was even more spectacular than the first, with the highlights being Jacob Hamblin Arch and spotting petroglyphs high up on the canyon walls.
+    <ImageGroup images={[{path: "/images/PXL_20221122_230015239_Original.jpeg", caption: "Approaching the exit. The canyon was super deep here"}]} />
 
-    At Jacob Hamblin, we once again made use of Fischer’s rope in order to exit the Gulch. Although no particular move was difficult, having the security of a rope in hand made the slabby exit a lot more fun. 
+    At Jacob Hamblin, we once again made use of Fischer’s rope in order to exit the Gulch. Although no particular move was required it, having the security of a rope in hand made the slabby exit a lot more fun. 
 
-    Once out of the gulch, we enjoyed a mind blowing sunset across a martian landscape. We thought we were close to being back in the car, but the last stretch of route-finding in the dark was our final challenge. Luckily we figured it out and with the backpacking trip completed, we were free the next day to explore some bonus slot canyons before heading back to civilization.
+    <ImageGroup images={[{path: "/images/PXL_20221122_235632254_Original.jpeg", caption: "Coyote Gulch Exit"}]} />
+
+    Once out of the gulch, we enjoyed a mind blowing sunset across a martian landscape. We thought we were close to being back in the car, but the last stretch of route-finding in the dark was our final challenge. Luckily we figured it out and with the backpacking trip completed, we were free the next day to explore some bonus slot canyons before heading back to
+    
+    <ImageGroup images={[{path: "/images/PXL_20221123_001619202_Original.jpeg", caption: "Coyote Gulch Exit"}]} />
   </Post>
 );
 
