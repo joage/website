@@ -7,7 +7,7 @@ export default function Home() {
       <Nav />
       <p className="text-sm pt-8">Welcome to my website. It's a work in progress</p>
       <div className="pt-3">
-        <ImageGroup images={[{path: "/images/falling.jpg", caption: ""}]} />
+        <ImageGroup images={[{path: "/images/falling.jpeg", caption: ""}]} />
       </div>
     </main>
   )
