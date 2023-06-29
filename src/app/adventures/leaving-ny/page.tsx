@@ -9,7 +9,7 @@ const Leaving = () => (
 
     <p>During a week of catching up with old friends in NYC, I made this website to document my hikes and the places i’ll be going to in Europe. In a few days I’ll be walking the Tour du Mont Blanc, and later in July I want to do the GR 10 in the south of France.</p>
 
-    <p>So the trip reports that follow will be written solely on my phone’s notes app and uploaded using github mobile  (bear with me) when I reach wifi. Here I go!</p>
+    <p>The trip reports that follow will be written solely on my phone’s notes app and uploaded using github mobile (bear with me) when I reach wifi. So we'll see if they are any good! Here I go!</p>
 
   </Post>
 );
