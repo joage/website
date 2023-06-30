@@ -19,8 +19,6 @@ const Coyote = () => (
 
     <p>Continuing on after a quick hike, we arrived at the town of Escalante, UT where everything was closed. We turned off the main road on to a dirt track where we pitched tents and spent our first cold night in the desert.</p>
 
-    <ImageGroup images={[{path: "/images/IMG_7625_Original.jpeg", caption: "The Gulch near Crack in the Wall"}]} />
-
     <p>Coyote gulch is a stretch of the Escalante River with steep red rock walls, not narrow enough to be a slot canyon but still requires wading through knee deep sections of icy cold water. Notable arches, natural bridges, and mars-like landscapes made this an ideal “best of” southern Utah destination, according to Fischer who did all the planning this trip.</p>
 
     <ImageGroup images={[{path: "/images/IMG_2829.jpeg", caption: "Crack in the Wall"}, {path: "/images/IMG_2820.jpeg", caption: "Packs don't fit in the crack"}]} />
@@ -31,7 +29,13 @@ const Coyote = () => (
 
     <p>Hiking inside the gulch felt more like a game of not getting our socks and shoes wet. The four of us each chose different strategies at stream crossings - barefoot wading, risky long jumps with shoes on, or a combo of both. Fortunately it had not rained in a while so water levels were okay. We soon made it to a nice cave that we’d call home for the night.</p>
 
+    <ImageGroup images={[{path: "/images/IMG_1861_Original.jpeg", caption: "Camp site"}]} />
+
     Day two was even more spectacular than the first, with the highlights being Jacob Hamblin Arch and spotting petroglyphs high up on the canyon walls.
+
+    <ImageGroup images={[{path: "/images/IMG_7625_Original.jpeg", caption: ""}]} />
+
+    <ImageGroup images={[{path: "/images/IMG_7656_Original.jpeg", caption: "Always crossing streams"}]} />
 
     <ImageGroup images={[{path: "/images/PXL_20221122_230015239_Original.jpeg", caption: "Approaching the exit. The canyon was super deep here"}]} />
 
