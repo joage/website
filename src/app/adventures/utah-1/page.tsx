@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const Coyote = () => (
-  <Post title="Coyote Gulch (Utah Part 1)" date="November 2022" next="/adventures/pat">
+  <Post title="Coyote Gulch (Utah Part 1)" date="November 2022" next="/adventures/utah-2">
     <ImageGroup images={[{path: "/images/PXL_20221122_231312330_Original.jpeg", caption: "Looking up at Jacob Hamblin Arch"}]} />
 
     <p>This year Fischer invited me, Chloe, and Emma over to his family home for Thanksgiving. I had never been to Utah before, so I was ready to experience red rocks and snowy peaks while catching up with some college friends.</p>
