@@ -22,7 +22,7 @@ export default function Adventures() {
             <Link href="/adventures/utah-1">Coyote Gulch (Utah Part 1)</Link>
           </li>
         </ul>
-        <p>Will add older trips when I have time!</p>
+        <p>Will slowly add older trips when I find the time</p>
       </div>
     </main>
   )
