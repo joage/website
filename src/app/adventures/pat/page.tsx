@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const Patagonia = () => (
-  <Post title="Patagonia" date="March 2023" next="/adventures/shasta">
+  <Post title="Patagonia" date="March 2023" prev="/adventures/utah-2" next="/adventures/shasta">
     <ImageGroup images={[{path: "/images/frey.jpg", caption: "Jagged peaks above Refugio Frey"}]} />
 
     <p>Earlier this year I was given a somewhat unexpected opportunity to travel to Argentina for work. Knowing that the south of the country possessed beautiful mountains, I took up this offer excitedly in hopes of exploring them.</p>
