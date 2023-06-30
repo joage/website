@@ -13,9 +13,10 @@ const Canyon = () => (
     After thanksgiving, we hit some hot springs and then drove back to CA.
 
     <ImageGroup images={[{path: "/images/IMG_2882.jpeg", caption: ""}, {path: "images/IMG_2901_Original.jpeg", caption: ""}]} />
-    <ImageGroup images={[{path: "/images/PXL_20221127_175135918_Original.jpeg", caption: ""}]} />
 
     Most of the pictures featured here aren't mine and are actually taken by Fischer, Emma, and Chloe! The Heimburgers were awesome hosts, thanks for an amazing thanksgiving dinner!
+    
+    <ImageGroup images={[{path: "/images/PXL_20221127_175135918_Original.jpeg", caption: ""}]} />
   </Post>
 );
 
