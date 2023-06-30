@@ -19,6 +19,9 @@ export default function Adventures() {
             <Link href="/adventures/pat">Patagonia</Link>
           </li>
           <li>
+            <Link href="/adventures/utah-2">Slot Canyons (Utah Part 2)</Link>
+          </li>
+          <li>
             <Link href="/adventures/utah-1">Coyote Gulch (Utah Part 1)</Link>
           </li>
         </ul>
