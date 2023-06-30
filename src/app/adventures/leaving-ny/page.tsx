@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const Leaving = () => (
-  <Post title="Leaving New York" date="June 26, 2023" prev="/adventures/shasta">
+  <Post title="Leaving New York" date="June 26, 2023" prev="/adventures/shasta" next="/adventures/tmb-1">
     <ImageGroup images={[{path: "/images/IMG_3810.jpeg", caption: "Goodbye, Brooklyn."}]} />
 
     <p>In June I quit my job in California and decided to travel for a bit this summer.</p>
