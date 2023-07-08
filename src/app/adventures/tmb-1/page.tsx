@@ -30,6 +30,7 @@ const TMB = () => (
     Day 1 ended with 2000m of elevation gain and 23km traveled. The scenery today set the bar high for the next four days to come!
 
     <ImageGroup images={[{path: "/images/tmb/IMG_4008.jpeg", caption: ""}, {path: "/images/tmb/IMG_4033.jpeg", caption: ""}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_3976.jpeg", caption: ""}]} />
   </Post>
 );
 
