@@ -10,7 +10,10 @@ export default function Adventures() {
         <p>Trip reports from my hikes and travels. Newest first!</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
-            <Link href="/adventures/tmb-1">Tour du Mont Blanc Part 1</Link>
+            <Link href="/adventures/tmb-2">Tour du Mont Blanc Day 2</Link>
+          </li>
+          <li>
+            <Link href="/adventures/tmb-1">Tour du Mont Blanc Day 1</Link>
           </li>
           <li>
             <Link href="/adventures/leaving-ny">Leaving New York</Link>
