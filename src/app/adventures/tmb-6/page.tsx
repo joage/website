@@ -11,38 +11,23 @@ const TMB = () => (
 
     <ImageGroup images={[{path: "/images/tmb/IMG_3941.jpeg", caption: ""}, {path: "/images/tmb/IMG_3966.jpeg", caption: ""}]} />
 
-    <ImageGroup images={[{path: "/images/tmb/IMG_3972.jpeg", caption: "Day 1 picnic on a ridge in Italy: A Muller-Thurgau white wine from the Aosta valley, with smoked sprats, bread, prociutto, Fontina cheese also from Aosta"}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_3970.jpeg", caption: "Day 1 picnic on a ridge in Italy: A Muller-Thurgau white wine from the Aosta valley, with smoked sprats, bread, prociutto, Fontina cheese also from Aosta"}]} />
 
-    <ImageGroup images={[{path: "/images/tmb/IMG_4083.jpeg", caption: "Day 2 lunch in Switzerland: Gruyère, fresh bread, tomato, trout"}]} />
-
-    <ImageGroup images={[{path: "/images/tmb/IMG_4100.jpeg", caption: ""}]} />
-
-    <ImageGroup images={[{path: "/images/tmb/IMG_4105.jpeg", caption: ""}]} />
-
-    <ImageGroup images={[{path: "/images/tmb/IMG_4131.jpeg", caption: ""}]} />
-
-    <ImageGroup images={[{path: "/images/tmb/IMG_4185.jpeg", caption: ""}]} />
-
-    <ImageGroup images={[{path: "/images/tmb/IMG_4170.jpeg", caption: ""}]} />
-
-Day 3 Switzerland (Valais)
+    <ImageGroup images={[{path: "/images/tmb/IMG_4083.jpeg", caption: "Day 2 lunch in Switzerland: Gruyère, fresh bread, tomato, herring, more wine"}]} />
 
     <ImageGroup images={[{path: "/images/tmb/IMG_4807_Original.jpeg", caption: ""}]} />
 
-    <ImageGroup images={[{path: "/images/tmb/IMG_4829_Original.jpeg", caption: ""}]} />
-Day 4 France
+    <ImageGroup images={[{path: "/images/tmb/IMG_4100.jpeg", caption: ""}, {path: "/images/tmb/IMG_4829_Original.jpeg", caption: ""}]} />
 
-Day 5 France
+    <ImageGroup images={[{path: "/images/tmb/IMG_4131.jpeg", caption: "Day 3 lunch in Switzerland: Gamay red from Valais, sausage, baguette, bits of leftover cheese"}]} />
 
     <ImageGroup images={[{path: "/images/tmb/IMG_4307.jpeg", caption: ""}]} />
 
-    <ImageGroup images={[{path: "/images/tmb/IMG_4338.jpeg", caption: ""}]} />
-
-Jambon, miel de Savoie, no wine sadly
+    <ImageGroup images={[{path: "/images/tmb/IMG_4338.jpeg", caption: "France (Savoie department): Jambon, miel de Savoie, bread"}]} />
 
     <ImageGroup images={[{path: "/images/tmb/IMG_5064_Original.jpeg", caption: ""}]} />
     <ImageGroup images={[{path: "/images/tmb/IMG_5065_Original.jpeg", caption: ""}]} />
-    <ImageGroup images={[{path: "/images/tmb/IMG_5067_Original.jpeg", caption: ""}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_5067_Original.jpeg", caption: "France Part 2: Dinner at Refuge La Flegère"}]} />
 
     The wine tour of mont blanc was fun, and totally worth sacrificing one plastic smartwater bottle to carry wine up the mountain each day instead of water. After taking the bus and train from Chamonix to Geneva to Paris, I had a few days to rest up before embarking on my next mission in the south of France. Emma had to go back to work, so I will be solo for the rest of my time in Europe!
 
