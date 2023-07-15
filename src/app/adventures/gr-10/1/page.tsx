@@ -2,24 +2,29 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Rain! (GR 10 Day 1)" date="July 5, 2023" prev="/adventures/tmb-3" next="/adventures/tmb-5">
-    <ImageGroup images={[{path: "/images/tmb/IMG_4798_Original.jpeg", caption: ""}]} />
+  <Post title="Rain! (GR 10 Day 1)" date="July 11, 2023" prev="/adventures/tmb-6">
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4472.jpeg", caption: "Atlantic Ocean! Starting my 50 day trek to the Mediterranean Sea."}]} />
 
-    <p>Since yesterday was so long, today the goal was to chill and take the flatter of two routes to Trient. We left Champex in no rush, thinking it would be an easy day with not so much climbing. That plan quickly devolved when we came across the fork, and saw a huge guided group head the way we were planning to go. Emma and I discussed our options a bit and decided instead to go for the high route through the Fenêtre d’Arpette.</p>
+On July 10th I boarded my sleeper train at Gare d’Austerlitz in Paris. The TGV would have been a faster ride, but this train somehow only cost 19 Euro.
 
-    Today was one long climb. Emma and I were both excited for the refuge we booked for the night on top of a glacier, but first we had to do some route-finding to get out of Finhaut.
+After 14 hrs I arrived in Hendaye, a beach resort town by Spain where I would begin my attempt to thru-hike the GR 10 across the Pyrenees. As I dipped my feet in the sea, I was super excited to get started!
 
-Since todays route was not on the official Tour du Mont Blanc, we had to find our own way through the extensive network of trails up to the Col de Balme. Even though it was steep, I enjoyed the relative emptiness of this section compared to the highway that was the TMB.
+At around noon, I left Hendaye. Paved streets turned into dirt paths, then gentle forest trails. Moist is how I’d best describe the feeling during this part of the day but that was soon to change.
 
-Upon reaching Col de Balme, I had the most amazing omelette in the refuge—we were now in France!
+Passing the tiny town of Biriatou, I continued up the sides of larger and larger hills. Gradually, the humidity turned into real rain the higher I climbed. I went up and down a big ridge, but couldn’t see anything on either side.
 
-After lunch we had some more climbing to do, luckily the thunderstorm warnings went away. The last section of trail crossed boulder fields and patches of snow to reach Refuge Albert Premier.
+Suddenly a restaurant appeared out of the mist. I was in Spain, just along the border but they spoke French as well. I ordered a drink here and stayed a bit too long trying to get dry, only to go back out into the rain. 
 
-This was the first time we reached our destination relatively early, so we had plenty of time we didn’t know what to do with. Thankfully there were other people at the hut in the same boat so we talked to a hiker doing the Haute Route, some Belgian mountaineers, and a couple on their honeymoon.
+Past the Col d’Ibardin is where I made my mistake. My maps app showed a shortcut that would get me to Ohlette faster, so I decided to take it. This “trail” started out nice but turned into a longcut because of the intense bushwhack and steep decline, all in the worsening rain. 
 
-those are not paintings
+Puddles were forming everywhere, and pretty soon I was soaked through
 
-Super cool hut, really fun hike today. Day 4 ended with 13km and 1668m of elevation gained.
+When I made it to Ohlette, it was 8pm and I tried the first gîte I saw to see if I could pitch my tent there, or even sleep inside. Luckily for me the host was a nice man and he showed me his single-occupancy treehouse in the yard next to the chickens, and let me sleep in it for 10 euro. I cooked some dinner, hung up my dripping clothes, and went to bed.
+
+
+Day 1 was quite a start. I spent way too much time in Hendaye and at the cafe, so I got wet as a result. A lesson learned here is to not take alternate trails without checking the steepness!
+
+
   </Post>
 );
 
