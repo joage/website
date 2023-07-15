@@ -3,23 +3,50 @@ import Post from '@/components/Post';
 
 const TMB = () => (
   <Post title="Wine Tour du Mont Blanc" date="July 2023" prev="/adventures/tmb-5" next="/adventures/gr-10/1">
-    <ImageGroup images={[{path: "/images/tmb/IMG_4798_Original.jpeg", caption: ""}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_3972.jpeg", caption: ""}]} />
 
-    <p>Since yesterday was so long, today the goal was to chill and take the flatter of two routes to Trient. We left Champex in no rush, thinking it would be an easy day with not so much climbing. That plan quickly devolved when we came across the fork, and saw a huge guided group head the way we were planning to go. Emma and I discussed our options a bit and decided instead to go for the high route through the Fenêtre d’Arpette.</p>
+    <p>Day 6 was the uneventful hike down to the bus station so instead of writing about it I’ll focus on the food we ate during the entire trip.</p>
 
-    Today was one long climb. Emma and I were both excited for the refuge we booked for the night on top of a glacier, but first we had to do some route-finding to get out of Finhaut.
+    <p>Mont Blanc is not just about nature, its also about eating, drinking, and sampling the cuisine of 3 countries because you are never too far from a village with a food store. With the exception of Danish canned fish (from my 2 day layover in Copenhagen) and random junk food snacks, everything else we packed was local to the region we were in!</p>
 
-Since todays route was not on the official Tour du Mont Blanc, we had to find our own way through the extensive network of trails up to the Col de Balme. Even though it was steep, I enjoyed the relative emptiness of this section compared to the highway that was the TMB.
+    <ImageGroup images={[{path: "/images/tmb/IMG_3941.jpeg", caption: ""}, {path: "/images/tmb/IMG_3966.jpeg", caption: ""}]} />
 
-Upon reaching Col de Balme, I had the most amazing omelette in the refuge—we were now in France!
+    <ImageGroup images={[{path: "/images/tmb/IMG_3972.jpeg", caption: "Day 1 picnic on a ridge in Italy: A Muller-Thurgau white wine from the Aosta valley, with smoked sprats, bread, prociutto, Fontina cheese also from Aosta"}]} />
 
-After lunch we had some more climbing to do, luckily the thunderstorm warnings went away. The last section of trail crossed boulder fields and patches of snow to reach Refuge Albert Premier.
+    <ImageGroup images={[{path: "/images/tmb/IMG_4083.jpeg", caption: "Day 2 lunch in Switzerland: Gruyère, fresh bread, tomato, trout"}]} />
 
-This was the first time we reached our destination relatively early, so we had plenty of time we didn’t know what to do with. Thankfully there were other people at the hut in the same boat so we talked to a hiker doing the Haute Route, some Belgian mountaineers, and a couple on their honeymoon.
+    <ImageGroup images={[{path: "/images/tmb/IMG_4100.jpeg", caption: ""}]} />
 
-those are not paintings
+    <ImageGroup images={[{path: "/images/tmb/IMG_4105.jpeg", caption: ""}]} />
 
-Super cool hut, really fun hike today. Day 4 ended with 13km and 1668m of elevation gained.
+    <ImageGroup images={[{path: "/images/tmb/IMG_4131.jpeg", caption: ""}]} />
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4185.jpeg", caption: ""}]} />
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4170.jpeg", caption: ""}]} />
+
+Day 3 Switzerland (Valais)
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4807_Original.jpeg", caption: ""}]} />
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4829_Original.jpeg", caption: ""}]} />
+Day 4 France
+
+Day 5 France
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4307.jpeg", caption: ""}]} />
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4338.jpeg", caption: ""}]} />
+
+Jambon, miel de Savoie, no wine sadly
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_5064_Original.jpeg", caption: ""}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_5065_Original.jpeg", caption: ""}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_5067_Original.jpeg", caption: ""}]} />
+
+    The wine tour of mont blanc was fun, and totally worth sacrificing one plastic smartwater bottle to carry wine up the mountain each day instead of water. After taking the bus and train from Chamonix to Geneva to Paris, I had a few days to rest up before embarking on my next mission in the south of France. Emma had to go back to work, so I will be solo for the rest of my time in Europe!
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_5080_Original.jpeg", caption: ""}]} />
   </Post>
 );
 
