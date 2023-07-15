@@ -9,7 +9,12 @@ On July 10th I boarded my sleeper train at Gare d’Austerlitz in Paris. The TGV
 
 After 14 hrs I arrived in Hendaye, a beach resort town by Spain where I would begin my attempt to thru-hike the GR 10 across the Pyrenees. As I dipped my feet in the sea, I was super excited to get started!
 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4476.jpeg", caption: "Hendaye"}, {path: "/images/gr-10/IMG_4489.jpeg", caption: "Let's go!"}]} />
+
 At around noon, I left Hendaye. Paved streets turned into dirt paths, then gentle forest trails. Moist is how I’d best describe the feeling during this part of the day but that was soon to change.
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4485.jpeg", caption: ""}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4486.jpeg", caption: "Scenes from the Basque countryside"}]} />
 
 Passing the tiny town of Biriatou, I continued up the sides of larger and larger hills. Gradually, the humidity turned into real rain the higher I climbed. I went up and down a big ridge, but couldn’t see anything on either side.
 
