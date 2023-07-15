@@ -2,24 +2,40 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const TMB = () => (
-  <Post title="Goats and Lakes (TMB Day 5)" date="July 6, 2023" prev="/adventures/tmb-5" next="/adventures/tmb-6">
-    <ImageGroup images={[{path: "/images/tmb/IMG_4798_Original.jpeg", caption: ""}]} />
+  <Post title="Goats and Lakes (TMB Day 5)" date="July 6, 2023" prev="/adventures/tmb-4" next="/adventures/tmb-6">
+    <ImageGroup images={[{path: "/images/tmb/IMG_4382.jpeg", caption: "Goat"}]} />
 
-    <p>Since yesterday was so long, today the goal was to chill and take the flatter of two routes to Trient. We left Champex in no rush, thinking it would be an easy day with not so much climbing. That plan quickly devolved when we came across the fork, and saw a huge guided group head the way we were planning to go. Emma and I discussed our options a bit and decided instead to go for the high route through the Fenêtre d’Arpette.</p>
+    Today was special because we could see our destination from the start. Across the Chamonix valley from Refuge Albert Premier, I barely made out the speck of a cabin in the distance. It would take the entire day to reach it, going all the way down and all the way back up.
 
-    Today was one long climb. Emma and I were both excited for the refuge we booked for the night on top of a glacier, but first we had to do some route-finding to get out of Finhaut.
+    <ImageGroup images={[{path: "/images/tmb/IMG_4300.jpeg", caption: "Goat"}]} />
 
-Since todays route was not on the official Tour du Mont Blanc, we had to find our own way through the extensive network of trails up to the Col de Balme. Even though it was steep, I enjoyed the relative emptiness of this section compared to the highway that was the TMB.
+    <ImageGroup images={[{path: "/images/tmb/IMG_4988_Original.jpeg", caption: "Today had better weather!"}]} />
 
-Upon reaching Col de Balme, I had the most amazing omelette in the refuge—we were now in France!
+    <ImageGroup images={[{path: "/images/tmb/IMG_5003_Original.jpeg", caption: "To save our knees we cheated and took a ski lift down part of the descent instead of walking."}]} />
 
-After lunch we had some more climbing to do, luckily the thunderstorm warnings went away. The last section of trail crossed boulder fields and patches of snow to reach Refuge Albert Premier.
+    At Argentière we resupplied on food and continued up towards Lac Blanc. It was our final climb of the trip!
 
-This was the first time we reached our destination relatively early, so we had plenty of time we didn’t know what to do with. Thankfully there were other people at the hut in the same boat so we talked to a hiker doing the Haute Route, some Belgian mountaineers, and a couple on their honeymoon.
+    <ImageGroup images={[{path: "/images/tmb/IMG_4318.jpeg", caption: "Goat"}]} />
 
-those are not paintings
+    <ImageGroup images={[{path: "/images/tmb/IMG_4327.jpeg", caption: "Goat"}]} />
 
-Super cool hut, really fun hike today. Day 4 ended with 13km and 1668m of elevation gained.
+    At a junction we decided to take a longer route to see the Lacs de Cheserys, which was so worth it! Not sure why, but nobody really came to these lakes and I found them to be just as nice if not better than Lac Blanc.
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4351.jpeg", caption: "Goat"}]} />
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4352.jpeg", caption: "Goat"}]} />
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_5036_Original.jpeg", caption: "Lake where I went for a swim. It was cold"}]} />
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4369.jpeg", caption: "Goat"}]} />
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4378.jpeg", caption: "Goat"}]} />
+
+    Finally, we made our way down to Refuge La Flegère to another 3 course french meal. These huts make hiking so nice in Europe, its not fair. Tomorrow we hike out, and say goodbye to Chamonix!
+
+    <ImageGroup images={[{path: "/images/tmb/IMG_4391.jpeg", caption: "Nearing La Flegère"}]} />
+
+    Day 5 ended up being 18km and 1140m of elev. gain, 1530m of elev. loss.
   </Post>
 );
 
