@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const TMB = () => (
-  <Post title="Champex to Finhaut (TMB Day 3)" date="July 4, 2023" prev="/adventures/tmb-2">
+  <Post title="Champex to Finhaut (TMB Day 3)" date="July 4, 2023" prev="/adventures/tmb-2" next="/adventures/tmb-4">
     <ImageGroup images={[{path: "/images/tmb/IMG_4798_Original.jpeg", caption: ""}]} />
 
     <p>Since yesterday was so long, today the goal was to chill and take the flatter of two routes to Trient. We left Champex in no rush, thinking it would be an easy day with not so much climbing. That plan quickly devolved when we came across the fork, and saw a huge guided group head the way we were planning to go. Emma and I discussed our options a bit and decided instead to go for the high route through the Fenêtre d’Arpette.</p>
