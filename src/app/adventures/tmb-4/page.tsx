@@ -21,15 +21,15 @@ const TMB = () => (
 
     After lunch we had some more climbing to do, luckily the thunderstorm warnings went away. The last section of trail crossed boulder fields and patches of snow to reach Refuge Albert Premier.
 
-    <ImageGroup images={[{path: "/images/tmb/IMG_4249.jpeg", caption: "Climbing up to Albert Premier Refuge"}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_4249.jpeg", caption: ""}]} />
 
-    <ImageGroup images={[{path: "/images/tmb/IMG_4262.jpeg", caption: "Climbing up to Albert Premier Refuge"}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_4262.jpeg", caption: ""}]} />
 
-    <ImageGroup images={[{path: "/images/tmb/IMG_4278.jpeg", caption: "Climbing up to Albert Premier Refuge"}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_4278.jpeg", caption: "The refuge sits above a glacier"}]} />
 
     This was the first time we reached our destination relatively early, so we had plenty of time we didn’t know what to do with. Thankfully there were other people at the hut in the same boat so we talked to a hiker doing the Haute Route, some Belgian mountaineers, and a couple on their honeymoon.
 
-    <ImageGroup images={[{path: "/images/tmb/IMG_4963_Original.jpeg", caption: "Those are not paintings!"}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_4963_Original.jpeg", caption: "View from inside the hut. Those are not paintings!"}]} />
 
     Super cool hut, really fun hike today. Day 4 ended with 13km and 1668m of elevation gained.
   </Post>
