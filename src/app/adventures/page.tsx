@@ -11,7 +11,7 @@ export default function Adventures() {
         <p>2023:</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
-            <Link href="/adventures/gr10-1">GR 10 Day 1 - Rain!</Link>
+            <Link href="/adventures/gr-10/1">GR 10 Day 1 - Rain!</Link>
           </li>
           <li>
             <Link href="/adventures/tmb-6">Wine Tour du Mont Blanc</Link>
