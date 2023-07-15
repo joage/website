@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const TMB = () => (
-  <Post title="Entering Switzerland (TMB Day 2)" date="July 3, 2023" prev="/adventures/tmb-1">
+  <Post title="Entering Switzerland (TMB Day 2)" date="July 3, 2023" prev="/adventures/tmb-1" next="/adventures/tmb-3">
     <ImageGroup images={[{path: "/images/tmb/IMG_4066.jpeg", caption: "Cows of La Peule"}]} />
 
     It was a spectacularly clear morning at Rifugio Elena. After breakfast we began the steep ascent up to the Grand Col Ferret and into Switzerland, watching the valley below get smaller and smaller with each step we climbed.
