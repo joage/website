@@ -7,7 +7,7 @@ const Patagonia = () => (
 
     <p>Earlier this year I was given a somewhat unexpected opportunity to travel to Argentina for work. Knowing that the south of the country possessed beautiful mountains, I took up this offer excitedly in hopes of exploring them.</p>
 
-    <p>After a week of brutal late summer heat in Buenos Aires, Ayla and I stashed our laptops with a kind coworker and boarded a plane to chilly Bariloche. There was rain forecasted the entire time we were going to be there. As soon as we arrived, Ayla discovered she had gotten severe food poisoning. This set our hiking plans back one day, during which I sampled some local delicacies while she rested and made a miraculous recovery.</p>
+    <p>After a week of brutal late summer heat in Buenos Aires, Ayla and I stashed our laptops with a kind coworker and boarded a plane to chilly Bariloche. There was rain forecasted the entire time we were going to be there. As soon as we arrived, Ayla discovered she had gotten food poisoning. Amazingly, this only set our hiking plans back one day, during which I sampled some local delicacies while she rested and made a miraculous recovery.</p>
 
     Undeterred by this delay, we set off the next morning for the town of Villa Catedral. A missed bus ride and 10 km of road walking later, we arrived at the trailhead. The trail to Refugio Frey itself was very pretty. It carried us up the rolling hillsides, into a rainforest, and finally over the rocky ledges to Laguna Toncek. My pack felt noticeably lighter than what I was used to while backpacking in the states, because instead of carrying a tent we would sleep in refugios, alpine huts along the way.
 
