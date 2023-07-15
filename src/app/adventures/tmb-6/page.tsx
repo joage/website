@@ -29,7 +29,9 @@ const TMB = () => (
     <ImageGroup images={[{path: "/images/tmb/IMG_5065_Original.jpeg", caption: ""}]} />
     <ImageGroup images={[{path: "/images/tmb/IMG_5067_Original.jpeg", caption: "France Part 2: Dinner at Refuge La Flegère"}]} />
 
-    The wine tour of mont blanc was fun, and totally worth sacrificing one plastic smartwater bottle to carry wine up the mountain each day instead of water. After taking the bus and train from Chamonix to Geneva to Paris, I had a few days to rest up before embarking on my next mission in the south of France. Emma had to go back to work, so I will be solo for the rest of my time in Europe!
+    The wine tour of mont blanc was fun, and totally worth sacrificing one plastic smartwater bottle to carry wine up the mountain each day instead of water. 
+
+<p>After taking the bus and train from Chamonix to Geneva to Paris, I had a few days to rest up before embarking on my next hike in the south of France. Emma had to go back to work, so I will be solo for the rest of my time in Europe!</p>
 
     <ImageGroup images={[{path: "/images/tmb/IMG_5080_Original.jpeg", caption: ""}]} />
   </Post>
