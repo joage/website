@@ -9,7 +9,7 @@ const TMB = () => (
 
     The moment we entered the Val (valley) d’Arpette we knew that we had made the right move. Rising slowly at first through green meadows and pine forest, then sharply over rocky, snow-streaked terrain, this trail reminded me of the approaches to high peaks back home in California’s eastern sierra.
 
-    <ImageGroup images={[{path: "/images/tmb/IMG_4101.jpeg", caption: "Beginning the climb"}, {path: "/images/tmb/IMG_4105.jpeg", caption: ""}]} />
+    <ImageGroup images={[{path: "/images/tmb/IMG_4101.jpeg", caption: "Beginning the climb"}]} />
 
     <ImageGroup images={[{path: "/images/tmb/IMG_4102.jpeg", caption: "Val d'Arpette"}]} />
 
@@ -29,7 +29,7 @@ const TMB = () => (
 
     <ImageGroup images={[{path: "/images/tmb/IMG_4151.jpeg", caption: ""}]} />
 
-    <ImageGroup images={[{path: "/images/tmb/IMG_4154.jpeg", caption: ""}, {path: "images/tmb/IMG_4158.jpeg", caption: "Dunking our heads in the river provided nice relief from the harsh afternoon sun"}]} />
+    <ImageGroup images={[{path: "images/tmb/IMG_4158.jpeg", caption: "Dunking our heads in the river provided nice relief from the harsh afternoon sun"}]} />
 
     At around 5, we strolled into Trient but our day didn’t end there. Because of how late we had planned this trip we had to book a stay in the next town over in Le Châtelard - Finhaut. Feeling hungry and not wanting to wait for the bus to come at 7:30, we tried to hitch a ride by the road and were instantly picked up by a kind local. After he dropped us off in Le Châtelard we climbed the final 200m to our gîte for the night, hosted by a really nice lady, Jacqueline, who was retired and had 3 kittens. Dinner was family style and incredibly good—it was so worth the extra mileage to come here!
 
