@@ -35,9 +35,9 @@ Passing the tiny town of Biriatou, I continued up the sides of larger and larger
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4508.jpeg", caption: "Slept in the treehouse next to the chicken coop. Twas cozy"}]} />
 
-    Day 1 was quite the start. I spent way too much time in Hendaye and at the cafe, so I got wet as a result. Hope day 2 gives me some better weather!
+    Day 1 was quite the start. I spent way too much time in Hendaye and at the cafe, so I got wet as a result. Hope day 2 brings some better weather!
 
-<p>Hendaye to Ohlette: 28.84km and 975m of elev. gain</p>
+<p>Hendaye to Ohlette: 28.84km and 975m of elevation gained.</p>
   </Post>
 );
 
