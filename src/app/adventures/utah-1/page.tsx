@@ -39,7 +39,7 @@ const Coyote = () => (
 
     <ImageGroup images={[{path: "/images/PXL_20221122_230015239_Original.jpeg", caption: "Approaching the exit. The canyon was super deep here"}]} />
 
-    At Jacob Hamblin, we once again made use of Fischer’s rope in order to exit the Gulch. Although no particular move was required it, having the security of a rope in hand made the slabby exit a lot more fun. 
+    At Jacob Hamblin, we once again made use of Fischer’s rope in order to exit the Gulch. Although no particular move required it, having the security of a rope in hand made the slabby exit a lot more fun. 
 
     <ImageGroup images={[{path: "/images/PXL_20221122_235632254_Original.jpeg", caption: "Coyote Gulch Exit"}]} />
 
