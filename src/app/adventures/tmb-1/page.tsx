@@ -5,7 +5,7 @@ const TMB = () => (
   <Post title="Courmayeur (TMB Day 1)" date="July 2, 2023" prev="/adventures/leaving-ny" next="/adventures/tmb-2">
     <ImageGroup images={[{path: "/images/tmb/IMG_3993.jpeg", caption: "High point of the day!"}]} />
 
-    <p>On July 1st Emma and I met up in Geneva. From here we boarded a bus to Courmayeur, Italy to begin our Tour du Mont Blanc half circuit. Over the next 5 days we would traverse alpine terrain across 3 countries, staying in huts and hostels along the way, before arriving in Chamonix, France. Manifesting good weather, food, and company, we both had high hopes for an epic European adventure.</p>
+    <p>On July 1st my friend Emma and I met up in Geneva. From here we boarded a bus to Courmayeur, Italy to begin our Tour du Mont Blanc half circuit. Over the next 5 days we would traverse alpine terrain across 3 countries, staying in huts and hostels along the way, before arriving in Chamonix, France. Manifesting good weather, food, and company, we both had high hopes for an epic European adventure.</p>
 
     <ImageGroup images={[{path: "/images/tmb/IMG_3947.jpeg", caption: "Leaving Courmayeur"}]} />
 
