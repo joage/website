@@ -7,7 +7,7 @@ const GR = () => (
 
     The day started with a climb to a small Col, where I suddenly heard voices yelling. When I got closer it turned out there was a mountain railroad carrying people up to La Rhûne, a 900m peak. Since it was cloudy and my left foot still felt sore from the TMB, I elected to not climb La Rhûne and just make it to Sare as quickly as possible.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4526.jpeg", caption: "Seeing this kind of diminished my sense of accomplishment after the morning climb"}]} />
+<ImageGroup images={[{path: "/images/gr-10/IMG_4526.jpeg", caption: "Seeing this railroad kind of diminished my sense of accomplishment after hiking up to get here"}]} />
 
 At Sare I had a big meal to make up for my hasty dinner last night. I thought Sare was a touristy town but nothing would prepare me for the touristyness in Ainhoa, where I was headed.
 
@@ -29,7 +29,9 @@ The final climb was super hot, and no trees offered me shade. When i made it to 
 
 The view of Ainhoa and La Rhûne was great here, and I could finally see come far I walked today. Sheep’s bells lulled me to sleep.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4558.jpeg", caption: "First sunset of the trip!"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4558.jpeg", caption: "First sunset of the trip! Weather was kind to me today"}]} />
+
+Ohlette to a bit after Ainhoa - 24.4km and 1091m gained.
   </Post>
 );
 
