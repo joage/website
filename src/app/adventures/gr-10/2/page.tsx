@@ -7,7 +7,7 @@ const GR = () => (
 
     The day started with a climb to a small Col, where I suddenly heard voices yelling. When I got closer it turned out there was a mountain railroad carrying people up to La Rhûne, a 900m peak. Since it was cloudy and my left foot still felt sore from the TMB, I elected to not climb La Rhûne and just make it to Sare as quickly as possible.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4526.jpeg", caption: "Mountain railroad"}]} />
+<ImageGroup images={[{path: "/images/gr-10/IMG_4526.jpeg", caption: "Seeing this kind of diminished my sense of accomplishment after the morning climb"}]} />
 
 At Sare I had a big meal to make up for my hasty dinner last night. I thought Sare was a touristy town but nothing would prepare me for the touristyness in Ainhoa, where I was headed.
 
