@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Rain! (GR 10 Day 1)" date="July 11, 2023" prev="/adventures/tmb-6">
+  <Post title="Rain! (GR 10 Day 1)" date="July 11, 2023" prev="/adventures/tmb-6" next="/adventures/gr-10/2">
     <ImageGroup images={[{path: "/images/gr-10/IMG_4472.jpeg", caption: "Atlantic Ocean! Starting my 50 day journey to the Mediterranean Sea."}]} />
 
     On July 10th I boarded a sleeper train at Gare d’Austerlitz in Paris. The TGV would have been a faster ride, but this train somehow only cost 19 Euro.

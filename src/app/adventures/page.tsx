@@ -11,6 +11,9 @@ export default function Adventures() {
         <p>2023:</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
+            <Link href="/adventures/gr-10/2">GR 10 Day 2 - Ainhoa</Link>
+          </li>
+          <li>
             <Link href="/adventures/gr-10/1">GR 10 Day 1 - Rain!</Link>
           </li>
           <li>
