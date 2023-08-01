@@ -11,14 +11,13 @@ The HRP continued to be spectacular. Rising above the clouds this morning we cou
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4757.jpeg", caption: "Tania climbs out of the clouds, with Pic d'Orhi behind her"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4771.jpeg", caption: "Weather changes rapidly here"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4771.jpeg", caption: "Dont know the name of this peak"}]} />
 
-After a good climb and descent, we had a snack in the Refugio Belagua in Spain.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4772.jpeg", caption: "Clouds from France spill over into Spain. Weather changes rapidly here"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4772.jpeg", caption: "On Tania’s recommendation I tried chistorra, a Navarre/Basque sausage."}]} />
+After a good climb and descent, we had a snack in the Refugio Belagua. On Tania’s recommendation I tried chistorra, a Navarre/Basque sausage.
 
-In the afternoon, we road walked the last 10km of the day. It was a bit sad to say goodbye to Basque Country, but we were now entering the High/Haute Pyrénées! 
-
+    <p>In the afternoon, we road walked the last 10km of the day. It was a bit sad to say goodbye to Basque Country, but we were now entering the High/Haute Pyrénées!</p>
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4778.jpeg", caption: "Limestone karst scenery during the road walk"}]} />
 
