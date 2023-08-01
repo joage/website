@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Ainhoa (GR 10 Day 2)" date="July 12, 2023" prev="/adventures/gr-10/1">
+  <Post title="Ainhoa (GR 10 Day 2)" date="July 12, 2023" prev="/adventures/gr-10/1" next="/adventures/gr-10/3">
     <ImageGroup images={[{path: "/images/gr-10/IMG_4521.jpeg", caption: "Day 2 comes with views"}]} />
 
     The day started with a climb to a small Col, where I suddenly heard voices yelling. When I got closer it turned out there was a mountain railroad carrying people up to La Rhûne, a 900m peak. Since it was cloudy and my left foot still felt sore from the TMB, I elected to not climb La Rhûne and just make it to Sare as quickly as possible.

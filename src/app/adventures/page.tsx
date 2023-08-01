@@ -11,6 +11,33 @@ export default function Adventures() {
         <p>2023:</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
+            <Link href="/adventures/gr-10/11">HRP Day 11 - Lescun</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/10">HRP Day 10 - Pic d'Anie</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/9">HRP Day 9 - Leaving Basque Country</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/8">HRP Day 8 - Pic d'Orhi</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/7">GR 10 Day 7 - Cheese</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/6">GR 10 Day 6 - Easy day</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/5">GR 10 Day 5 - Saint-Jean-Pied-de-Port</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/4">GR 10 Day 4 - Ridge walk</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/3">GR 10 Day 3 - Bidarray</Link>
+          </li>
+          <li>
             <Link href="/adventures/gr-10/2">GR 10 Day 2 - Ainhoa</Link>
           </li>
           <li>
