@@ -2,36 +2,38 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Ainhoa (GR 10 Day 2)" date="July 12, 2023" prev="/adventures/gr-10/1">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4521.jpeg", caption: "Day 2 comes with views"}]} />
+  <Post title="Pic d'Orhi (GR 10 Day 8)" date="July 18, 2023" prev="/adventures/gr-10/7" next="/adventures/gr-10/9">
+    <ImageGroup images={[{path: "/images/gr-10/IMG_0311.jpeg", caption: "On the approach, Orhi is the thumb shaped peak in the back"}]} />
 
-    The day started with a climb to a small Col, where I suddenly heard voices yelling. When I got closer it turned out there was a mountain railroad carrying people up to La Rhûne, a 900m peak. Since it was cloudy and my left foot still felt sore from the TMB, I elected to not climb La Rhûne and just make it to Sare as quickly as possible.
+    Last night Tristan and Tania asked me if I wanted to climb the Pic d’Orhi, the first 2000m peak in the Pyrénées. I said yes, so today I left the GR 10 temporarily to do the HRP (Haute Route Pyrénées). The HRP is a trail which runs parallel to the GR 10 but stays at higher elevations and involves some route-finding.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4526.jpeg", caption: "Seeing this railroad kind of diminished my sense of accomplishment after hiking up to get here"}]} />
+<p>We left Iraty after a big breakfast and headed up the first col. Pic d’Orhi stood high above us, and we forged ahead despite the strong winds.</p>
 
-At Sare I had a big meal to make up for my hasty dinner last night. I thought Sare was a touristy town but nothing would prepare me for the touristyness in Ainhoa, where I was headed.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4722.jpeg", caption: "On the approach, Orhi is the thumb shaped peak in the back"}]} />
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4530.jpeg", caption: "Trying a Gâteau Basque, a custard filled pastry"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4727.jpeg", caption: "Different scenery at higher altitude"}]} />
 
-The path to Ainhoa followed rural roads where little kids rode bikes, then dipped into ravines where streams separated farmers fields.
+The 700m climb was a test of our ability in both navigation and physical endurance, so it served as a good indicator of whether we were ready for further segments of the HRP. This morning my legs struggled with a lack of energy, but seeing my friends ahead of me was good motivation to continue up the steep slope.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4537.jpeg", caption: "Walking towards Ainhoa, La Rhûne now visible behind me"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_0298.jpeg", caption: "Me struggling up the hill"}]} />
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4539.jpeg", caption: "Super straight road formed the border between France and Spain"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4730.jpeg", caption: "Traversing the ridgeline"}]} />
 
-  Walking into Ainhoa on the main road felt a bit like disneyland. The houses were painted uniformly and nobody looked local. The lady at the tourism office told me there are no grocery shops or even stores, other than Basque gift shops, in town. I got a quick bite to eat at a restaurant, prepared myself to potentially stealth camp tonight, then left once again for the mountains.
+A few final ups and downs later, we made it to the summit of Orhi. 
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4546.jpeg", caption: "Ainhoa"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4733.jpeg", caption: "Pic d'Orhi, 2017m"}]} />
 
-The final climb was super hot, and no trees offered me shade. When i made it to the church where I planned to pitch my tent I was relieved to see 4-5 other tents already set up, so apparently camping was allowed here. There was even a trash bin and a drinking water fountain.
+At the summit we met some Swiss HRP hikers who let us peek at their guidebook. Feeling stoked to stay high above the cloudy weather, we made the decision after some deliberation to continue on the HRP rather than descending into Larrau as originally planned.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4553.jpeg", caption: "Chappelle Notre Dame de l’Aubépine, my campsite"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_0311.jpeg", caption: "Enjoying the views on the high route"}]} />
 
-The view of Ainhoa and La Rhûne was great here, and I could finally see come far I walked today. Sheep’s bells lulled me to sleep.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4741.jpeg", caption: "Horses along the border fence"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4558.jpeg", caption: "First sunset of the trip! Weather was kind to me today"}]} />
+The final 5km road walk took us to Cabane d’Ardane, an unstaffed shepherd’s hut (bothy) where we met a friendly family cooking dinner, and some fellow campers. Here we set up our tents, and fell asleep instantly after dinner, tired from a long day of trekking and exposure.
 
-Ohlette to a bit after Ainhoa - 24.4km and 1091m gained.
+<p>Today was such an interesting day! The HRP came furnished with epic vistas, dramatic weather, more athletic company, and a sense of wilderness that I had not yet experienced on the GR 10. Excited to continue on the high route!</p>
+
+Chalets d'Iraty to Cabane d'Ardane - 21.20km and 1254m gained.
   </Post>
 );
 
