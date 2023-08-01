@@ -19,7 +19,7 @@ const GR = () => (
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4872.jpeg", caption: "Crottin de brebis (cheese)"}]} />
 
-    I spent the day hanging out with some Thomas, Claudia, and Leo. I also got rid of some of unnecessary weight, refilled on food, and had two delicious sit-down meals. Tomorrow I begin the most spectacular section of the HRP!
+    I spent the day hanging out with Thomas, Claudia, and Leo. I also got rid of some of unnecessary weight, refilled on food, and had two delicious sit-down meals. Tomorrow I begin the most spectacular section of the HRP!
 
     <p>Cabane d'Ardinet to Lescun - 9.01km and 82m gained.</p>
   </Post>
