@@ -2,36 +2,34 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Ainhoa (GR 10 Day 2)" date="July 12, 2023" prev="/adventures/gr-10/1">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4521.jpeg", caption: "Day 2 comes with views"}]} />
+  <Post title="Bidarray (GR 10 Day 3)" date="July 13, 2023" prev="/adventures/gr-10/2" next="/adventures/gr-10/4">
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4575.jpeg", caption: "Farm life"}]} />
 
-    The day started with a climb to a small Col, where I suddenly heard voices yelling. When I got closer it turned out there was a mountain railroad carrying people up to La Rhûne, a 900m peak. Since it was cloudy and my left foot still felt sore from the TMB, I elected to not climb La Rhûne and just make it to Sare as quickly as possible.
+    Day 3 began with an easy traverse to Col des Veaux where I planned to eat lunch at a restaurant in Spain right across the border. Low hanging clouds obscured the views during my walk.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4526.jpeg", caption: "Seeing this railroad kind of diminished my sense of accomplishment after hiking up to get here"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4564.jpeg", caption: "Foresty morning walk"}]} />
 
-At Sare I had a big meal to make up for my hasty dinner last night. I thought Sare was a touristy town but nothing would prepare me for the touristyness in Ainhoa, where I was headed.
+    Arriving at the restaurant Venta Burkaitz, I found out they didnt open until noon and I was an hour early. Not keen on waiting, I continued on and ate my own lunch, my last can of Danish fish with some bread, at the next Col.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4530.jpeg", caption: "Trying a Gâteau Basque, a custard filled pastry"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4570".jpeg", caption: "Lunch at Mehatseko Lepoa"}]} />
 
-The path to Ainhoa followed rural roads where little kids rode bikes, then dipped into ravines where streams separated farmers fields.
+    The descent to Bidarray was simple because I met a father-son duo from Angers who told me to take the easy way instead of the steep way the guidebook recommends. My legs thanked them for the tip. When we reached town the same duo nicely offered me a beer at the bar-restaurant, which I enjoyed while I waited for the grocery store to reopen after their siesta.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4537.jpeg", caption: "Walking towards Ainhoa, La Rhûne now visible behind me"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4572".jpeg", caption: "Gentle track leading to Bidarray"}]} />
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4539.jpeg", caption: "Super straight road formed the border between France and Spain"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4578".jpeg", caption: "Approaching town"}]} />
 
-  Walking into Ainhoa on the main road felt a bit like disneyland. The houses were painted uniformly and nobody looked local. The lady at the tourism office told me there are no grocery shops or even stores, other than Basque gift shops, in town. I got a quick bite to eat at a restaurant, prepared myself to potentially stealth camp tonight, then left once again for the mountains.
+    Once resupplied, I began the final climb of the day, a big one. Some guy I met said they were going to camp at pic d’Iparla around 1000m. I thought that was a crazy but fun idea, so I tried to see how far up I could get before it got too windy.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4546.jpeg", caption: "Ainhoa"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4582".jpeg", caption: "A hot and sweaty type of climb"}]} />
 
-The final climb was super hot, and no trees offered me shade. When i made it to the church where I planned to pitch my tent I was relieved to see 4-5 other tents already set up, so apparently camping was allowed here. There was even a trash bin and a drinking water fountain.
+    I made it to 800m elevation before selecting a spot to pitch my tent. Other than the abundant sheep droppings, this was a great campsite—on a ridge, with a fabulous sunset, better than yesterday’s. So far, the GR 10 does not disappoint, especially with camping!
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4553.jpeg", caption: "Chappelle Notre Dame de l’Aubépine, my campsite"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4602".jpeg", caption: "Camping on a ridge!"}]} />
 
-The view of Ainhoa and La Rhûne was great here, and I could finally see come far I walked today. Sheep’s bells lulled me to sleep.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4607".jpeg", caption: "Day 3 in the books"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4558.jpeg", caption: "First sunset of the trip! Weather was kind to me today"}]} />
-
-Ohlette to a bit after Ainhoa - 24.4km and 1091m gained.
+   A bit after Ainhoa to Crête d'Iparla - 23.8km and 1347m gained.
   </Post>
 );
 
