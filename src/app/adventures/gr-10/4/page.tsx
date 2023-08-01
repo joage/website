@@ -2,36 +2,30 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Ainhoa (GR 10 Day 2)" date="July 12, 2023" prev="/adventures/gr-10/1">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4521.jpeg", caption: "Day 2 comes with views"}]} />
+  <Post title="Ridge walk (GR 10 Day 4)" date="July 14, 2023" prev="/adventures/gr-10/3" next="/adventures/gr-10/5">
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4615.jpeg", caption: "Crête d'Iparla"}]} />
 
-    The day started with a climb to a small Col, where I suddenly heard voices yelling. When I got closer it turned out there was a mountain railroad carrying people up to La Rhûne, a 900m peak. Since it was cloudy and my left foot still felt sore from the TMB, I elected to not climb La Rhûne and just make it to Sare as quickly as possible.
+    <p>Last night from my campsite I could hear the village down below partying until 4am, quite the surreal experience being 800m above on a ridge.</p>
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4526.jpeg", caption: "Seeing this railroad kind of diminished my sense of accomplishment after hiking up to get here"}]} />
+    Today was a day of extreme weather. Strong winds in the morning made it super difficult to walk—I tried to compensate but suddenly a gust in the other direction would mess me up. Nonetheless the skies were stunningly clear and the higher I got on the ridge the further I could see. Catching a glimpse of the high Pyrénées peaks far in the distance gave me a rush of adrenaline-I would be arriving there in a week!
 
-At Sare I had a big meal to make up for my hasty dinner last night. I thought Sare was a touristy town but nothing would prepare me for the touristyness in Ainhoa, where I was headed.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4618.jpeg", caption: "Pic d'Iparla, first 1000m peak of the trail"}]} />
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4530.jpeg", caption: "Trying a Gâteau Basque, a custard filled pastry"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4629.jpeg", caption: "Moment of shade after being exposed on the ridge"}]} />
 
-The path to Ainhoa followed rural roads where little kids rode bikes, then dipped into ravines where streams separated farmers fields.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4640.jpeg", caption: "Pic Buztanzelai"}]} />
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4537.jpeg", caption: "Walking towards Ainhoa, La Rhûne now visible behind me"}]} />
+The descent into Saint-Étienne felt like slowly entering an oven. As the winds died, the heat became unbearable and it got up to 97 degrees in the valley. I tried to go as fast as possible, because there was no shade of course.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4539.jpeg", caption: "Super straight road formed the border between France and Spain"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4641.jpeg", caption: "Such a clear day, but hot"}]} />
 
-  Walking into Ainhoa on the main road felt a bit like disneyland. The houses were painted uniformly and nobody looked local. The lady at the tourism office told me there are no grocery shops or even stores, other than Basque gift shops, in town. I got a quick bite to eat at a restaurant, prepared myself to potentially stealth camp tonight, then left once again for the mountains.
+Making it into town I searched for the nearest cold glass of soda. At the café, everyone around me was having a steak frites, so I got one as well. Everything else in town was closed due to the holiday so there really was nothing to do, and it was also too hot to hike onward. Lying down at a park later to cook down, I met a Dutch backpacker who walked all the way from Holland, taking 3 whole months, yet she still had one more month to go in her trek to Santiago.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4546.jpeg", caption: "Ainhoa"}]} />
+As i debated whether to keep going today, I saw people jumping into the river. That seemed like a much more suitable activity than hiking in the intense heat, so I decided to end my day here, camp in the town campground, and go for a swim.
 
-The final climb was super hot, and no trees offered me shade. When i made it to the church where I planned to pitch my tent I was relieved to see 4-5 other tents already set up, so apparently camping was allowed here. There was even a trash bin and a drinking water fountain.
+The evening ended with a thunderstorm and a rainbow, and finally it was cool enough to sleep. Tomorrow should be a chill day as well. I booked a hostel in Saint Jean Pied de Port, so I’m excited to chill out, not camp, and take my first shower since Paris!
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4553.jpeg", caption: "Chappelle Notre Dame de l’Aubépine, my campsite"}]} />
-
-The view of Ainhoa and La Rhûne was great here, and I could finally see come far I walked today. Sheep’s bells lulled me to sleep.
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4558.jpeg", caption: "First sunset of the trip! Weather was kind to me today"}]} />
-
-Ohlette to a bit after Ainhoa - 24.4km and 1091m gained.
+Crête d'Iparla to Saint-Étienne-de-Baïgorry - 17.48km and 730m gained.
   </Post>
 );
 
