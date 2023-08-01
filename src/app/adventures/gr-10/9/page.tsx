@@ -2,36 +2,31 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Ainhoa (GR 10 Day 2)" date="July 12, 2023" prev="/adventures/gr-10/1">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4521.jpeg", caption: "Day 2 comes with views"}]} />
+  <Post title="Leaving Basque Country (HRP Day 9)" date="July 19, 2023" prev="/adventures/gr-10/8" next="/adventures/gr-10/10">
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4766.jpeg", caption: "Staying high up"}]} />
 
-    The day started with a climb to a small Col, where I suddenly heard voices yelling. When I got closer it turned out there was a mountain railroad carrying people up to La Rhûne, a 900m peak. Since it was cloudy and my left foot still felt sore from the TMB, I elected to not climb La Rhûne and just make it to Sare as quickly as possible.
+    <p>Today we continued on the HRP. It was a day of bipolar weather, walking along the ridge, or crête, which formed the border between France and Spain. Each time we entered Spain it was sunny and hot, but when we crossed back into France, the sun disappeared, we cooled down and had no visibility.</p>
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4526.jpeg", caption: "Seeing this railroad kind of diminished my sense of accomplishment after hiking up to get here"}]} />
+The HRP continued to be spectacular. Rising above the clouds this morning we could see the mountains all around us, and the Pic d’Orhi from yesterday in the background.
 
-At Sare I had a big meal to make up for my hasty dinner last night. I thought Sare was a touristy town but nothing would prepare me for the touristyness in Ainhoa, where I was headed.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4757.jpeg", caption: "Tania climbs out of the clouds, with Pic d'Orhi behind her"}]} />
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4530.jpeg", caption: "Trying a Gâteau Basque, a custard filled pastry"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4771.jpeg", caption: "Weather changes rapidly here"}]} />
 
-The path to Ainhoa followed rural roads where little kids rode bikes, then dipped into ravines where streams separated farmers fields.
+After a good climb and descent, we had a snack in the Refugio Belagua in Spain.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4537.jpeg", caption: "Walking towards Ainhoa, La Rhûne now visible behind me"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4772.jpeg", caption: "On Tania’s recommendation I tried chistorra, a Navarre/Basque sausage."}]} />
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4539.jpeg", caption: "Super straight road formed the border between France and Spain"}]} />
+In the afternoon, we road walked the last 10km of the day. It was a bit sad to say goodbye to Basque Country, but we were now entering the High/Haute Pyrénées! 
 
-  Walking into Ainhoa on the main road felt a bit like disneyland. The houses were painted uniformly and nobody looked local. The lady at the tourism office told me there are no grocery shops or even stores, other than Basque gift shops, in town. I got a quick bite to eat at a restaurant, prepared myself to potentially stealth camp tonight, then left once again for the mountains.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4546.jpeg", caption: "Ainhoa"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4778.jpeg", caption: "Limestone karst scenery during the road walk"}]} />
 
-The final climb was super hot, and no trees offered me shade. When i made it to the church where I planned to pitch my tent I was relieved to see 4-5 other tents already set up, so apparently camping was allowed here. There was even a trash bin and a drinking water fountain.
+Before arriving in Refuge Jeandel in La Pierre Saint Martin, a ski resort, I met some hikers who were a day ahead of us on the GR 10. By taking the high route, we had skipped one day of the GR 10 so new faces were abundant tonight. I had dinner in the refuge, and pitched my tent in the front yard.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4553.jpeg", caption: "Chappelle Notre Dame de l’Aubépine, my campsite"}]} />
+<p>Tomorrow will be a big day, I’m planning to tag the Pic d’Anie (2500m) on the way to Lescun if the weather holds.</p>
 
-The view of Ainhoa and La Rhûne was great here, and I could finally see come far I walked today. Sheep’s bells lulled me to sleep.
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4558.jpeg", caption: "First sunset of the trip! Weather was kind to me today"}]} />
-
-Ohlette to a bit after Ainhoa - 24.4km and 1091m gained.
+Cabane d'Ardane to Refuge Jeandel - 22.40km and 1070m gained.
   </Post>
 );
 
