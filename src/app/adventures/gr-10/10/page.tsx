@@ -33,7 +33,7 @@ After I descended 1000m, I passed the first cabane which was occupied by a sheph
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4845.jpeg", caption: "Met two of these at Cabane d'Ardinet!"}]} />
 
-Ohlette to a bit after Ainhoa - 24.4km and 1091m gained.
+Refuge Jeandel to Pic d'Anie to Cabane d'Ardinet - 15.00km and 1280m gained.
   </Post>
 );
 
