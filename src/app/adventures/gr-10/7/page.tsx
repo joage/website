@@ -2,34 +2,29 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Ainhoa (GR 10 Day 2)" date="July 12, 2023" prev="/adventures/gr-10/1">
+  <Post title="Cheese (GR 10 Day 7)" date="July 17, 2023" prev="/adventures/gr-10/6" next="/adventures/gr-10/8">
     <ImageGroup images={[{path: "/images/gr-10/IMG_4521.jpeg", caption: "Day 2 comes with views"}]} />
 
-    The day started with a climb to a small Col, where I suddenly heard voices yelling. When I got closer it turned out there was a mountain railroad carrying people up to La Rhûne, a 900m peak. Since it was cloudy and my left foot still felt sore from the TMB, I elected to not climb La Rhûne and just make it to Sare as quickly as possible.
+Today’s highlight was meeting a shepherd at Col d’Irau.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4526.jpeg", caption: "Seeing this railroad kind of diminished my sense of accomplishment after hiking up to get here"}]} />
+From my bivy site I started the morning’s climb without eating much breakfast, so by the time I made it to Col d’Irau I was pretty hungry. I saw a cheese shop on my map earlier, and here in front of me a large sign with a sheep on it confirmed this. 
 
-At Sare I had a big meal to make up for my hasty dinner last night. I thought Sare was a touristy town but nothing would prepare me for the touristyness in Ainhoa, where I was headed.
+Following the sign, I ran into a couple doing the GR 10 whom I’d met 2 days earlier, so I asked them if they were interested in my plans to get cheese. We approached the little house together, and rang the bell. Out came Charles, the shepherd who was a bit surprised to see us. Apparently he had not gotten too many visitors this summer.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4530.jpeg", caption: "Trying a Gâteau Basque, a custard filled pastry"}]} />
+Luckily Tristan and Tania were with me because I could not understand a word of the shepherd’s Basque-accented French. We tasted and bought some of his sheep’s cheese, which was one of the best I’ve had.
 
-The path to Ainhoa followed rural roads where little kids rode bikes, then dipped into ravines where streams separated farmers fields.
+The shepherd then invited us into his kitchen for some coffee, and we obliged. 
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4537.jpeg", caption: "Walking towards Ainhoa, La Rhûne now visible behind me"}]} />
+The rest of the day’s hike was rather uninteresting, but I was already super satisfied with the morning’s events. At the Pic d’Occabé I parted ways with Tristan and Tania and went on ahead towards Iraty. 
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4539.jpeg", caption: "Super straight road formed the border between France and Spain"}]} />
 
-  Walking into Ainhoa on the main road felt a bit like disneyland. The houses were painted uniformly and nobody looked local. The lady at the tourism office told me there are no grocery shops or even stores, other than Basque gift shops, in town. I got a quick bite to eat at a restaurant, prepared myself to potentially stealth camp tonight, then left once again for the mountains.
+The trail meanders through the wooded hillsides of the Forêt d’Iraty
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4546.jpeg", caption: "Ainhoa"}]} />
+On this way there I discovered that camping options were not ideal, so I called the Chalets d’Iraty to book a stay inside the gîte. It cost only 15 euro, and as it turned out, it was of the nicest, most spacious gîtes I’ve stayed in thus far!
 
-The final climb was super hot, and no trees offered me shade. When i made it to the church where I planned to pitch my tent I was relieved to see 4-5 other tents already set up, so apparently camping was allowed here. There was even a trash bin and a drinking water fountain.
+If you are ever at the Col d’Irau, go and buy some cheese from this lovely man!
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4553.jpeg", caption: "Chappelle Notre Dame de l’Aubépine, my campsite"}]} />
-
-The view of Ainhoa and La Rhûne was great here, and I could finally see come far I walked today. Sheep’s bells lulled me to sleep.
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4558.jpeg", caption: "First sunset of the trip! Weather was kind to me today"}]} />
+I had a meal in the restaurant with some fellow hikers, my first sit down dinner of the trip so far!
 
 Ohlette to a bit after Ainhoa - 24.4km and 1091m gained.
   </Post>
