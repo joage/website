@@ -9,8 +9,6 @@ const GR = () => (
 
     <p>Today would be an easy day, with the destination being Kaskoleta, a rural gîte on a hill.</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4683.jpeg", caption: "Lunch at Esterençuby"}]} />
-
 Everything went according to plan, and the walk was so pleasant and chill that I made it to Kaskoleta after only 4 hours including lunch.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4685.jpeg", caption: "Lunch at Esterençuby"}]} />
