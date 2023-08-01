@@ -19,13 +19,13 @@ The descent into Saint-Étienne felt like slowly entering an oven. As the winds 
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4641.jpeg", caption: "Such a clear day, but hot"}]} />
 
-Making it into town I searched for the nearest cold glass of soda. At the café, everyone around me was having a steak frites, so I got one as well. Everything else in town was closed due to the holiday so there really was nothing to do, and it was also too hot to hike onward. Lying down at a park later to cook down, I met a Dutch backpacker who walked all the way from Holland, taking 3 whole months, yet she still had one more month to go in her trek to Santiago.
+    Making it into town I searched for the nearest cold glass of soda. At the café, everyone around me was having a steak frites, so I got one as well. Everything else in town was closed due to the holiday so there really was nothing to do, and it was also too hot to hike onward. Lying down at a park later to cook down, I met a Dutch backpacker who walked all the way from Holland, taking 3 whole months, yet she still had one more month to go in her trek to Santiago.
 
-As i debated whether to keep going today, I saw people jumping into the river. That seemed like a much more suitable activity than hiking in the intense heat, so I decided to end my day here, camp in the town campground, and go for a swim.
+    <p>As i debated whether to keep going today, I saw people jumping into the river. That seemed like a much more suitable activity than hiking in the intense heat, so I decided to end my day here, camp in the town campground, and go for a swim.</p>
 
-The evening ended with a thunderstorm and a rainbow, and finally it was cool enough to sleep. Tomorrow should be a chill day as well. I booked a hostel in Saint Jean Pied de Port, so I’m excited to chill out, not camp, and take my first shower since Paris!
+    The evening ended with a thunderstorm and a rainbow, and finally it was cool enough to sleep. Tomorrow should be a chill day as well. I booked a hostel in Saint Jean Pied de Port, so I’m excited to chill out, not camp, and take my first shower since Paris!
 
-Crête d'Iparla to Saint-Étienne-de-Baïgorry - 17.48km and 730m gained.
+    <p>Crête d'Iparla to Saint-Étienne-de-Baïgorry - 17.48km and 730m gained. Happy Bastille Day!</p>
   </Post>
 );
 
