@@ -2,36 +2,26 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Ainhoa (GR 10 Day 2)" date="July 12, 2023" prev="/adventures/gr-10/1">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4521.jpeg", caption: "Day 2 comes with views"}]} />
+  <Post title="Saint-Jean-Pied-de-Port (GR 10 Day 5)" date="July 15, 2023" prev="/adventures/gr-10/4" next="/adventures/gr-10/6">
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4643.jpeg", caption: "Morning vegetable market"}]} />
 
-    The day started with a climb to a small Col, where I suddenly heard voices yelling. When I got closer it turned out there was a mountain railroad carrying people up to La Rhûne, a 900m peak. Since it was cloudy and my left foot still felt sore from the TMB, I elected to not climb La Rhûne and just make it to Sare as quickly as possible.
+    This morning clear skies and a hot sun accompanied me to the hilltops above Saint Étienne de Baïgorry.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4526.jpeg", caption: "Seeing this railroad kind of diminished my sense of accomplishment after hiking up to get here"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4646.jpeg", caption: "Leaving Saint Étienne"}]} />
 
-At Sare I had a big meal to make up for my hasty dinner last night. I thought Sare was a touristy town but nothing would prepare me for the touristyness in Ainhoa, where I was headed.
+    Not much can be said about today’s hiking. Still pretty of course, but the rolling hills of Basque Country have started to blend together. Seeing old faces from earlier days on trail and meeting new faces helped pass the time along my walk to Saint-Jean-Pied-de-Port.
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4530.jpeg", caption: "Trying a Gâteau Basque, a custard filled pastry"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4649.jpeg", caption: "Vultures circling in the foggy sky"}]} />
 
-The path to Ainhoa followed rural roads where little kids rode bikes, then dipped into ravines where streams separated farmers fields.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4656.jpeg", caption: "Horses atop a cloud covered summit"}]} />
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4537.jpeg", caption: "Walking towards Ainhoa, La Rhûne now visible behind me"}]} />
+    Saint Jean was an interesting town, the biggest one I’ve seen since day 1. People start the Camino de Santiago here, and walking around I could hear many english voices, a rarity thus far in the trip. 
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4539.jpeg", caption: "Super straight road formed the border between France and Spain"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4661.jpeg", caption: "St Jean is sister city to South SF"}]} />
 
-  Walking into Ainhoa on the main road felt a bit like disneyland. The houses were painted uniformly and nobody looked local. The lady at the tourism office told me there are no grocery shops or even stores, other than Basque gift shops, in town. I got a quick bite to eat at a restaurant, prepared myself to potentially stealth camp tonight, then left once again for the mountains.
+    I booked a gîte here for the night, and I intended to make the most out of it. After checking in and doing some laundry I went directly to the supermarket to get ingredients for dinner. It felt so nice to cook a meal in a real kitchen. I charged all my devices, uploaded some trip reports, showered, got rid of extra clothes, and repacked my bag for the days to come. So far I’m really satisfied with all the gear I brought, but I always end up with too many clothes!
 
-<ImageGroup images={[{path: "/images/gr-10/IMG_4546.jpeg", caption: "Ainhoa"}]} />
-
-The final climb was super hot, and no trees offered me shade. When i made it to the church where I planned to pitch my tent I was relieved to see 4-5 other tents already set up, so apparently camping was allowed here. There was even a trash bin and a drinking water fountain.
-
-<ImageGroup images={[{path: "/images/gr-10/IMG_4553.jpeg", caption: "Chappelle Notre Dame de l’Aubépine, my campsite"}]} />
-
-The view of Ainhoa and La Rhûne was great here, and I could finally see come far I walked today. Sheep’s bells lulled me to sleep.
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4558.jpeg", caption: "First sunset of the trip! Weather was kind to me today"}]} />
-
-Ohlette to a bit after Ainhoa - 24.4km and 1091m gained.
+    <p>St-Étienne-de-Baïgorry to Saint-Jean-Pied-de-Port - 21.03km and 959m gained.</p>
   </Post>
 );
 
