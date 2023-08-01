@@ -3,13 +3,13 @@ import Post from '@/components/Post';
 
 const GR = () => (
   <Post title="Pic d'Orhi (GR 10 Day 8)" date="July 18, 2023" prev="/adventures/gr-10/7" next="/adventures/gr-10/9">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_0311.jpeg", caption: "On the approach, Orhi is the thumb shaped peak in the back"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_0311.jpeg", caption: "Haute Route"}]} />
 
     Last night Tristan and Tania asked me if I wanted to climb the Pic d’Orhi, the first 2000m peak in the Pyrénées. I said yes, so today I left the GR 10 temporarily to do the HRP (Haute Route Pyrénées). The HRP is a trail which runs parallel to the GR 10 but stays at higher elevations and involves some route-finding.
 
 <p>We left Iraty after a big breakfast and headed up the first col. Pic d’Orhi stood high above us, and we forged ahead despite the strong winds.</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4722.jpeg", caption: "On the approach, Orhi is the thumb shaped peak in the back"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4722.jpeg", caption: "On the approach, Orhi is the peak in the back"}]} />
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4727.jpeg", caption: "Different scenery at higher altitude"}]} />
 
@@ -24,8 +24,6 @@ A few final ups and downs later, we made it to the summit of Orhi.
     <ImageGroup images={[{path: "/images/gr-10/IMG_4733.jpeg", caption: "Pic d'Orhi, 2017m"}]} />
 
 At the summit we met some Swiss HRP hikers who let us peek at their guidebook. Feeling stoked to stay high above the cloudy weather, we made the decision after some deliberation to continue on the HRP rather than descending into Larrau as originally planned.
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_0311.jpeg", caption: "Enjoying the views on the high route"}]} />
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4741.jpeg", caption: "Horses along the border fence"}]} />
 
