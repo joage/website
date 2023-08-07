@@ -3,37 +3,46 @@ import Post from '@/components/Post';
 
 const GR = () => (
   <Post title="Reaching new heights (HRP Day 15)" date="July 25, 2023" prev="/adventures/gr-10/14">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4812.jpeg", caption: "Pic d'Anie pointing toward the sky"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5024.jpeg", caption: "Col du Palas, 2517m"}]} />
 
-    I woke up this morning to a fabulous view of the Pic d’Anie from outside my tent. For once the morning was clear and my tent wasn’t even wet! Tristan and I left at around 8:30 to begin our climb of the 2500m peak.
+    A day of highs and lows! We were warned of bad weather and possible rain last night so this morning we left early at 7 am. Staying in refuges in this part of the pyrenees usually means a morning descent instead of a climb. 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4983.jpeg", caption: "Morning mist covers Pic du Midi"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4809.jpeg", caption: "A change in scenery from previous days"}]} />
+We came down to a road, where I saw a sign for cheese. Since I had not had breakfast yet I was easily tempted. I convinced my friends to stop here for a bit while I went to buy some.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4810.jpeg", caption: "Tristan approaching the limestone"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4984.jpeg", caption: "Addicted to cheese"}, {path: "/images/gr-10/IMG_4986.jpeg", caption: "Jean-Jacques the shepherd, super nice guy. I bought 1/2 kilo of fromage de brebis from him."}]} />
 
-The path followed the HRP over a rocky landscape to the Col des Anies, where I dropped my pack. The conditions seemed perfect, a little hot but breezy, ideal for summiting.
+When we knocked on his door, the shepherd was still wrangling some sheep so he told us to wait. Before long we were all invited to his table, given a cheese tasting, and served some extra treats for stopping by!
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4816.jpeg", caption: "Traversing the base of the peak"}]} />
+Continuing on, we climbed into a valley where the weather began to deteriorate. In between bouts of rain and fog, we caught glimpses of beautiful blue lakes.
 
-The final 500m to the top did not feel too difficult, especially without a heavy load on my back. 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4993.jpeg", caption: "Classic milk carton cow"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4817.jpeg", caption: "High above the clouds"}]} />
+Some time later, we stopped to have lunch by the closed refuge d’Arrémoulit.
 
-At the top we got a stunning panorama of the High Pyrenees peaks, notably Pic du Midi d’Ossau in the foreground. Even though we were not that high up (2500m), this summit felt super epic because of the low clouds covering the valleys below.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4999.jpeg", caption: "Cheese from the shepherd and jamón from Spain. Happy"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4821.jpeg", caption: "Summit! 2500m"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5011.jpeg", caption: "Lacs d'Arrémoulit"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4832.jpeg", caption: "Top, looking down"}]} />
+The next part was a tricky section of boulder fields and navigating two Cols. We followed cairns up to the Col du Palas, and then traversed the steep rocky hillside to Port du Lavedan.
 
-On the way down, I said goodbye to Tristan for now. He headed back to Refuge Jeandel for one more night, and I made my way down the other side of the Col des Anies toward Lescun.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5016.jpeg", caption: "Jacques ascending the boulder field"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4842.jpeg", caption: "The valley leading to Lescun"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5021.jpeg", caption: "Top of the first col, Col du Palas"}]} />
 
-After I descended 1000m, I passed the first cabane which was occupied by a shepherd. I continued on and planted my tent across the trail from the closed Cabane d’Ardinet.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5026.jpeg", caption: "Tricky traverse to the second col"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4845.jpeg", caption: "Met two of these at Cabane d'Ardinet!"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5031.jpeg", caption: "Bluest alpine lakes"}]} />
 
-Refuge Jeandel to Pic d'Anie to Cabane d'Ardinet - 15.00km and 1280m gained.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5042.jpeg", caption: "Climbing the final chimney up to the Port du Lavedan, 2615m"}]} />
+
+This was the highest elevation of my trip so far, and also the biggest gain in a day–perhaps why the ensuing descent felt more grueling than previous days.
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5045.jpeg", caption: "Descending to Larribet"}]} />
+
+I made it down to Larribet around 5pm and pitched my tent in a field below the refuge. Dinner at the refuge was another 3 course meal, and Jacques kindly treated us with a bottle of wine. It had been a long day, but a good one!
+
+<p>Refuge de Pombie to Refuge de Larribet - 19.21km and 1601m gained.</p>
   </Post>
 );
 
