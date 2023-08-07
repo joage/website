@@ -3,35 +3,25 @@ import Post from '@/components/Post';
 
 const GR = () => (
   <Post title="Candanchu (HRP Day 13)" date="July 23, 2023" prev="/adventures/gr-10/12" next="/adventures/gr-10/14">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4812.jpeg", caption: "Pic d'Anie pointing toward the sky"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4935.jpeg", caption: "Waking up from camp"}]} />
 
-    I woke up this morning to a fabulous view of the Pic d’Anie from outside my tent. For once the morning was clear and my tent wasn’t even wet! Tristan and I left at around 8:30 to begin our climb of the 2500m peak.
+    Today was a day with an unknown destination, because I wasn’t sure how far I could go. I did know that I wanted to make it to Spain in order to resupply on food, and possibly make it back into France later on.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4809.jpeg", caption: "A change in scenery from previous days"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4941.jpeg", caption: "Beautiful morning"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4810.jpeg", caption: "Tristan approaching the limestone"}]} />
+As I descended from Arlet, high mountain ridges turned into shaded forest paths.
 
-The path followed the HRP over a rocky landscape to the Col des Anies, where I dropped my pack. The conditions seemed perfect, a little hot but breezy, ideal for summiting.
+At a river crossing I chose one of two available routes which took me up to a lake where families were having lunch. I ate my sandwich here and joined up with the GR 11, a long distance path through the Spanish side of the Pyrenees.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4816.jpeg", caption: "Traversing the base of the peak"}]} />
+The GR 11 felt different from the GR 10. It was less traveled and involved some route finding.
 
-The final 500m to the top did not feel too difficult, especially without a heavy load on my back. 
+When I made it to Candanchu, a Spanish ski town, it was 3pm. I had a drink with a German hiker while waiting for the food shop to reopen after their siesta. The town was pretty empty but at least there was lots of jamón in the grocery store!
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4817.jpeg", caption: "High above the clouds"}]} />
+After resupplying, I realized I was not going to make it back into France today. The final part of the day involved some road walking and then a big climb to a lake.
 
-At the top we got a stunning panorama of the High Pyrenees peaks, notably Pic du Midi d’Ossau in the foreground. Even though we were not that high up (2500m), this summit felt super epic because of the low clouds covering the valleys below.
+Since I was low on cash, I tried to find an ATM in Astun. In my broken Spanish I asked some locals but they were only able to direct me to a wall which used to have an ATM. I hope some places on the trail coming up accept card!
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4821.jpeg", caption: "Summit! 2500m"}]} />
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4832.jpeg", caption: "Top, looking down"}]} />
-
-On the way down, I said goodbye to Tristan for now. He headed back to Refuge Jeandel for one more night, and I made my way down the other side of the Col des Anies toward Lescun.
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4842.jpeg", caption: "The valley leading to Lescun"}]} />
-
-After I descended 1000m, I passed the first cabane which was occupied by a shepherd. I continued on and planted my tent across the trail from the closed Cabane d’Ardinet.
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4845.jpeg", caption: "Met two of these at Cabane d'Ardinet!"}]} />
+The final climb was windy, and when I arrived at the lake the wind picked up speed. I knew it was a bad idea to pitch my tent here, but I didn’t want to keep hiking. I cooked my dinner and hoped the wind would die down so I could get some sleep.
 
 Refuge Jeandel to Pic d'Anie to Cabane d'Ardinet - 15.00km and 1280m gained.
   </Post>
