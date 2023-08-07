@@ -3,37 +3,37 @@ import Post from '@/components/Post';
 
 const GR = () => (
   <Post title="Arlet (HRP Day 12)" date="July 22, 2023" prev="/adventures/gr-10/11" next="/adventures/gr-10/13">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4812.jpeg", caption: "Pic d'Anie pointing toward the sky"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4933.jpeg", caption: "Above the clouds at Refuge d'Arlet"}]} />
 
-    I woke up this morning to a fabulous view of the Pic d’Anie from outside my tent. For once the morning was clear and my tent wasn’t even wet! Tristan and I left at around 8:30 to begin our climb of the 2500m peak.
+    After a day of sitting around in Lescun, my legs were somewhat rested and ready to take on the high pyrenees. The next stretch of the HRP is supposed to be one of the best parts!
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4809.jpeg", caption: "A change in scenery from previous days"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/AEB13717-3C1A-4564-96AD-8AC245BC1BFC.jpeg", caption: "Leaving Lescun"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4810.jpeg", caption: "Tristan approaching the limestone"}]} />
+I started the day’s walk with two other hikers I met in the gîte, Leo and Camille. We gradually climbed out of Lescun, into the countryside and then up a forested valley.
 
-The path followed the HRP over a rocky landscape to the Col des Anies, where I dropped my pack. The conditions seemed perfect, a little hot but breezy, ideal for summiting.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4879.jpeg", caption: "Initial climb through the countryside"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4816.jpeg", caption: "Traversing the base of the peak"}]} />
+When the HRP split off from the GR 10, we said goodbye to Leo, and Camille and I continued up to Col de Pau.
 
-The final 500m to the top did not feel too difficult, especially without a heavy load on my back. 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4890.jpeg", caption: "Back in the mountains!"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4817.jpeg", caption: "High above the clouds"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4896.jpeg", caption: "Col de Pau"}]} />
 
-At the top we got a stunning panorama of the High Pyrenees peaks, notably Pic du Midi d’Ossau in the foreground. Even though we were not that high up (2500m), this summit felt super epic because of the low clouds covering the valleys below.
+By lunchtime we were ahead of schedule and only 6km lay between us and Lac d’Arlet, our destination. Fresh legs and good weather can make such a difference!
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4821.jpeg", caption: "Summit! 2500m"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4905.jpeg", caption: "The views kept getting more impressive the higher we climbed."}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4832.jpeg", caption: "Top, looking down"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4905.jpeg", caption: "Red rocks, the first of this color I’ve seen in the Pyrenees"}]} />
 
-On the way down, I said goodbye to Tristan for now. He headed back to Refuge Jeandel for one more night, and I made my way down the other side of the Col des Anies toward Lescun.
+I made it to Lac d’Arlet around 2:30, which left me plenty of time to relax, take a dip, and plan my next day’s path. The bivy spot next to the refuge was spacious and flat.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4842.jpeg", caption: "The valley leading to Lescun"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4923.jpeg", caption: "Lac d'Arlet"}]} />
 
-After I descended 1000m, I passed the first cabane which was occupied by a shepherd. I continued on and planted my tent across the trail from the closed Cabane d’Ardinet.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4920.jpeg", caption: "Some families hiked and camped up here with donkeys carrying all their stuff"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4845.jpeg", caption: "Met two of these at Cabane d'Ardinet!"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4932.jpeg", caption: "A fascinating sunset, Pic d'Anie visible center left"}]} />
 
-Refuge Jeandel to Pic d'Anie to Cabane d'Ardinet - 15.00km and 1280m gained.
+Lescun to Refuge d'Arlet - 19.82km and 15.67m gained.
   </Post>
 );
 
