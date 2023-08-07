@@ -8,8 +8,20 @@ export default function Adventures() {
       <Nav />
       <div className="flex flex-col gap-6 max-w-3xl pt-8 text-sm">
         <p>Trip reports from my hikes and travels. Newest first!</p>
-        <p>2023:</p>
+        <p>Haute Route Pyrénéenne (2023 Ongoing!):</p>
         <ul className="list-disc text-cyan-600 mx-4">
+          <li>
+            <Link href="/adventures/gr-10/15">HRP Day 15 - Reaching new heights</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/14">HRP Day 14 - Pombie</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/13">HRP Day 13 - Candanchu</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/12">HRP Day 12 - Arlet</Link>
+          </li>
           <li>
             <Link href="/adventures/gr-10/11">HRP Day 11 - Lescun</Link>
           </li>
@@ -29,7 +41,7 @@ export default function Adventures() {
             <Link href="/adventures/gr-10/6">GR 10 Day 6 - Easy day</Link>
           </li>
           <li>
-            <Link href="/adventures/gr-10/5">GR 10 Day 5 - Saint-Jean-Pied-de-Port</Link>
+            <Link href="/adventures/gr-10/5">GR 10 Day 5 - Saint Jean</Link>
           </li>
           <li>
             <Link href="/adventures/gr-10/4">GR 10 Day 4 - Ridge walk</Link>
@@ -43,6 +55,9 @@ export default function Adventures() {
           <li>
             <Link href="/adventures/gr-10/1">GR 10 Day 1 - Rain!</Link>
           </li>
+        </ul>
+        <p>Tour du Mont Blanc (July 2023):</p>
+        <ul className="list-disc text-cyan-600 mx-4">
           <li>
             <Link href="/adventures/tmb-6">Wine Tour du Mont Blanc</Link>
           </li>
@@ -61,6 +76,9 @@ export default function Adventures() {
           <li>
             <Link href="/adventures/tmb-1">Tour du Mont Blanc Day 1</Link>
           </li>
+        </ul>
+        <p>Earlier 2023:</p>
+        <ul className="list-disc text-cyan-600 mx-4">
           <li>
             <Link href="/adventures/leaving-ny">Leaving New York</Link>
           </li>

@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Lescun (HRP Day 11)" date="July 21, 2023" prev="/adventures/gr-10/10">
+  <Post title="Lescun (HRP Day 11)" date="July 21, 2023" next="/adventures/gr-10/12" prev="/adventures/gr-10/10">
     <ImageGroup images={[{path: "/images/gr-10/IMG_4860.jpeg", caption: "Lescun"}]} />
 
     This morning I was rudely awoken by donkeys sniffing around and munching outside my tent. Apparently I had camped in prime grazing territory and all types of farm animals paid me a visit during the night.
