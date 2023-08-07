@@ -10,7 +10,7 @@ const GR = () => (
 
 We came down to a road, where I saw a sign for cheese. Since I had not had breakfast yet I was easily tempted. I convinced my friends to stop here for a bit while I went to buy some.
 
-    <ImageGroup images={[{path: "/images/IMG_4984.jpeg", caption: "Addicted to cheese"}, {path: "/images/gr-10/IMG_4986.jpeg", caption: "Jean-Jacques the shepherd, super nice guy. I bought 1/2 kilo of fromage de brebis from him."}]} />
+    <ImageGroup images={[{path: "/images/IMG_4984.jpeg", caption: "Addicted to cheese"}, {path: "/images/IMG_4986.jpeg", caption: "Jean-Jacques the shepherd, super nice guy. I bought 1/2 kilo of fromage de brebis from him."}]} />
 
 When we knocked on his door, the shepherd was still wrangling some sheep so he told us to wait. Before long we were all invited to his table, given a cheese tasting, and served some extra treats for stopping by!
 
