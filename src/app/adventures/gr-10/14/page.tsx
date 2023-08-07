@@ -3,37 +3,44 @@ import Post from '@/components/Post';
 
 const GR = () => (
   <Post title="Pombie (HRP Day 14)" date="July 24, 2023" prev="/adventures/gr-10/13" next="/adventures/gr-10/15">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4812.jpeg", caption: "Pic d'Anie pointing toward the sky"}]} />
 
-    I woke up this morning to a fabulous view of the Pic d’Anie from outside my tent. For once the morning was clear and my tent wasn’t even wet! Tristan and I left at around 8:30 to begin our climb of the 2500m peak.
+<p>During the night there was a dry thunderstorm with lightning. I experienced some some the strongest winds I’d ever felt while camping. One gust was so powerful that it snapped the end of my hiking pole and my tent collapsed!</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4809.jpeg", caption: "A change in scenery from previous days"}]} />
+I spent half of the night sleeping under a collapsed tent, because the winds were too strong for me to go outside and try to repitch it. Around 4 or 5 am a period of calmness arrived so I hacked together a new way to prop up my tent despite the broken pole. Finally I could get some proper sleep.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4810.jpeg", caption: "Tristan approaching the limestone"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4959.jpeg", caption: "Crazy windy campsite"}]} />
 
-The path followed the HRP over a rocky landscape to the Col des Anies, where I dropped my pack. The conditions seemed perfect, a little hot but breezy, ideal for summiting.
+Luckily today was a short day, and I had booked a stay inside Refuge de Pombie. The reservation included dinner, which I was pretty excited about.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4816.jpeg", caption: "Traversing the base of the peak"}]} />
+I began the day’s trek with a short climb to a col, which offered a great view of the famous Pic du Midi d’Ossau. This col was also the border and I reentered France soon after. 
 
-The final 500m to the top did not feel too difficult, especially without a heavy load on my back. 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4960.jpeg", caption: "Col des Moines, 2168m"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4817.jpeg", caption: "High above the clouds"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4965.jpeg", caption: "Epic view of Pic du Midi d'Ossau, a Pyrenean icon"}]} />
 
-At the top we got a stunning panorama of the High Pyrenees peaks, notably Pic du Midi d’Ossau in the foreground. Even though we were not that high up (2500m), this summit felt super epic because of the low clouds covering the valleys below.
+Continuing the descent into some clouds, I met a Scottish family while trying to navigate in poor visibility. When I found the trail it was time to ascend again.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4821.jpeg", caption: "Summit! 2500m"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4967.jpeg", caption: "Wayfinding in the clouds"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4832.jpeg", caption: "Top, looking down"}]} />
+Halfway up to Col de Peyreget, I caught up to Camille, who had stayed at Refuge Ayous the previous night! She was with Jacques, a section hiker whom I’d also met previously.
 
-On the way down, I said goodbye to Tristan for now. He headed back to Refuge Jeandel for one more night, and I made my way down the other side of the Col des Anies toward Lescun.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4970.jpeg", caption: "Closer look at the Pic du Midi d'Ossau"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4842.jpeg", caption: "The valley leading to Lescun"}]} />
+The three of us continued the climb to the col, crossing a section of large boulders.
 
-After I descended 1000m, I passed the first cabane which was occupied by a shepherd. I continued on and planted my tent across the trail from the closed Cabane d’Ardinet.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4972.jpeg", caption: "Climbing up to Col de Peyreget"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4845.jpeg", caption: "Met two of these at Cabane d'Ardinet!"}]} />
+At the col we stopped to have lunch. Since we could already see the refuge from here, we were in no rush.
 
-Refuge Jeandel to Pic d'Anie to Cabane d'Ardinet - 15.00km and 1280m gained.
+<p>Not interested in descending down into more clouds, Camille and I stopped to chill at a lake. I went for a swim and tried to read a french book I picked up a few days ago.</p>
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4974.jpeg", caption: "Lake swim"}]} />
+
+The final descent to Pombie took us into the mist, which would linger for the rest of the day and night. the refuge was small, but dinner was great and the company was interesting. I met one Hungarian guy who was trying to complete the HRP in 25 days.
+
+<p>The misty weather would continue into tomorrow, but at least I could sleep under a roof tonight!</p>
+
+Ibon de Escalar to Refuge de Pombie - 9.2km and 728m gained.
   </Post>
 );
 
