@@ -8,7 +8,7 @@ export default function Adventures() {
       <Nav />
       <div className="flex flex-col gap-6 max-w-3xl pt-8 text-sm">
         <p>Trip reports from my hikes and travels. Newest first!</p>
-        <p>(Ongoing!) Haute Route Pyrénéenne:</p>
+        <p>Haute Route Pyrénéenne (2023 Ongoing!):</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
             <Link href="/adventures/gr-10/15">HRP Day 15 - Reaching new heights</Link>
@@ -56,7 +56,7 @@ export default function Adventures() {
             <Link href="/adventures/gr-10/1">GR 10 Day 1 - Rain!</Link>
           </li>
         </ul>
-        <p>Tour du Mont Blanc:</p>
+        <p>Tour du Mont Blanc (July 2023):</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
             <Link href="/adventures/tmb-6">Wine Tour du Mont Blanc</Link>
