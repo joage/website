@@ -5,7 +5,7 @@ const GR = () => (
   <Post title="Arlet (HRP Day 12)" date="July 22, 2023" prev="/adventures/gr-10/11" next="/adventures/gr-10/13">
     <ImageGroup images={[{path: "/images/gr-10/IMG_4933.jpeg", caption: "Above the clouds at Refuge d'Arlet"}]} />
 
-    After a day of sitting around in Lescun, my legs were somewhat rested and ready to take on the high pyrenees. The next stretch of the HRP is supposed to be one of the best parts!
+    After a day of sitting around in Lescun, my legs were somewhat rested and ready to take on the Haute Pyrénées. The next stretch of the HRP is supposed to be one of the best parts!
 
     <ImageGroup images={[{path: "/images/gr-10/AEB13717-3C1A-4564-96AD-8AC245BC1BFC.jpeg", caption: "Leaving Lescun"}]} />
 
