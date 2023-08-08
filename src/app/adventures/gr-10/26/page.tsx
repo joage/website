@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Pombie (HRP Day 14)" date="July 24, 2023" prev="/adventures/gr-10/13" next="/adventures/gr-10/15">
+  <Post title="One day, two cols (HRP Day 26)" date="August 5, 2023" prev="/adventures/gr-10/25" next="/adventures/gr-10/27">
     <ImageGroup images={[{path: "/images/gr-10/IMG_5424.jpeg", caption: "Tuc de Molières, 3010m"}]} />
 
 Today I teamed up with Thivo and Jade to tackle the two highest and most technical cols on the HRP. We got an early start from Refuge Portillon at 7am.
