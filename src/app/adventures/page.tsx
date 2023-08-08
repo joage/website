@@ -11,6 +11,39 @@ export default function Adventures() {
         <p>Haute Route Pyrénéenne (2023 Ongoing!):</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
+            <Link href="/adventures/gr-10/28">HRP Day 28 - Arties</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/27">HRP Day 27 - Swimming</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/26">HRP Day 26 - One day, two cols</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/25">HRP Day 25 - Snowstorm</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/24">HRP Day 24 - Fog!</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/23">HRP Day 23 - On the GR 11</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/22">HRP Day 22 - Parzan</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/21">HRP Day 21 - Barroude Lakes</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/20">HRP Day 20 - Héas</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/19">HRP Day 19 - Gavarnie 'Rest' Day</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/18">HRP Day 18 - Storm and summit!</Link>
+          </li>
+          <li>
             <Link href="/adventures/gr-10/17">HRP Day 17 - Gaube</Link>
           </li>
           <li>
