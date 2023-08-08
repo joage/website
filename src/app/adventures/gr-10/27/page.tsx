@@ -2,45 +2,31 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Pombie (HRP Day 14)" date="July 24, 2023" prev="/adventures/gr-10/13" next="/adventures/gr-10/15">
+  <Post title="Swimming (HRP Day 27)" date="August 6, 2023" prev="/adventures/gr-10/26" next="/adventures/gr-10/28">
 
-<p>During the night there was a dry thunderstorm with lightning. I experienced some some the strongest winds I’d ever felt while camping. One gust was so powerful that it snapped the end of my hiking pole and my tent collapsed!</p>
+I only had one goal in mind for today-to swim in a lake. My body needed a break from the past few days of high cols and difficult hiking, so I kept the mileage short in order to relax.
 
-I spent half of the night sleeping under a collapsed tent, because the winds were too strong for me to go outside and try to repitch it. Around 4 or 5 am a period of calmness arrived so I hacked together a new way to prop up my tent despite the broken pole. Finally I could get some proper sleep.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5434.jpeg", caption: "The morning descent"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4959.jpeg", caption: "Crazy windy campsite"}]} />
+By the road in Espitau de Vielha, I ran into Dan and Benjamin, two HRP hikers who had done the same itinerary as me yesterday. They shared my desire to bathe in cold water today.
 
-Luckily today was a short day, and I had booked a stay inside Refuge de Pombie. The reservation included dinner, which I was pretty excited about.
+<p>After I ate a big lunch, I climbed a gentle slope following the GR 11. It was not a difficult trail but I still felt tired from yesterday.</p>
 
-I began the day’s trek with a short climb to a col, which offered a great view of the famous Pic du Midi d’Ossau. This col was also the border and I reentered France soon after. 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5435.jpeg", caption: "Back on the GR 11"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4960.jpeg", caption: "Col des Moines, 2168m"}]} />
+I reached the Lake Rius by mid-afternoon, so I had plenty of time to swim and lay in the sun. I may have stayed a bit too long because the next day I felt a slight sunburn on my chest.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4965.jpeg", caption: "Epic view of Pic du Midi d'Ossau, a Pyrenean icon"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5436.jpeg", caption: "Lac de Rius"}]} />
 
-Continuing the descent into some clouds, I met a Scottish family while trying to navigate in poor visibility. When I found the trail it was time to ascend again.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5437.jpeg", caption: "Swim spot"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4967.jpeg", caption: "Wayfinding in the clouds"}]} />
+For the final part of the day, I descended 7 km along the GR 11 and climbed a short but steep hill to my destination, Refugi Restanca by a dammed lake. Here I ran into Benjamin and Dan again, so we had a drink. They left to bivouac somewhere, and I decided to stay in the refuge. I spent the rest of the day cooking all of my food and eating way too much mashed potatoes.
 
-Halfway up to Col de Peyreget, I caught up to Camille, who had stayed at Refuge Ayous the previous night! She was with Jacques, a section hiker whom I’d also met previously.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5445.jpeg", caption: "Dinner"}, {path: "/images/gr-10/IMG_5448.jpeg", caption: "He wanted some cheese"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4970.jpeg", caption: "Closer look at the Pic du Midi d'Ossau"}]} />
+Tomorrow I will be in Salardú, a town and resupply point!
 
-The three of us continued the climb to the col, crossing a section of large boulders.
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4972.jpeg", caption: "Climbing up to Col de Peyreget"}]} />
-
-At the col we stopped to have lunch. Since we could already see the refuge from here, we were in no rush.
-
-<p>Not interested in descending down into more clouds, Camille and I stopped to chill at a lake. I went for a swim and tried to read a french book I picked up a few days ago.</p>
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4974.jpeg", caption: "Lake swim"}]} />
-
-The final descent to Pombie took us into the mist, which would linger for the rest of the day and night. the refuge was small, but dinner was great and the company was interesting. I met one Hungarian guy who was trying to complete the HRP in 25 days.
-
-<p>The misty weather would continue into tomorrow, but at least I could sleep under a roof tonight!</p>
-
-Ibon de Escalar to Refuge de Pombie - 9.2km and 728m gained.
+<p>Refugi Mulleres to Refugi Restanca - 17.0km and 1045m gained.</p>
   </Post>
 );
 
