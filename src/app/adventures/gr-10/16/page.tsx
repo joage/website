@@ -23,7 +23,7 @@ Each going at our own paces, my friends and I got split up about 300m from the C
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5074.jpeg", caption: "The wrong way!"}]} />
 
-After fixing my route and losing some time, I made it over correct Col.
+After fixing my route and losing some time, I made it over the correct col.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5079.jpeg", caption: "Col de Cambalès! 2700 meters and high point of the trip so far."}]} />
 
