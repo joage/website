@@ -28,7 +28,7 @@ After a 500m descent I made it to the Gaube valley, an expansive glacial meadow 
 
 The whole walk only took 4 hours, including breaks and lunch. Since there were supposed to be storms tonight, I selected a nice sheltered spot to plant my tent. I spent the rest of my day cooking and eating lots of food to lighten my pack. The next resupply point in Gavarnie was soon approaching!
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5121.jpeg", caption: "A storm approaching..."}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5121.jpeg", caption: "A storm is coming..."}]} />
 
 Refuge Wallon to Oulettes de Gaube - 9.60km and 875m gained.
   </Post>
