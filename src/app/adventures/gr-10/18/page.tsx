@@ -2,45 +2,49 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Pombie (HRP Day 14)" date="July 24, 2023" prev="/adventures/gr-10/13" next="/adventures/gr-10/15">
+  <Post title="Storm and summit! (HRP Day 18)" date="July 28, 2023" prev="/adventures/gr-10/17" next="/adventures/gr-10/19">
 
-<p>During the night there was a dry thunderstorm with lightning. I experienced some some the strongest winds I’d ever felt while camping. One gust was so powerful that it snapped the end of my hiking pole and my tent collapsed!</p>
+Last night a thunderstorm ripped through the region, causing heavy rain and 70-80km/h winds. It was the scariest night in my tent so far, and at one point I was holding my poles in each hand and hoping the tent wouldn’t blow away. However, after a few hours the wind stopped and only rain continued. I was able to cook dinner, the last of my couscous. After some time even the rain ceased, and the stars came out.
 
-I spent half of the night sleeping under a collapsed tent, because the winds were too strong for me to go outside and try to repitch it. Around 4 or 5 am a period of calmness arrived so I hacked together a new way to prop up my tent despite the broken pole. Finally I could get some proper sleep.
+<p>In the morning I learned that most people had left their tents to sleep on the floor of the refuge during the storm. I probably would have done the same if I hadn’t chosen a sheltered spot behind the refuge to camp. That was probably what saved me from a soaking last night.</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4959.jpeg", caption: "Crazy windy campsite"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5127.jpeg", caption: "Morning after the storm, Vignemale majestic as ever"}]} />
 
-Luckily today was a short day, and I had booked a stay inside Refuge de Pombie. The reservation included dinner, which I was pretty excited about.
+Today I had a long day in distance but easy climbing. I finally ate a breakfast that fueled my morning climb properly! It consisted of a loaf of white bread, a tortilla, with a small container of paté spread which Camille gave me. The ascent to Hourquette d’Ossue only took about an hour and a half.
 
-I began the day’s trek with a short climb to a col, which offered a great view of the famous Pic du Midi d’Ossau. This col was also the border and I reentered France soon after. 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5134.jpeg", caption: "Hourquette d'Ossue, 2734m"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4960.jpeg", caption: "Col des Moines, 2168m"}]} />
+Here I dropped my pack to in order to climb Petit Vignemale, my first 3000m peak on the route! That may not sound super high, but it is for the Pyrenees, whose highest peak is just over 3400m.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4965.jpeg", caption: "Epic view of Pic du Midi d'Ossau, a Pyrenean icon"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5141.jpeg", caption: "Petit Vignemale, 3032m. No wind at all at the summit."}]} />
 
-Continuing the descent into some clouds, I met a Scottish family while trying to navigate in poor visibility. When I found the trail it was time to ascend again.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5137.jpeg", caption: "Views from the top"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4967.jpeg", caption: "Wayfinding in the clouds"}]} />
+After descending to Refuge de Baysellance, I had some coffee and a really good cake with the last of my euros before I could get more in the ATM at Gavarnie.
 
-Halfway up to Col de Peyreget, I caught up to Camille, who had stayed at Refuge Ayous the previous night! She was with Jacques, a section hiker whom I’d also met previously.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5146.jpeg", caption: "A view of the Ossou valley, Brèche de Roland (the small U-shaped notch), visible in the background center left"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4970.jpeg", caption: "Closer look at the Pic du Midi d'Ossau"}]} />
+The descent down to Gavarnie was long but thankfully not too hot. Waterfalls graced the valley d’Ossou so it was a nice change in scenery from the barren rocky landscapes.
 
-The three of us continued the climb to the col, crossing a section of large boulders.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5148.jpeg", caption: "A hidden waterfall"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4972.jpeg", caption: "Climbing up to Col de Peyreget"}]} />
+At a junction I decided to take the more direct gravel track instead of the GR 10 which climbs up before descending.
 
-At the col we stopped to have lunch. Since we could already see the refuge from here, we were in no rush.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5154.jpeg", caption: "The road walk"}]} />
+ 
+I considered hitching but this road walk actually ended up being nice, with the river roaring in the canyon below me.
 
-<p>Not interested in descending down into more clouds, Camille and I stopped to chill at a lake. I went for a swim and tried to read a french book I picked up a few days ago.</p>
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5161.jpeg", caption: "I found a nice swimming hole."}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4974.jpeg", caption: "Lake swim"}]} />
+Finally I made it to Gavarnie where I ran into John and Adam, two english-speaking hikers I met a few days ago. Jacques was leaving tomorrow so I had dinner with him at the Refuge La Grange de Holle. I also pitched my tent here. I intended to spend 2 nights in Gavarnie to rest up and do some side hikes without a backpack.
 
-The final descent to Pombie took us into the mist, which would linger for the rest of the day and night. the refuge was small, but dinner was great and the company was interesting. I met one Hungarian guy who was trying to complete the HRP in 25 days.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5171.jpeg", caption: "Gavarnie"}]} />
 
-<p>The misty weather would continue into tomorrow, but at least I could sleep under a roof tonight!</p>
+Hope the next few days will have good weather for swimming!
 
-Ibon de Escalar to Refuge de Pombie - 9.2km and 728m gained.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5164.jpeg", caption: "Gave d'Ossou"}]} />
+
+Oulettes de Gaube to Petit Vignemale to Gavarnie - 21.08km and 1188m gained, 1815m descended.
   </Post>
 );
 
