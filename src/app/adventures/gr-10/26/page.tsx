@@ -3,44 +3,51 @@ import Post from '@/components/Post';
 
 const GR = () => (
   <Post title="Pombie (HRP Day 14)" date="July 24, 2023" prev="/adventures/gr-10/13" next="/adventures/gr-10/15">
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5424.jpeg", caption: "Tuc de Molières, 3010m"}]} />
 
-<p>During the night there was a dry thunderstorm with lightning. I experienced some some the strongest winds I’d ever felt while camping. One gust was so powerful that it snapped the end of my hiking pole and my tent collapsed!</p>
+Today I teamed up with Thivo and Jade to tackle the two highest and most technical cols on the HRP. We got an early start from Refuge Portillon at 7am.
 
-I spent half of the night sleeping under a collapsed tent, because the winds were too strong for me to go outside and try to repitch it. Around 4 or 5 am a period of calmness arrived so I hacked together a new way to prop up my tent despite the broken pole. Finally I could get some proper sleep.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5405.jpeg", caption: "Some good weather today let us see Lac Portillon and its surrounding peaks"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4959.jpeg", caption: "Crazy windy campsite"}]} />
+The ascent to the first col was covered in a layer of fresh snow from the day before, so we had to be careful navigating the icy terrain. In about an hour and a half we made it to the top.
 
-Luckily today was a short day, and I had booked a stay inside Refuge de Pombie. The reservation included dinner, which I was pretty excited about.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5405.jpeg", caption: "Some good weather today let us see Lac Portillon and its surrounding peaks"}]} />
 
-I began the day’s trek with a short climb to a col, which offered a great view of the famous Pic du Midi d’Ossau. This col was also the border and I reentered France soon after. 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5411.jpeg", caption: "Snow from yesterday added a layer of challenge to the ascent"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4960.jpeg", caption: "Col des Moines, 2168m"}]} />
+A steep descent lay ahead. We traversed a short but crumbly ridge and found a way down the loose hillside. This was the hardest col for me so far, with a couple exposed moves near the top.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4965.jpeg", caption: "Epic view of Pic du Midi d'Ossau, a Pyrenean icon"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5414.jpeg", caption: "After cresting Collado Inferior de Literola, 2981m"}]} />
 
-Continuing the descent into some clouds, I met a Scottish family while trying to navigate in poor visibility. When I found the trail it was time to ascend again.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5417.jpeg", caption: "Looking back on the col"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4967.jpeg", caption: "Wayfinding in the clouds"}]} />
+After the technical part ended, we continued down the slabs following cairns until we reached the Remune canyon. Hearing greetings of “hola” from hikers coming up reminded us that we had crossed into Spain. 
 
-Halfway up to Col de Peyreget, I caught up to Camille, who had stayed at Refuge Ayous the previous night! She was with Jacques, a section hiker whom I’d also met previously.
+<p>When we had descended about 1400m, we reached a touristy meadow known as Hospital de Benasque. Suddenly we saw a hotel, restaurant, and a huge crowd of people.</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4970.jpeg", caption: "Closer look at the Pic du Midi d'Ossau"}]} />
+Our day was not over, however. After eating a big meal of tortilla and patatas bravas we decided to try and climb the Tuc de Molières, another 1400m up.
 
-The three of us continued the climb to the col, crossing a section of large boulders.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5420.jpeg", caption: "Back up into the mountains"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4972.jpeg", caption: "Climbing up to Col de Peyreget"}]} />
+The climb itself was not difficult, but my legs were already tired from this morning. As we got higher, the people thinned out and the views became grand. Through the clouds we caught a brief glimpse of Aneto, the tallest peak in the Pyrenees.
 
-At the col we stopped to have lunch. Since we could already see the refuge from here, we were in no rush.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5423.jpeg", caption: "A tiring but beautiful climb"}]} />
 
-<p>Not interested in descending down into more clouds, Camille and I stopped to chill at a lake. I went for a swim and tried to read a french book I picked up a few days ago.</p>
+The final 100m of the climb ascended to the top of Tuc de Molières, and here we reached the highest point of the HRP!
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4974.jpeg", caption: "Lake swim"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5425.jpeg", caption: "Traversing down to Col Mulleres"}]} />
 
-The final descent to Pombie took us into the mist, which would linger for the rest of the day and night. the refuge was small, but dinner was great and the company was interesting. I met one Hungarian guy who was trying to complete the HRP in 25 days.
+A traverse to the notch brought us to the technical part of the Col, which was really not that hard. There were four or five moves down a steep section of rock, which felt way more solid than the Col de Literola earlier this morning.
 
-<p>The misty weather would continue into tomorrow, but at least I could sleep under a roof tonight!</p>
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5426.jpeg", caption: "On the downclimb"}]} />
 
-Ibon de Escalar to Refuge de Pombie - 9.2km and 728m gained.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5429.jpeg", caption: "Looking back up at the col"}]} />
+
+The sun set as we finished the last 600m of descent down to the Refugi Mulleres. It was Saturday and this cabane was full, so we found a nice bivy spot a bit further down the trail. We quickly made dinner and went to sleep, exhausted from the day’s activities. It had been my longest day so far, 13 hours total and 12 hrs of walking!
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5431.jpeg", caption: "Fascinating light at the end of the day"}]} />
+
+Refuge Portillon to Refugi Mulleres - 27.15km and 1930m gained, 2111m descended.
   </Post>
 );
 
