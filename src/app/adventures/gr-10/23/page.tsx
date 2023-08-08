@@ -7,7 +7,7 @@ const GR = () => (
 
 I left super late this morning because the hotel room was too comfortable. Today I followed the GR 11 (Spanish Pyrenees route) the entire time. 
 
-<p>The trail out of Parzan climbed a dirt road 1200m to a Col.<p>
+<p>The trail out of Parzan climbed a dirt road 1200m to a Col.</p>
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5333.jpeg", caption: "Dirt track I followed on the entire ascent"}]} />
 
