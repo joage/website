@@ -3,7 +3,6 @@ import Post from '@/components/Post';
 
 const GR = () => (
   <Post title="Héas (HRP Day 20)" date="July 30, 2023" prev="/adventures/gr-10/19" next="/adventures/gr-10/21">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5208.jpeg", caption: "Leaving Gavarnie"}]} />
 
 When I woke up the scene in the Gavarnie campground reminded me of a Basque village. Fog had arrived during the night, and I couldn’t see anything.
 
