@@ -45,7 +45,7 @@ Following some well-placed cairns, I successfully navigated the near-whiteout to
 
 It was not over yet. I had to cross a talus field, descend down, and climb back up to the Col Pluviometre. Cairns became sparse here. Relying on my map app (bless Mapy.cz), I was able to slowly make progress to the second col, checking my phone every few minutes.
 
-<p>Luckily Col Pluviometre did not have any technical downclimbing as I had feared. The path descended through a mess of boulders, but there were cairns along the way! I stepped carefully and used my trekking poles to not slip.<p>
+<p>Luckily Col Pluviometre did not have any technical downclimbing as I had feared. The path descended through a mess of boulders, but there were cairns along the way! I stepped carefully and used my trekking poles to not slip.</p>
 
 No pictures were taken of the descent to Portillon, since it was very important to focus. An hour later at a quarter past 7, I saw the refuge appear out of the mist. I had made it!
 
