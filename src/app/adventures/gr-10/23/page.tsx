@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="On the GR 11 (HRP Day 23)" date="August 2, 2023" prev="/adventures/gr-10/22" next="/adventures/gr-12/24">
+  <Post title="On the GR 11 (HRP Day 23)" date="August 2, 2023" prev="/adventures/gr-10/22" next="/adventures/gr-10/24">
     <ImageGroup images={[{path: "/images/gr-10/IMG_5336.jpeg", caption: ""}]} />
 
 I left super late this morning because the hotel room was too comfortable. Today I followed the GR 11 (Spanish Pyrenees route) the entire time. 
