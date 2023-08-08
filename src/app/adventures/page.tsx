@@ -11,6 +11,12 @@ export default function Adventures() {
         <p>Haute Route Pyrénéenne (2023 Ongoing!):</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
+            <Link href="/adventures/gr-10/17">HRP Day 17 - Gaube</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/16">HRP Day 16 - Getting lost</Link>
+          </li>
+          <li>
             <Link href="/adventures/gr-10/15">HRP Day 15 - Reaching new heights</Link>
           </li>
           <li>
