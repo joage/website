@@ -2,45 +2,46 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Pombie (HRP Day 14)" date="July 24, 2023" prev="/adventures/gr-10/13" next="/adventures/gr-10/15">
+  <Post title="Héas (HRP Day 20)" date="July 30, 2023" prev="/adventures/gr-10/19" next="/adventures/gr-10/21">
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5208.jpeg", caption: "Leaving Gavarnie"}]} />
 
-<p>During the night there was a dry thunderstorm with lightning. I experienced some some the strongest winds I’d ever felt while camping. One gust was so powerful that it snapped the end of my hiking pole and my tent collapsed!</p>
+When I woke up the scene in the Gavarnie campground reminded me of a Basque village. Fog had arrived during the night, and I couldn’t see anything.
 
-I spent half of the night sleeping under a collapsed tent, because the winds were too strong for me to go outside and try to repitch it. Around 4 or 5 am a period of calmness arrived so I hacked together a new way to prop up my tent despite the broken pole. Finally I could get some proper sleep.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5208.jpeg", caption: "Leaving Gavarnie"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4959.jpeg", caption: "Crazy windy campsite"}]} />
+<p>Today I was leaving Gavarnie and entering a new section of the HRP. I was mentally ready to hike onwards but my legs felt heavier than normal this morning. My bag weighed more than usual from the resupply of food, which included 1/2 a kilo of cheese. It was a slow, lazy start.</p>
 
-Luckily today was a short day, and I had booked a stay inside Refuge de Pombie. The reservation included dinner, which I was pretty excited about.
+Halfway up the ascent to Hourquette d’Alan, there was a magical moment where the mountains around me suddenly dissolved into view. I had climbed out of the clouds!
 
-I began the day’s trek with a short climb to a col, which offered a great view of the famous Pic du Midi d’Ossau. This col was also the border and I reentered France soon after. 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5209.jpeg", caption: "The outline of the mountain suddenly appeared"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4960.jpeg", caption: "Col des Moines, 2168m"}]} />
+After a short break to soak in the sun at Refuge d’Espuguettes, I continued on up with renewed motivation.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4965.jpeg", caption: "Epic view of Pic du Midi d'Ossau, a Pyrenean icon"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5213.jpeg", caption: "Espuguettes"}]} />
 
-Continuing the descent into some clouds, I met a Scottish family while trying to navigate in poor visibility. When I found the trail it was time to ascend again.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5220.jpeg", caption: "Almost at the col"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4967.jpeg", caption: "Wayfinding in the clouds"}]} />
+The day started to heat up, but after I crested the col, a blast of wind cooled me down.
 
-Halfway up to Col de Peyreget, I caught up to Camille, who had stayed at Refuge Ayous the previous night! She was with Jacques, a section hiker whom I’d also met previously.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5221.jpeg", caption: "Houquette d'Alan, 2430m"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4970.jpeg", caption: "Closer look at the Pic du Midi d'Ossau"}]} />
+The following descent began steeply, then took me through a cute little valley with a river running through it.
 
-The three of us continued the climb to the col, crossing a section of large boulders.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5229.jpeg", caption: "Lunch spot"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4972.jpeg", caption: "Climbing up to Col de Peyreget"}]} />
+At the end of the valley stood a lake and a dam.
 
-At the col we stopped to have lunch. Since we could already see the refuge from here, we were in no rush.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5231.jpeg", caption: "Barrage (dam)"}]} />
 
-<p>Not interested in descending down into more clouds, Camille and I stopped to chill at a lake. I went for a swim and tried to read a french book I picked up a few days ago.</p>
+Once I made it to this point, all that was left was a 5 km road walk to the tiny hamlet of Héas, where I would camp next to the Auberge de la Munia.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4974.jpeg", caption: "Lake swim"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5237.jpeg", caption: "Church at Héas"}]} />
 
-The final descent to Pombie took us into the mist, which would linger for the rest of the day and night. the refuge was small, but dinner was great and the company was interesting. I met one Hungarian guy who was trying to complete the HRP in 25 days.
+I had heard good things about this place, and it did live up to the hype. I took a hot shower after I pitched my tent. Camille arrived a bit later, and we had a drink with a Dutch HRP hiker named Bart. The auberge served one of the best meals I’ve had so far, featuring duck confit and garbure, a type of soup from the region. We even had a small campfire, although the wood was a bit smoky from being wet.
 
-<p>The misty weather would continue into tomorrow, but at least I could sleep under a roof tonight!</p>
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5235.jpeg", caption: "Auberge de la Munia"}]} />
 
-Ibon de Escalar to Refuge de Pombie - 9.2km and 728m gained.
+Gavarnie to Héas - 18.94m and 1226m gained.
   </Post>
 );
 
