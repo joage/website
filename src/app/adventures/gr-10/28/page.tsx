@@ -4,7 +4,7 @@ import Post from '@/components/Post';
 const GR = () => (
   <Post title="Arties (HRP Day 28)" date="August 7, 2023" prev="/adventures/gr-10/27">
 
-    Today I took a direct path down a road to Arties, where I checked into a campground. Here I wanted to spend two nights to rest before the next section of the HRP.
+    Today I took a direct path down a road to Arties, where I pited my tent at a campground. Here I wanted to spend two nights to rest before the next section of the HRP.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5452.jpeg", caption: "Arties, Spain"}]} />
 
