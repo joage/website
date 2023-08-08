@@ -35,7 +35,7 @@ The fog was not too hard to navigate, but as we got lower it turned into rain.
 
 I stopped to rest in a cabin at Prat-Caseneuve where I initially planned to camp. But because it was still early and the weather was bad I continued on to Refuge Soula so I could dry off.
 
-Camping El Forcallo to Refuge Soula - 16.32km and 1186m gained.
+<p>Camping El Forcallo to Refuge Soula - 16.32km and 1186m gained.</p>
   </Post>
 );
 
