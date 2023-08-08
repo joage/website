@@ -11,8 +11,6 @@ Today I teamed up with Thivo and Jade to tackle the two highest and most technic
 
 The ascent to the first col was covered in a layer of fresh snow from the day before, so we had to be careful navigating the icy terrain. In about an hour and a half we made it to the top.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5405.jpeg", caption: "Some good weather today let us see Lac Portillon and its surrounding peaks"}]} />
-
     <ImageGroup images={[{path: "/images/gr-10/IMG_5411.jpeg", caption: "Snow from yesterday added a layer of challenge to the ascent"}]} />
 
 A steep descent lay ahead. We traversed a short but crumbly ridge and found a way down the loose hillside. This was the hardest col for me so far, with a couple exposed moves near the top.
