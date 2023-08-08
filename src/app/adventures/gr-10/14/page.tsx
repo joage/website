@@ -4,7 +4,7 @@ import Post from '@/components/Post';
 const GR = () => (
   <Post title="Pombie (HRP Day 14)" date="July 24, 2023" prev="/adventures/gr-10/13" next="/adventures/gr-10/15">
 
-<p>During the night there was a dry thunderstorm with lightning. I experienced some some the strongest winds I’d ever felt while camping. One gust was so powerful that it snapped the end of my hiking pole and my tent collapsed!</p>
+<p>During the night there was a dry thunderstorm with lightning. I experienced some of the strongest winds I’d ever felt while camping. One gust was so powerful that it snapped the end of my hiking pole and my tent collapsed!</p>
 
 I spent half of the night sleeping under a collapsed tent, because the winds were too strong for me to go outside and try to repitch it. Around 4 or 5 am a period of calmness arrived so I hacked together a new way to prop up my tent despite the broken pole. Finally I could get some proper sleep.
 
