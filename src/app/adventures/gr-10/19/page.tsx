@@ -11,7 +11,7 @@ In the morning I went to the sport shop in Gavarnie to see if I could fix my bro
 
 <p>As soon as they were fixed I wanted to go on a test hike. I decided to hitch the 10km up to Col de Tentes and was picked up by the first car I saw. The nice driver was a microbiologist from Bordeaux.</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5175.jpeg", caption: "Hitch-hiked up to this point."}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5175.jpeg", caption: "On the trail to Sarradets from Col des Tentes."}]} />
 
 The walk up to Refuge Sarradets was easy and very busy. This was a touristy spot and it was Saturday. However the trail had some cool waterfalls and decent views.
 
