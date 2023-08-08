@@ -2,45 +2,40 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Pombie (HRP Day 14)" date="July 24, 2023" prev="/adventures/gr-10/13" next="/adventures/gr-10/15">
+  <Post title="Getting Lost (HRP Day 16)" date="July 26, 2023" prev="/adventures/gr-10/15" next="/adventures/gr-10/17">
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5079.jpeg", caption: "Another high point reached today! Col de Cambalès, 2700m"}]} />
 
-<p>During the night there was a dry thunderstorm with lightning. I experienced some some the strongest winds I’d ever felt while camping. One gust was so powerful that it snapped the end of my hiking pole and my tent collapsed!</p>
+    Today’s feature was the Col de Cambalès at 2700m. Just like yesterday, we started our day at 7am.
 
-I spent half of the night sleeping under a collapsed tent, because the winds were too strong for me to go outside and try to repitch it. Around 4 or 5 am a period of calmness arrived so I hacked together a new way to prop up my tent despite the broken pole. Finally I could get some proper sleep.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5057.jpeg", caption: "Descending a beautiful valley"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4959.jpeg", caption: "Crazy windy campsite"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5058.jpeg", caption: "Breakfast"}]} />
 
-Luckily today was a short day, and I had booked a stay inside Refuge de Pombie. The reservation included dinner, which I was pretty excited about.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5064.jpeg", caption: "Beginning the ascent to Col de Cambalès"}]} />
 
-I began the day’s trek with a short climb to a col, which offered a great view of the famous Pic du Midi d’Ossau. This col was also the border and I reentered France soon after. 
+I have been experimenting with different foods and sugar intake in the mornings to find out how to best fuel the 1000+ meter climbs of the HRP. Today I felt energized for the first 300m and started to crash afterwards. Many snack breaks were needed.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4960.jpeg", caption: "Col des Moines, 2168m"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5069.jpeg", caption: "Every day we face a bigger boulder field"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4965.jpeg", caption: "Epic view of Pic du Midi d'Ossau, a Pyrenean icon"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5071.jpeg", caption: "Climbing higher"}]} />
 
-Continuing the descent into some clouds, I met a Scottish family while trying to navigate in poor visibility. When I found the trail it was time to ascend again.
+Each going at our own paces, my friends and I got split up about 300m from the Col. Left to navigate the boulders on my own, I followed some stone cairns up a wrong path for about 100 meters of gain before checking my map. Not a costly mistake, but had I kept going I would have gone over the wrong Col! Later I would learn that Jacques had in fact followed this false path all the way into Spain.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4967.jpeg", caption: "Wayfinding in the clouds"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5074.jpeg", caption: "The wrong way!"}]} />
 
-Halfway up to Col de Peyreget, I caught up to Camille, who had stayed at Refuge Ayous the previous night! She was with Jacques, a section hiker whom I’d also met previously.
+After fixing my route and losing some time, I made it over correct Col.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4970.jpeg", caption: "Closer look at the Pic du Midi d'Ossau"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5079.jpeg", caption: "Col de Cambalès! 2700 meters and high point of the trip so far."}]} />
 
-The three of us continued the climb to the col, crossing a section of large boulders.
+In the next valley I had a quick swim in the Lac de Cambalès.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4972.jpeg", caption: "Climbing up to Col de Peyreget"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5087.jpeg", caption: "She was blocking the path"}]} />
 
-At the col we stopped to have lunch. Since we could already see the refuge from here, we were in no rush.
+I made it to the bivouac area outside Refuge Wallon around 5. Camille was already there, but Jacques was nowhere to be seen, even though he had been somewhere between Camille and me. It was not until 6:30 that he showed up. Miraculously, without a GPS he had talked to some Spaniards and found his way back to France via an alternate route after getting lost. Thankfully he was okay and we had a beer to celebrate the day.
 
-<p>Not interested in descending down into more clouds, Camille and I stopped to chill at a lake. I went for a swim and tried to read a french book I picked up a few days ago.</p>
+<p>Today’s lesson learned is to trust the map, not the cairns!</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4974.jpeg", caption: "Lake swim"}]} />
-
-The final descent to Pombie took us into the mist, which would linger for the rest of the day and night. the refuge was small, but dinner was great and the company was interesting. I met one Hungarian guy who was trying to complete the HRP in 25 days.
-
-<p>The misty weather would continue into tomorrow, but at least I could sleep under a roof tonight!</p>
-
-Ibon de Escalar to Refuge de Pombie - 9.2km and 728m gained.
+Refuge de Larribet to Refuge de Wallon - 19.73km and 1277m gained.
   </Post>
 );
 
