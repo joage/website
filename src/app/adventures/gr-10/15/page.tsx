@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Reaching new heights (HRP Day 15)" date="July 25, 2023" prev="/adventures/gr-10/14">
+  <Post title="Reaching new heights (HRP Day 15)" date="July 25, 2023" prev="/adventures/gr-10/14" next="/adventures/gr-10/16">
     <ImageGroup images={[{path: "/images/IMG_5024.jpeg", caption: "Col du Palas, 2517m"}]} />
 
     A day of highs and lows! We were warned of bad weather and possible rain last night so this morning we left early at 7 am. Staying in refuges in this part of the pyrenees usually means a morning descent instead of a climb. 
