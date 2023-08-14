@@ -3,13 +3,13 @@ import Post from '@/components/Post';
 
 const GR = () => (
   <Post title="Boulders (HRP Day 30)" date="August 9, 2023" prev="/adventures/gr-10/28" next="/adventures/gr-10/31">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5499.jpeg", caption: "Tuc de Marimanha 2679m"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5499.jpeg", caption: "Tuc de Marimanha, 2679m"}]} />
 
 This morning I left the campsite in Arties at 9am. My bag felt extremely heavy from the food I bought in Vielha. Walking along the road, I tried to get a hitch but there were no takers at first. After a few hundred meters, a guy named Jose picked me up. As it turned out, he was going to the exact same place I wanted to go, Baqueira! In fact, he was even heading up the small side road that I planned on walking along.
 
 <p>Jose saved me about 600m of ascent today. It kind of felt like cheating, but today’s hike was going to be a hard one so I was grateful.</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5499.jpeg", caption: "Road leading to the ski resort Baqueira"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5476.jpeg", caption: "Road leading to the ski resort Baqueira"}]} />
 
 After I was dropped off near the ski lifts at Baquiera, I started the climb up the valley to some lakes. My legs felt heavy and I had eaten so much in the past couple days that my pace was significantly slower.
 
@@ -23,13 +23,13 @@ My first objective was to climb the Tuc de Marimanha. This was a cool climb beca
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5491.jpeg", caption: "Initial bouldery section"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5499.jpeg", caption: "Nearing the summit. Pic d'Aneto is visible far in the distance"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5496.jpeg", caption: "Nearing the summit. Pic d'Aneto is visible far in the distance"}]} />
 
 At the top of Marimanha I met a Catalonian couple and we took pictures for each other.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5509.jpeg", caption: "Summit!"}, {path: "/images/gr-10/IMG_5504.jpeg", caption: "Picture was requested in the middle of lunch"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5402.jpeg", caption: "Looking east from the top"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5502.jpeg", caption: "Looking east from the top"}]} />
 
 From the summit a ridge walk led to some smaller peaks, and into a boulder filled valley.
 
