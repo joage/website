@@ -3,7 +3,6 @@ import Post from '@/components/Post';
 
 const GR = () => (
   <Post title="Wonton soup (HRP Day 32)" date="August 11, 2023" prev="/adventures/gr-10/31" next="/adventures/gr-10/33">
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5603.jpeg", caption: "Noarre"}]} />
 
 Last night I slept outside my tent under the stars for the first half of the night to watch the Perseid meteor shower. I think I saw 5 shooting stars before falling asleep.
 
@@ -15,13 +14,13 @@ Last night I slept outside my tent under the stars for the first half of the nig
 
 There was plenty of water along the way, so I never had to carry too much in my bottle. At the highest lake, I stopped for a quick swim to cool off.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5603.jpeg", caption: "I took a dip here and continued the climb"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5608.jpeg", caption: "I took a dip here and continued the climb"}]} />
 
 The final 200m to the col followed an easy trail, and soon I was looking down on yet another lake, Estany de Certascan.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5609.jpeg", caption: "Col de Certascan, 2589m"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5612.jpeg", caption: "Estany de Certascan in the distance. Climbing through more red rocks "}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5612.jpeg", caption: "Estany de Certascan in the distance. Walking through more red rocks "}]} />
 
 I made my way down the steep descent quickly and arrived at the Refuge de Certascan. I got a big plate of pasta, and checked the weather forecast for the next few days. Since there was a storm the following day, I made a reservation at the next refuge for tomorrow.
 
