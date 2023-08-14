@@ -8,10 +8,28 @@ export default function Adventures() {
       <Nav />
       <div className="flex flex-col gap-6 max-w-3xl pt-8 text-sm">
         <p>Trip reports from my hikes and travels. Newest first!</p>
-        <p>Haute Route Pyrénéenne (2023 Ongoing!):</p>
+        <p>Haute Route Pyrénéenne (Aug 2023 Ongoing!):</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
-            <Link href="/adventures/gr-10/28">HRP Day 28 - Arties</Link>
+            <Link href="/adventures/gr-10/35">HRP Day 35 - Arinsal</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/34">HRP Day 34 - Andorra</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/33">HRP Day 33 - Val Ferrera</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/32">HRP Day 32 - Wonton soup</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/31">HRP Day 31 - Red rock</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/30">HRP Day 30 - Boulders</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/28">HRP Day 28-29 - Arties</Link>
           </li>
           <li>
             <Link href="/adventures/gr-10/27">HRP Day 27 - Swimming</Link>
@@ -23,7 +41,7 @@ export default function Adventures() {
             <Link href="/adventures/gr-10/25">HRP Day 25 - Snowstorm</Link>
           </li>
           <li>
-            <Link href="/adventures/gr-10/24">HRP Day 24 - Fog!</Link>
+            <Link href="/adventures/gr-10/24">HRP Day 24 - Fog</Link>
           </li>
           <li>
             <Link href="/adventures/gr-10/23">HRP Day 23 - On the GR 11</Link>
