@@ -2,31 +2,40 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Swimming (HRP Day 27)" date="August 6, 2023" prev="/adventures/gr-10/26" next="/adventures/gr-10/28">
+  <Post title="Val Ferrera (HRP Day 33)" date="August 12, 2023" prev="/adventures/gr-10/32" next="/adventures/gr-10/34">
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5636.jpeg", caption: "Alpenglow on the nearby peaks"}]} />
 
-I only had one goal in mind for today-to swim in a lake. My body needed a break from the past few days of high cols and difficult hiking, so I kept the mileage short in order to relax.
+I got up pretty early today to avoid walking in the sun. The morning climb looked better and felt easier in the shade.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5434.jpeg", caption: "The morning descent"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5641.jpeg", caption: "Starting the climb in the shade for once"}]} />
 
-By the road in Espitau de Vielha, I ran into Dan and Benjamin, two HRP hikers who had done the same itinerary as me yesterday. They shared my desire to bathe in cold water today.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5642.jpeg", caption: "Following the GR 11 today, red and white stripes"}, {path: "/images/gr-10/IMG_5639.jpeg", caption: "Really easy, gentle trail reminds me of Yosemite valley"}]} />
 
-<p>After I ate a big lunch, I climbed a gentle slope following the GR 11. It was not a difficult trail but I still felt tired from yesterday.</p>
+Cows dominated this valley, but once I climbed above a meadow, horses took their place.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5435.jpeg", caption: "Back on the GR 11"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5644.jpeg", caption: "Meadow"}]} />
 
-I reached the Lake Rius by mid-afternoon, so I had plenty of time to swim and lay in the sun. I may have stayed a bit too long because the next day I felt a slight sunburn on my chest.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5646.jpeg", caption: "Quick break"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5436.jpeg", caption: "Lac de Rius"}]} />
+I quickly made it up the gentle slope to Col de Sellente.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5437.jpeg", caption: "Swim spot"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5648.jpeg", caption: "Col de Sellente, 2487m"}]} />
 
-For the final part of the day, I descended 7 km along the GR 11 and climbed a short but steep hill to my destination, Refugi Restanca by a dammed lake. Here I ran into Benjamin and Dan again, so we had a drink. They left to bivouac somewhere, and I decided to stay in the refuge. I spent the rest of the day cooking all of my food and eating way too much mashed potatoes.
+After the col, I descended to a hut by a lake to have lunch. It was still early so I went for a quick swim in the water, which was too cold for me.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5445.jpeg", caption: "Dinner"}, {path: "/images/gr-10/IMG_5448.jpeg", caption: "He wanted some cheese"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5655.jpeg", caption: "Baborte hut, an unstaffed high altitude refuge with 8 bunks inside."}]} />
 
-Tomorrow I will be in Salardú, a town and resupply point!
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5658.jpeg", caption: "Swim spot at Estany de Baborte"}]} />
 
-<p>Refugi Mulleres to Refugi Restanca - 17.0km and 1045m gained.</p>
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5659.jpeg", caption: "Water was cold but super clear"}]} />
+
+Some time later, I continued down the valley to a stream. I dipped my feet in before continuing to Val Ferrera. It was a really hot day.
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5665.jpeg", caption: "View from Refugi de Val Ferrera"}]} />
+
+At the refuge, I ate dinner and met some other hikers, including one guy who was doing the HRP but also climbing a bunch of peaks as side quests. He did 3000m of climbing today, which is insane.
+
+<p>Pla de Boavi to Refugi de Val Ferrera - 13.47km and 1297m gained.</p>
   </Post>
 );
 
