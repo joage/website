@@ -54,7 +54,7 @@ I took my time going down toward the lakes. I planned to camp by the Refugi Enri
 
 After reaching the refuge, I noticed that the bivouac spot was tiny and the refuge was also full. I decided to keep going down 50m to the next lake, where I saw a bigger camp spot. I pitched my tent and had plenty of time to stretch, cook dinner, and plan the next three days of hiking (to reach Andorra!)
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5589.jpeg", caption: "Tortellini, mashed potatos, jamó ibérico"}, {path: "/images/gr-10/IMG_5594.jpeg", caption: "Sunset from camp"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5589.jpeg", caption: "Tortellini, mashed potatos, jamón ibérico"}, {path: "/images/gr-10/IMG_5594.jpeg", caption: "Sunset from camp"}]} />
 
 Today’s section of the HRP has been one of my favorites. The variety of landscapes blew my mind. Navigation on the route was also so much easier than yesterday.
 
