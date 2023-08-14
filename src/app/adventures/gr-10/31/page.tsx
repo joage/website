@@ -4,29 +4,65 @@ import Post from '@/components/Post';
 const GR = () => (
   <Post title="Swimming (HRP Day 27)" date="August 6, 2023" prev="/adventures/gr-10/26" next="/adventures/gr-10/28">
 
-I only had one goal in mind for today-to swim in a lake. My body needed a break from the past few days of high cols and difficult hiking, so I kept the mileage short in order to relax.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5577.jpeg", caption: "Incredible views this afternoon!"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5434.jpeg", caption: "The morning descent"}]} />
+I slept in at the Refugi Alos d’Isil. For once nobody was making noise in the morning–I was the only person in the room with 20 beds. Around 9:30 I left the village and began walking along the road which led to the national park.
 
-By the road in Espitau de Vielha, I ran into Dan and Benjamin, two HRP hikers who had done the same itinerary as me yesterday. They shared my desire to bathe in cold water today.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5527.jpeg", caption: "Morning in Alos d'Isil"}, {path: "/images/gr-10/IMG_5529.jpeg", caption: "Leaving the village"}]} />
 
-<p>After I ate a big lunch, I climbed a gentle slope following the GR 11. It was not a difficult trail but I still felt tired from yesterday.</p>
+After a river crossing, the trail started to climb. It was hot, and I think a type of stinky flower was blooming which made the air smell like rotting compost.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5435.jpeg", caption: "Back on the GR 11"}]} />
+<p>When I climbed about 700m up, I reached a meadow where I took a break and got more water from a stream.</p>
 
-I reached the Lake Rius by mid-afternoon, so I had plenty of time to swim and lay in the sun. I may have stayed a bit too long because the next day I felt a slight sunburn on my chest.
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5533.jpeg", caption: "Butterflies everywhere"}, {path: "/images/gr-10/IMG_5534.jpeg", caption: "Cascades above the meadow"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5436.jpeg", caption: "Lac de Rius"}]} />
+The HRP then led me to some waterfalls, and up a steep gully filled with scree. Luckily the scree did not slide too much under my feet because there was also some grass to hold the terrain in place. Cairns marked the trail well.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5437.jpeg", caption: "Swim spot"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5537.jpeg", caption: "Trail steepened toward the col"}]} />
 
-For the final part of the day, I descended 7 km along the GR 11 and climbed a short but steep hill to my destination, Refugi Restanca by a dammed lake. Here I ran into Benjamin and Dan again, so we had a drink. They left to bivouac somewhere, and I decided to stay in the refuge. I spent the rest of the day cooking all of my food and eating way too much mashed potatoes.
+It took me 4 hours to reach the Col de Cornella at 2482m.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5445.jpeg", caption: "Dinner"}, {path: "/images/gr-10/IMG_5448.jpeg", caption: "He wanted some cheese"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5540.jpeg", caption: "Col de Cornella, first of 3 cols today"}]} />
 
-Tomorrow I will be in Salardú, a town and resupply point!
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5548.jpeg", caption: "Descending to some lakes"}]} />
 
-<p>Refugi Mulleres to Refugi Restanca - 17.0km and 1045m gained.</p>
+From here, I descended a steep and loose hill to some lakes. Continuing on, the scenery changed. As I walked along the path, I saw butterflies flying about, and later by a stream some tiny frogs who had just evolved from tadpole form.
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5556.jpeg", caption: "Tiny frogs"}]} />
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5558.jpeg", caption: "Third col, viewed from a pond after the second col"}]} />
+
+The trail continued to ascend to a second col, and a third col. From the latter I could see an expansive blue lake on the other side. I knew I wanted to swim and eat my lunch there.
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5563.jpeg", caption: "Col de Calberante, 2608m"}]} />
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5560.jpeg", caption: "Lake where I had lunch"}]} />
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5565.jpeg", caption: "and a swim"}]} />
+
+After lunch I continued the descent, and the scenery changed once again. Red rocks formed ramps to walk down, and clouds spilled over the crests of peaks along this valley to create a magical effect. Three lakes as smooth as glass appeared down below.
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5567.jpeg", caption: "More glassy blue lakes"}]} />
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5573.jpeg", caption: "Smooth granite"}]} />
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5579.jpeg", caption: "A red rock wonderland"}]} />
+
+I took my time going down toward the lakes. I planned to camp by the Refugi Enric Pujol, which was already in view.
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5585.jpeg", caption: "Refugi Enric Pujol"}]} />
+
+After reaching the refuge, I noticed that the bivouac spot was tiny and the refuge was also full. I decided to keep going down 50m to the next lake, where I saw a bigger camp spot. I pitched my tent and had plenty of time to stretch, cook dinner, and plan the next three days of hiking (to reach Andorra!)
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5589.jpeg", caption: "Tortellini, mashed potatos, jamó ibérico"}, {path: "/images/gr-10/IMG_5594.jpeg", caption: "Sunset from camp"}]} />
+
+Today’s section of the HRP has been one of my favorites. The variety of landscapes blew my mind. Navigation on the route was also so much easier than yesterday.
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5592.jpeg", caption: "The end of a majestic day"}]} />
+
+Tomorrow should be a relatively easy day!
+
+<p>Alos d'Isil to Estany de Llavera - 13.67km and 1549m gained.</p>
   </Post>
 );
 
