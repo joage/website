@@ -15,9 +15,9 @@ After I was dropped off near the ski lifts at Baquiera, I started the climb up t
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5481.jpeg", caption: "Back on the trail!"}]} />
 
-Once I got to the lakes I could see Aneto, the highest peak in the Pyrenees far behind me. It was such a clear day! I also a group of isards, a type of Pyrenean antelope.
+Once I got to the lakes I could see Aneto, the highest peak in the Pyrenees far behind me. It was such a clear day! Here I also spotted some marmots and a group of isards, a type of Pyrenean antelope.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5483.jpeg", caption: "Tuc de Marimanha from the meadow"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5483.jpeg", caption: "Tuc de Marimanha from the lakes"}]} />
 
 My first objective was to climb the Tuc de Marimanha. This was a cool climb because there was no trail, just a steep climb up the west face. Boulders gave way to grassy ledges, and at one point the trail was so steep I could smell the flowers and herbs without even bending down.
 
