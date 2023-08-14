@@ -4,6 +4,8 @@ import Post from '@/components/Post';
 const GR = () => (
   <Post title="Red rock (HRP Day 31)" date="August 10, 2023" prev="/adventures/gr-10/30" next="/adventures/gr-10/32">
 
+    Today marks my one month on the Haute Route Pyrénéene! I have been walking for 31 days and over 500km.
+
     <ImageGroup images={[{path: "/images/gr-10/IMG_5577.jpeg", caption: "Incredible views this afternoon!"}]} />
 
 I slept in at the Refugi Alos d’Isil. For once nobody was making noise in the morning–I was the only person in the room with 20 beds. Around 9:30 I left the village and began walking along the road which led to the national park.
