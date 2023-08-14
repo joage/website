@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Swimming (HRP Day 27)" date="August 6, 2023" prev="/adventures/gr-10/26" next="/adventures/gr-10/28">
+  <Post title="Andorra (HRP Day 34)" date="August 13, 2023" prev="/adventures/gr-10/33" next="/adventures/gr-10/35">
 
 I only had one goal in mind for today-to swim in a lake. My body needed a break from the past few days of high cols and difficult hiking, so I kept the mileage short in order to relax.
 
