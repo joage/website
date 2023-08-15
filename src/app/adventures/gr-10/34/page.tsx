@@ -4,9 +4,9 @@ import Post from '@/components/Post';
 const GR = () => (
   <Post title="Andorra (HRP Day 34)" date="August 13, 2023" prev="/adventures/gr-10/33">
 
-    <ImageGroup images={[{path: "/images/gr-10/8cf1fb5c-92df-4e86-b0d3-70684506ea66.jpeg", caption: "Crossing into Andorra at Port de Baiau"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5687.jpeg", caption: "Port de Baiau, 2757m. Enterring Andorra!"}]} />
 
-Today I left Val Ferrera with Pavol, a Slovakian guy I met at the refuge. He was going the same direction as me, into Andorra!
+Today I left Val Ferrera with Pavol, a Slovakian guy I met at the refuge. He was going the same direction as me, into Andorra 🇦🇩!
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5670.jpeg", caption: "The morning climb"}]} />
 
@@ -24,7 +24,7 @@ The last part of the climb was some of the steepest scree I've ever walked on.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5684.jpeg", caption: "Steep section near the top"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5687.jpeg", caption: "Port de Baiau, 2757m. Enterring Andorra!"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/8cf1fb5c-92df-4e86-b0d3-70684506ea66.jpeg", caption: "Crossing into Andorra at Port de Baiau"}]} />
 
 After we crossed the border, I dropped my pack to climb up to Coma Pedrosa, the tallest peak in Andorra. Since it was Sunday, there was a crowd of people at the summit.
 
