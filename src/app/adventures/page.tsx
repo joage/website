@@ -11,6 +11,15 @@ export default function Adventures() {
         <p>Haute Route Pyrénéenne (Aug 2023 Ongoing!):</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
+            <Link href="/adventures/gr-10/37">HRP Day 37 - Leaving Andorra</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/36">HRP Day 36 - Oval</Link>
+          </li>
+          <li>
+            <Link href="/adventures/gr-10/35">HRP Day 35 - La Massana</Link>
+          </li>
+          <li>
             <Link href="/adventures/gr-10/34">HRP Day 34 - Andorra</Link>
           </li>
           <li>
