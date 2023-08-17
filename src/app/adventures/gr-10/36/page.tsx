@@ -14,7 +14,7 @@ After I had some espresso, made myself an eggy breakfast, and packed a lunch, I 
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5725.jpeg", caption: "Departing from El Serrat bus stop"}, {path: "/images/gr-10/IMG_5731.jpeg", caption: "I passed an interpretive garden"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5733.jpeg", caption: "Around 30 minutes in, I saw one of the fanciest staffed refuges I’ve seen so far."}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5733.jpeg", caption: "Around 30 minutes in, I walked into one of the fanciest staffed refuges I’ve seen so far."}]} />
 
 The afternoon climb felt incredibly sluggish. I always go slower after spending some time in a town, but today was especially lazy because of my lack of sleep last night. Thankfully a constant breeze kept me from overheating in the direct sunlight.
 
@@ -24,7 +24,7 @@ Near the top of the col, I saw some horses. Andorra has been weirdly free of far
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5737.jpeg", caption: "Andorran horses"}]} />
 
-There is really good LTE phone signal in this country. I stayed connected throughout the day, thanks to the blessing and curse that is Andorra Telecom.
+There is really good LTE phone signal in this country. I stayed connected throughout the day, thanks to Andorra Telecom.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5743.jpeg", caption: "The valley I just ascended"}]} />
 
