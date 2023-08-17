@@ -31,9 +31,7 @@ At Refugi Juclar, I got a sandwich and contemplated my plan for the rest of the 
 
 The descent into France from Col de l'Albe began with a lot of rock hopping under a darkened sky. The boulders went on past two lakes, before giving way to easier trail. A splash of rain made me take out my jacket, only to immediately put it back in my bag once the rain stopped and it got too hot.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5804.jpeg", caption: "Interesting peaks above second lake"}]} />
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5805.jpeg", caption: "Lots of boulders to traverse"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5804.jpeg", caption: "Interesting peaks above second lake"}, {path: "/images/gr-10/IMG_5805.jpeg", caption: "Lots of boulders to traverse"}]} />
 
 I saw so many swimmable blue lakes. Unfortunately I could not take a dip, because the weather worried me, and I had to get down before it began to rain again.
 
@@ -41,7 +39,7 @@ I saw so many swimmable blue lakes. Unfortunately I could not take a dip, becaus
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5811.jpeg", caption: "Yet another lake"}]} />
 
-The final descent to L’Hospitalet-près-l’Andorre took me past a dammed lake and into a deep valley. The sun set over the high ridges as I walked into town.
+The final descent to L’Hospitalet-près-l’Andorre took me into a deep valley. The sun set over the high ridges as I walked into town.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5815.jpeg", caption: "Found a stream to ice my legs"}]} />
 
