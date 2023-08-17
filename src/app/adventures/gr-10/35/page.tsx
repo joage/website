@@ -2,31 +2,39 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Swimming (HRP Day 27)" date="August 6, 2023" prev="/adventures/gr-10/26" next="/adventures/gr-10/28">
+  <Post title="La Massana (HRP Day 35)" date="August 14, 2023" prev="/adventures/gr-10/34" next="/adventures/gr-10/36">
 
-I only had one goal in mind for today-to swim in a lake. My body needed a break from the past few days of high cols and difficult hiking, so I kept the mileage short in order to relax.
+In the morning I woke up to thunder. Looking outside my tent, I spotted some clouds rolling over the southern hills of the valley.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5434.jpeg", caption: "The morning descent"}]} />
+<p>I quickly zipped up my tent flaps which I had left open during the night for ventilation, and pretty soon rain started pouring down. A thunderstorm at 6am!</p>
 
-By the road in Espitau de Vielha, I ran into Dan and Benjamin, two HRP hikers who had done the same itinerary as me yesterday. They shared my desire to bathe in cold water today.
+I went back to sleep for a few more hours, and slowly got ready for the hike down to Arinsal. Today was going to be a short day.
 
-<p>After I ate a big lunch, I climbed a gentle slope following the GR 11. It was not a difficult trail but I still felt tired from yesterday.</p>
+<p>The descent was steep but manageable. After a junction, the trail entered some woods.</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5435.jpeg", caption: "Back on the GR 11"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5705.jpeg", caption: "Morning rain brought out the frogs"}, {path: "/images/gr-10/IMG_5709.jpeg", caption: "Foresty descent"}]} />
 
-I reached the Lake Rius by mid-afternoon, so I had plenty of time to swim and lay in the sun. I may have stayed a bit too long because the next day I felt a slight sunburn on my chest.
+Hiking through a forest after bit of rain is such a nice feeling. The spongy ground and crisp air was a nice contrast to the rocky wilderness I’d been walking through.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5436.jpeg", caption: "Lac de Rius"}]} />
+<p>When I reached Arinsal, I bought some fuel for my stove and groceries. As I waited for the restaurants to open, I planned my next few days of walking.</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5437.jpeg", caption: "Swim spot"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5713.jpeg", caption: "Arinsal, Andorra"}]} />
 
-For the final part of the day, I descended 7 km along the GR 11 and climbed a short but steep hill to my destination, Refugi Restanca by a dammed lake. Here I ran into Benjamin and Dan again, so we had a drink. They left to bivouac somewhere, and I decided to stay in the refuge. I spent the rest of the day cooking all of my food and eating way too much mashed potatoes.
+Arinsal is a ski resort, and everything comes at a premium, especially food and drinks! At lunch, the menu was written in four languages-French, Spanish, English, and Catalan (the official language of Andorra)
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5445.jpeg", caption: "Dinner"}, {path: "/images/gr-10/IMG_5448.jpeg", caption: "He wanted some cheese"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5716.jpeg", caption: "Lunch"}]} />
 
-Tomorrow I will be in Salardú, a town and resupply point!
+The day started to get hot, and I didn't not feel like hiking more this afternoon. I was super curious about city life in Andorra, so I booked a place to stay in La Massana for the night. The bus arrived promptly, and pretty soon I checked into The Secret Spot hostel.
 
-<p>Refugi Mulleres to Refugi Restanca - 17.0km and 1045m gained.</p>
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5721.jpeg", caption: "Secret hostel entrance, La Massana"}]} />
+
+La Massana felt a bit less like disneyland compared to Arinsal, but it still had a strong tourist vibe. However the town felt very livable, and I could easily walk around to explore. My first stop was the grocery store for some vegetables, which I almost never carry while hiking. The restaurants looked pricey and not that special so I decided to cook dinner.
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5723.jpeg", caption: "a home cooked meal always hits the spot"}]} />
+
+Andorra is world famous for cycling, and many of my roommates in the hostel were cyclists. The place had bike wheels and snowboards as wall decoration and light fixtures. While cooking dinner, I enjoyed talking to some fellow North Americans, the first ones I’ve met in at least two weeks.
+
+<p>Refugi de Comapedrosa to Arinsal - 4.78km and 747m lost.</p>
   </Post>
 );
 
