@@ -4,8 +4,6 @@ import Post from '@/components/Post';
 const GR = () => (
   <Post title="La Massana (HRP Day 35)" date="August 14, 2023" prev="/adventures/gr-10/34" next="/adventures/gr-10/36">
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5445.jpeg", caption: "Dinner"}, {path: "/images/gr-10/IMG_5448.jpeg", caption: "He wanted some cheese"}]} />
-
 In the morning I woke up to thunder. Looking outside my tent, I spotted some clouds rolling over the southern hills of the valley.
 
 <p>I quickly zipped up my tent flaps which I had left open during the night for ventilation, and pretty soon rain started pouring down. A thunderstorm at 6am!</p>
@@ -26,11 +24,11 @@ Arinsal is a ski resort, and everything comes at a premium, especially food and 
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5716.jpeg", caption: "Lunch"}]} />
 
-The day started to get hot, and I really did not feel like hiking more this afternoon. I was super curious about city life in Andorra, so I booked a place to stay in La Massana for the night. The bus arrived promptly, and pretty soon I checked into The Secret Spot hostel.
+The day started to get hot, and I didn't not feel like hiking more this afternoon. I was super curious about city life in Andorra, so I booked a place to stay in La Massana for the night. The bus arrived promptly, and pretty soon I checked into The Secret Spot hostel.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5721.jpeg", caption: "Secret hostel entrance, La Massana"}]} />
 
-La Massana felt a bit less disneylandish compared to Arinsal, but it still had a strong tourism vibe. However the town felt very livable, and I could easily walk around to explore. My first stop was the grocery store for some vegetables, which I almost never carry while hiking. The restaurants looked pricey and not that special so I decided to cook dinner.
+La Massana felt a bit less like disneyland compared to Arinsal, but it still had a strong tourist vibe. However the town felt very livable, and I could easily walk around to explore. My first stop was the grocery store for some vegetables, which I almost never carry while hiking. The restaurants looked pricey and not that special so I decided to cook dinner.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5723.jpeg", caption: "a home cooked meal always hits the spot"}]} />
 
