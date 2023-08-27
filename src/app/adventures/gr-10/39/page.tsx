@@ -46,7 +46,7 @@ After some time, I decided on a plan. I would not do Carlit the next day, and in
 
 This final climb felt okay, maybe because it wasn’t so hot. I played music from my phone as the sun passed in and out of clouds.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5855.jpeg", caption: "Last col of the day"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5855.jpeg", caption: "Last col of the day, Portella de la Grava, 2434m"}]} />
 
 After the col, I entered a new valley. As usual, horses were present near the top, but as I descended further, cows replaced them.
 
@@ -58,7 +58,7 @@ At a marshy plateau, I saw some families with tents set up along a network of st
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5862.jpeg", caption: "Dinner"}]} />
 
-<p>Coms de Jan to L'Hospitalet-près-l'Andorre - 21.37km and 1369m gained, 1984m lost</p>
+<p>L'Hospitalet-près-l'Andorre to Valleé de la Grave - 19.37km and 1405m gained</p>
   </Post>
 );
 
