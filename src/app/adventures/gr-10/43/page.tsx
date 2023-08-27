@@ -26,7 +26,7 @@ I descended the dry grassy slopes to Refuge Batère, where I found David, an HRP
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6064.jpeg", caption: "Descent to Arles"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_6067.jpeg", caption: "Dry and hot}, {path: "/images/gr-10/IMG_6070.jpeg", caption: "Sandstone gullys to walk down"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_6067.jpeg", caption: "Dry and hot"}, {path: "/images/gr-10/IMG_6070.jpeg", caption: "Sandstone gullys to walk down"}]} />
 
 The 3hr walk down left me sweaty and tired. I pitched my tent in the hard ground at the Arles Camping, and quickly headed to the grocery store before they closed.
 
