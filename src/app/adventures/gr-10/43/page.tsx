@@ -18,7 +18,7 @@ I started my walk in the forest. The path did not climb or descend, but rather c
 
 A couple hours in, the trail started to ascend. I struggled up to the col in the heat as the sun got higher in the sky.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_6050.jpeg", caption: "These paint marks are fresh and I met a couple carrying paint buckets to restripe the GR 10 for the Club Randonnée}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_6050.jpeg", caption: "These paint marks are fresh and I met a couple carrying paint buckets to restripe the GR 10 for the Club Randonnée"}]} />
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6051.jpeg", caption: "Col de la Cirère, 1731m. Sweaty"}]} />
 
