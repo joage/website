@@ -4,6 +4,8 @@ import Post from '@/components/Post';
 const GR = () => (
   <Post title="Eyne (HRP Day 40)" date="August 19, 2023" prev="/adventures/gr-10/39" next="/adventures/gr-10/41">
 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5882.jpeg", caption: "Road walk to Eyne"}]} />
+
 Today I left camp super late. I kept going back to sleep after waking up, until cows started mooing and splashing in the stream close by. Some got close enough for me to open my tent and shoo them off. It was as if they were telling me stop being lazy and to get going.
 
 <p>The day would start with a long downhill, followed by some towns, and then an undetermined amount of uphill depending on how tired I would be.</p>
@@ -30,8 +32,6 @@ After I resupplied, I walked the 5k toward Eyne, the next village in the wide va
 
 At a railroad, I left the GR 10 and continued through farmland. 
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5882.jpeg", caption: "Road walk to Eyne"}]} />
-
     <ImageGroup images={[{path: "/images/gr-10/IMG_5884.jpeg", caption: "Farmland in dramatic weather"}]} />
 
 The weather was looking stormy up high on the hills where I was heading, so I decided to stop in Eyne and have a meal. As I waited for their kitchen to open at 7, I had a couple beers and wrote this trip report.
@@ -48,7 +48,7 @@ I didn’t want to leave Eyne, but it was time to get going. At 8pm as the sun s
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5890.jpeg", caption: "Entering the Vallée d'Eyne"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5884.jpeg", caption: "Looking back where I came from"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5892.jpeg", caption: "Looking back where I came from"}]} />
 
 I wanted to get as close to the col as possible to avoid climbing in the heat tomorrow, so I took out my headlamp and continued on.
 
