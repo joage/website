@@ -4,7 +4,7 @@ import Post from '@/components/Post';
 const GR = () => (
   <Post title="Epic ridge (HRP Day 41)" date="August 20, 2023" prev="/adventures/gr-10/40" next="/adventures/gr-10/42">
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5893.jpeg", caption: "Where I woke up"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5906.jpeg", caption: "Ridge walk"}]} />
 
 I woke up to footsteps outside of my tent. Last night I had set up camp in the dark, so I picked a spot super close to the trail. 
 
@@ -27,8 +27,6 @@ I made it to the col after 1.5 hours. It was tiring, but I felt much better than
 The next section took me over a spectacular ridge spanning 5 grassy peaks. I had the option of summiting each peak as I passed, so I climbed up 3 of them. All along this ridge I had 360 degree views of the surrounding mountains and valleys.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5903.jpeg", caption: "Pic de les Nou Fonts, 2861m"}]} />
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5906.jpeg", caption: ""}]} />
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5911.jpeg", caption: "Views from the ridge"}]} />
 
