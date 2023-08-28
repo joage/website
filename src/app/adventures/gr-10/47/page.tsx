@@ -24,11 +24,13 @@ Feeling light as ever, we started the descent down to Banyuls beach.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6224.jpeg", caption: "The last peak was no more than a small bump"}]} />
 
-I was eager to make it to the end, but the final day was a bit of a comedown as we were literally deacending from the peaks to sea level. It would take some adjusting to go back to normal life, which Banyuls, a tourist town, had a lot of.
+<p>On the way down, dry yellow hills covered in vineyards made it feel like I was coming home in a way.</p>
+
+I had been eager to make it to the end, but this final day was a bit of a comedown as we were literally deacending from the peaks to sea level. It would take some adjusting to go back to normal life, which Banyuls, a tourist town, had a lot of.
 
 <p>When we made it to Banyuls it was 11am. Dan's family was waiting for him. I went straight to the beach. I removed my clothes and walked into the water.</p>
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_6230.jpeg", caption: "Banyuls. The end of my 47 day long walk from ocean to sea."}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_6230.jpeg", caption: "Banyuls! The end of my 47 day long walk from ocean to sea."}]} />
 
 <p>Pic des Quatre Termes to Banyuls Plage - 14.61km and 147m gained, 1257m lost</p>
   </Post>
