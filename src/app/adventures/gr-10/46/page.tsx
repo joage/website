@@ -40,7 +40,7 @@ We continued along the ridge until we found a water fountain at Tanyareda. This 
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6169.jpeg", caption: "Looking for a camp site with a view for sunrise."}]} />
 
-At Pic des Quatre Termes, we could view the sea more clearly. Banyuls was blocked by a mountain, but the Cap de Creus, Argelès, and several small red-roofed towns were visible on the coastline. Even though it was pretty windy, we set up our tents here. It would be our last night of camping so it was time to feast!
+At Pic des Quatre Termes, we could view the sea more clearly. Banyuls was blocked by a mountain, but the Cap de Creus, Argelès, and several small red-roofed towns were visible on the coastline. Even though it was pretty windy, we set up our tents here. It was our last night of camping so we had to feast!
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6172.jpeg", caption: "Cooking dinner"}, {path: "/images/gr-10/IMG_6174.jpeg", caption: "Chorizo, zucchini, couscous, tapenade, harissa, bread"}]} />
 
