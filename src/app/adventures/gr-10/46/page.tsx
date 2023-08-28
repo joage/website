@@ -14,7 +14,7 @@ We only had an easy descent to Le Perthus this morning. On the way, we passed by
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6124.jpeg", caption: "An old roman building"}]} />
 
-It was only 8:30 in Le Perthus, but the kebab place opened early for the road trippers crossing the border. Half of the town lies in France, and the other half in Spain. We bought some wine and ingredients for dinner.
+It was only 8:30 in Le Perthus, but the kebab place opened early for the road trippers crossing the border. Half of the town lies in France, and the other half in Spain. We bought some wine and ingredients for dinner from the Spanish side.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_2268.jpeg", caption: "Kebab wrap at Snack Al Paso in Le Perthus"}]} />
 
@@ -28,7 +28,7 @@ After lunch we asked the bartender to open up our wine bottle before setting off
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6158.jpeg", caption: "Ascending Pic Neulos"}]} />
 
-We planned to stop for a nap ay Pic Neulos but there were too many radio antennae making loud noises there.
+We planned to stop for a nap at Pic Neulos but there were too many radio antennae making loud noises there.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6162.jpeg", caption: "Pic Neulos, 1257m"}]} />
 
@@ -36,7 +36,7 @@ We planned to stop for a nap ay Pic Neulos but there were too many radio antenna
 
 We continued along the ridge until we found a water fountain at Tanyareda. This would be the last water before Banyuls beach. As we rested, I booked a hotel for the next night in Banyuls. We could see the sea now!
 
-<p>It got colder and windier in the time we sat resting. Now the plan was to continue along the ridge until we found a place to camp overlooking the Mediterranean. We wanted to see the sunrise tomorrow.
+<p>It got colder and windier in the time we sat resting. Now the plan was to continue along the ridge until we found a place to camp overlooking the Mediterranean. We wanted to see the sunrise tomorrow.</p>
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6169.jpeg", caption: "Looking for a camp site with a view for sunrise."}]} />
 
