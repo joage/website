@@ -20,7 +20,7 @@ At the windy peak of Roc de Frausa, we took a break before heading down through 
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6101.jpeg", caption: "Forest walk. This is the last time the HRP crosses into Spain/Catalonia!"}]} />
 
-After a brief but hot deacent into Spain, we reentered France near the town of Las Illas. It was only midday, so we decided to have lunch at the Hostal dels Trabucayres, which was hyped up by our guidebooks.
+After a brief but hot descent into Spain, we reentered France near the town of Las Illas. It was only midday, so we decided to have lunch at the Hostal dels Trabucayres, which had been hyped up by our guidebooks.
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6105.jpeg", caption: "Lunch at Hostal dels Trabucayres"}]} />
 
@@ -28,11 +28,11 @@ Lunch was so good that we decided to stay for dinner and continue on when the su
 
 <p>I took an outdoor shower at the town square, and washed some of my clothes. Then, Dan and I had dinner with Alex from Paris and Michael from Hong Kong back at the restaurant.</p>
 
-Dinner took a bit longer than we expected but the vibes were good. At around 10 pm, we headed out from Las Illas. The cool air and night life gave us new energy, in addition to the espresso shot we each had just after dinner. 
+Dinner took a bit longer than we expected but the vibes were good. At around 10 pm, we headed out from Las Illas. The cool air and darkness gave us new energy, in addition to the espresso shot we each had just after dinner. 
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_2234.jpeg", caption: "Starting the night hike at 10pm"}]} />
 
-We saw 3 wild boar and 5 toads during our night hike before getting tired and pitching our tents! We found a flat spot near the border fence and went straight to bed. Only two more days left!
+We saw 3 wild boar and 5 toads during our night walk before getting tired and pitching our tents! We found a flat spot near the border fence and went straight to bed. Only two more days left!
 
 <p>Mas de la Fargassa to Border marker 564 - 26.19km and 1169m gained</p>
   </Post>
