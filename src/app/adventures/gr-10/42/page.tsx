@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Canigou (HRP Day 42)" date="August 21, 2023" prev="/adventures/gr-10/41">
+  <Post title="Canigou (HRP Day 42)" date="August 21, 2023" prev="/adventures/gr-10/41" next="/adventures/gr-10/43">
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5948.jpeg", caption: "Morning colors"}]} />
 
@@ -54,6 +54,8 @@ It was only 3pm so climbing Canigou was still possible, even though the sky was 
 
 I saw only one group coming down from the summit as I ascended, since this was the less popular approach to the peak. Halfway up the switchbacks, I joined back up with the HRP and came to a fountain, Font Nostre, where I filled up my water.
 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_6008.jpeg", caption: "The guy I met at Pla Guillem told me about this crucial water source. Thanks Jordi!"}]} />
+
     <ImageGroup images={[{path: "/images/gr-10/IMG_6010.jpeg", caption: "Approaching the top section of Canigou"}]} />
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6011.jpeg", caption: "Looking back at the valley to the bowl (left side) where I descended from the ridge"}]} />
@@ -62,11 +64,11 @@ The final section of the climb involved scrambling up a steep rocky chimney to g
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6015.jpeg", caption: "The chimney scramble"}]} />
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_6017.jpeg", caption: "A lone spire in the chimney"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_6017.jpeg", caption: "A spire on the way up"}]} />
 
 I had two thoughts during the scramble: please don’t rain, and I hope nobody is coming down and knocking rocks in my direction.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_6020.jpeg", caption: "Steepest oart near the top"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_6020.jpeg", caption: "Steepest part near the top"}]} />
 
 Luckily none of these things happened on my climb. During the last 10 meters I started hearing voices above me, meaning I had made it! It was a classic scramble with a top-out right at the summit.
 
@@ -86,7 +88,7 @@ The descent down to Refuge de Cortalets took about an hour. When I arrived I man
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6039.jpeg", caption: "The Refuge des Cortalets had their own beer."}]} />
 
-It has been a big day! As I settled into my tent for the night I remembered the place I woke up this morning, and it felt very far away and long ago. My scenic deviation from the HRP was not a shortcut, but definitely worth it. I also did not expect to climb Canigou, but it ended up being the perfect capstone to a great day of wandering in the mountains.
+As I settled into my tent for the night I remembered the place I woke up this morning, and it felt very far away and long ago. My scenic deviation from the HRP was not a shortcut, but definitely worth it. I also did not expect to climb Canigou, but it ended up being the perfect capstone to a great day of wandering in the mountains.
 
 <p>Pla de Coma Ermada to Refuge des Cortalets - 28.33km and 1339m gained</p>
   </Post>
