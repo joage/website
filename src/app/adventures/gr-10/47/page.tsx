@@ -2,7 +2,7 @@ import ImageGroup from '@/components/ImageGroup';
 import Post from '@/components/Post';
 
 const GR = () => (
-  <Post title="Sunrise (HRP Day 47)" date="August 26, 2023" prev="/adventures/gr-10/46">
+  <Post title="Sunrise (HRP Day 47)" date="August 26, 2023" prev="/adventures/gr-10/46" next="/adventures/gr-10/48">
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_6185.jpeg", caption: "Today is the last day of my journey"}]} />
 
