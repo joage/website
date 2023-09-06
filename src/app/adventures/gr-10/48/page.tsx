@@ -10,7 +10,7 @@ Getting off the train in Hendaye intending to do the GR 10, I remember an intera
 
 My journey took me to 3 countries,  Spain, France and Andorra, although it felt like 5. Basque country was unique to itself, with its own language, food and culture, same with Catalonia.
 
-Each day was its own journey, with ups and downs like the elevation profile I followed. But over time larger sections developed in my mind, with start and end points in villages or resupply points. The scenery in the Pyrenees was as varied as the people I met. I walked with new friends each section. Many sections I walked alone.
+Each day had ups and downs like the elevation profile I followed. But over time larger sections developed in my mind, with start and end points in villages or resupply points. The scenery in the Pyrenees was as varied as the people I met. I walked with new friends each section. Many sections I walked alone.
 
 My favorite section is hard to say. Basque Country was cute and I made friends. Lescun to Gavarnie was magnificent but popular. Gavarnie to Salardu was the most epic and difficult. Salardu to L’Hospitalet was wild and lonely. L’Hospitalet to Banyuls was surprisingly beautiful, and hot towards the end.
 
@@ -28,8 +28,8 @@ Favorite peak: Canigou
 days hiked: 45 + 2 rest days
 nights camped (free): 24
 nights camped in a paid campground: 11
-nights stayed in a refuge/gite: 10
-nights stayed in a hotel: 2
+nights slept in a refuge/gite: 10
+nights slept in a hotel: 2
 
 
 kms hiked: 834 km
@@ -43,4 +43,3 @@ climbing the eiffel tower 162 times
 );
 
 export default GR;
-
