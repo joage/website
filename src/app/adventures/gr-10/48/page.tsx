@@ -24,7 +24,7 @@ Following the Paul Whiteburn pocket guide (a pdf downloaded on my phone) and Map
 
 My french has gotten better. Talking to strangers was often a necessity in the mountains, so I improved faster than I ever did in a classroom. However I still cannot speak spanish.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5318.jpeg", caption: "Day 22"}, {path: "/images/gr-10/IMG_6020.jpeg", caption: "Day 42"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4730.jpeg", caption: "Day 8"}, {path: "/images/gr-10/IMG_6020.jpeg", caption: "Day 42"}]} />
 
 HRP totals:
 
@@ -45,6 +45,8 @@ HRP totals:
 <p>Amount of cheese carried and eaten: 3kg</p>
 <p>Favorite cheese: Tomme de brebis
 Favorite peak: Canigou</p>
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4472.jpeg", caption: "Day 1 Start"}, {path: "/images/gr-10/IMG_6230.jpeg", caption: "Day 47 End!"}]} />
 
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4472.jpeg", caption: "Day 1 Start"}, {path: "/images/gr-10/IMG_6230.jpeg", caption: "Day 47 End!"}]} />
