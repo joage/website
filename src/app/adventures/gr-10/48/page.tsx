@@ -13,6 +13,8 @@ Getting off the train in Hendaye intending to do the GR 10, I remember an intera
 
 My journey took me to 3 countries,  Spain, France and Andorra, although it felt like 5. Basque country was unique to itself, with its own language, food and culture, same with Catalonia.
 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5318.jpeg", caption: "Day 22"}, {path: "/images/gr-10/IMG_5425.jpeg", caption: "Day 26"}]} />
+
 Following the Paul Whiteburn pocket guide (a pdf downloaded on my phone) and Mapy.cz (a free offline map app with topo lines), I navigated the mountains in weeklong sections. At the end of each section was a town, where I could buy more groceries for the next section. The scenery in the Pyrenees was as varied as the people I met. I walked with new friends each section. Many sections I walked alone.
 
 My favorite section is hard to say. Basque Country was wet, but I made friends. Lescun to Gavarnie was magnificent and popular. Gavarnie to Salardu was the most epic and difficult. Salardu to L’Hospitalet was wild and lonely. L’Hospitalet to Banyuls was surprisingly beautiful, and hot towards the end.
