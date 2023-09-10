@@ -24,26 +24,32 @@ Following the Paul Whiteburn pocket guide (a pdf downloaded on my phone) and Map
 
 My french has gotten better. Talking to strangers was often a necessity in the mountains, so I improved faster than I ever did in a classroom. However I still cannot speak spanish.
 
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5318.jpeg", caption: "Day 22"}, {path: "/images/gr-10/IMG_6020.jpeg", caption: "Day 42"}]} />
+
+HRP totals:
+
+<p>Days hiked: 45 + 2 rest days</p>
+<p>Nights camped (free): 24</p>
+<p>Nights camped in a paid campground: 11</p>
+<p>Nights slept in a refuge/gite: 10</p>
+<p>Nights slept in a hotel: 2</p>
+<br />
+
+<p>Total distance: 834km (518 mi), equivalent to crossing the Golden Gate Bridge 305 times</p>
+
+<p>Total elevation ascended: 48704m (159790 ft), equivalent to climbing the Eiffel Tower 162 times</p>
+<br />
+
+
+<p>Times hitchhiked (to go off route): 5</p>
+<p>Amount of cheese carried and eaten: 3kg</p>
+<p>Favorite cheese: Tomme de brebis
+Favorite peak: Canigou</p>
+
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4472.jpeg", caption: "Day 1 Start"}, {path: "/images/gr-10/IMG_6230.jpeg", caption: "Day 47 End!"}]} />
+
 To my friends and family, thank you for reading my daily journal entries despite the sloppy writing and photography. I have left the mountains for the time being, but I know I will be back soon. The adventure continues!
-
-Days hiked: 45 + 2 rest days
-Nights camped (free): 24
-Nights camped in a paid campground: 11
-Nights slept in a refuge/gite: 10
-Nights slept in a hotel: 2
-
-
-Total distance: 834km (518 mi), equivalent to crossing the Golden Gate Bridge 305 times
-
-Total elevation ascended: 48704m (159790 ft), equivalent to climbing the Eiffel Tower 162 times
-
-Times hitchhiked (to go off route): 5
-
-Amount of cheese carried and eaten: 3kg
-Favorite cheese: Tomme de brebis
-
-Favorite peak: Canigou
-
   </Post>
 );
 
