@@ -26,6 +26,16 @@ My french has gotten better. Talking to strangers was often a necessity in the m
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4730.jpeg", caption: "Day 8"}, {path: "/images/gr-10/IMG_6020.jpeg", caption: "Day 42"}]} />
 
+Walking alone, I met so many amazing people who kept me sane and safe on the trail. Thank you all for sharing a part of this adventure with me!
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_0824.jpeg", caption: "Tania, Tristan"}, {path: "/images/gr-10/CD434F41-8F0F-40EB-AF7A-5E9C37DF5335.jpeg", caption: "Leo, Camille"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5024.jpeg", caption: "Jacques"}, {path: "/images/gr-10/IMG_5424.jpeg", caption: "Thivo, Jade"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5462.jpeg", caption: "Benjamin, Dan"}, {path: "/images/gr-10/IMG_5687.jpeg", caption: "Pavol"}]} />
+
+The HRP was my first long hike, and my first time camping alone. After more than 2 months in France and Spain, I am done hiking for the time being. I have left the mountains to return to city life, but I know I will be back soon. The adventure continues! 💠
+
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4472.jpeg", caption: "Day 1 Start"}, {path: "/images/gr-10/IMG_6230.jpeg", caption: "Day 47 End"}]} />
+
 HRP totals:
 <div>
 <p>Days hiked: 45 + 2 rest days</p>
@@ -42,13 +52,9 @@ HRP totals:
 <div>
 <p>Times hitchhiked (to go off route): 5</p>
 <p>Amount of cheese carried and eaten: 3kg</p>
-<p>Favorite cheese: Tomme de brebis
-Favorite peak: Canigou</p>
+<p>Favorite cheese: Tomme de brebis</p>
+<p>Favorite peak: Canigou</p>
 </div>
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4472.jpeg", caption: "Day 1 Start"}, {path: "/images/gr-10/IMG_6230.jpeg", caption: "Day 47 End"}]} />
-
-To my friends and family, thank you for reading my daily journal entries despite the sloppy writing and photography. I have left the mountains for the time being, but I know I will be back soon. The adventure continues!
   </Post>
 );
 
