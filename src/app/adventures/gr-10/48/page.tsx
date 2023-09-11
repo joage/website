@@ -25,7 +25,7 @@ My french has gotten better. Talking to strangers was often a necessity in the m
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4730.jpeg", caption: "Day 8"}, {path: "/images/gr-10/IMG_6020.jpeg", caption: "Day 42"}]} />
 
-Walking alone, I met so many amazing people who kept me sane and safe on the trail. Thank you all for sharing a part of this adventure with me!
+Walking alone, I met so many amazing people who kept me sane and safe on the trail. Thank you for sharing a part of this adventure with me!
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_0284.jpeg", caption: "Tania, Tristan"}, {path: "/images/gr-10/CD434F41-8F0F-40EB-AF7A-5E9C37DF5335.jpeg", caption: "Leo, Camille"}]} />
     <ImageGroup images={[{path: "/images/IMG_5024.jpeg", caption: "Jacques"}, {path: "/images/gr-10/IMG_5424.jpeg", caption: "Thivo, Jade"}]} />
