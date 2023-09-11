@@ -14,7 +14,7 @@ My journey took me to 3 countries,  Spain, France and Andorra, although it felt 
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_5318.jpeg", caption: "Day 22"}, {path: "/images/gr-10/IMG_5425.jpeg", caption: "Day 26"}]} />
 
-Following the Paul Whiteburn pocket guide (a pdf downloaded on my phone) and Mapy.cz (a free offline map app with topo lines), I navigated the mountains in weeklong sections. At the end of each section was a town, where I could buy more groceries for the next section. The scenery in the Pyrenees was as varied as the people I met. I walked with new friends each section. Many sections I walked alone.
+Following the Paul Whiteburn pocket guide (a pdf downloaded on my phone) and Mapy.cz (a free offline map app with topo lines), I navigated the mountains in weeklong sections. At the end of each section was a town, where I could buy more groceries for the next section. I walked with new friends each section, and many sections I walked alone.
 
 <p>My favorite section is hard to say. Basque Country was wet, but I made friends. Lescun to Gavarnie was magnificent and popular. Gavarnie to Salardu was the most epic and difficult. Salardu to L’Hospitalet was wild and lonely. L’Hospitalet to Banyuls was surprisingly beautiful, and hot towards the end.</p>
 
@@ -25,7 +25,7 @@ My french has gotten better. Talking to strangers was often a necessity in the m
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4730.jpeg", caption: "Day 8"}, {path: "/images/gr-10/IMG_6020.jpeg", caption: "Day 42"}]} />
 
-Walking alone, I met so many amazing people who kept me sane and safe on the trail. Thank you for sharing a part of this adventure with me!
+Walking alone, I met some amazing people who kept me sane and safe on the trail. Thank you for sharing a part of this adventure with me!
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_0284.jpeg", caption: "Tania, Tristan"}, {path: "/images/gr-10/CD434F41-8F0F-40EB-AF7A-5E9C37DF5335.jpeg", caption: "Leo, Camille"}]} />
     <ImageGroup images={[{path: "/images/IMG_5024.jpeg", caption: "Jacques"}, {path: "/images/gr-10/IMG_5424.jpeg", caption: "Thivo, Jade"}]} />
