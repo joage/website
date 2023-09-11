@@ -3,13 +3,12 @@ import Post from '@/components/Post';
 
 const GR = () => (
   <Post title="My long walk in the Pyrenees (HRP Recap)" date="September 5, 2023" prev="/adventures/gr-10/47">
-
-    <ImageGroup images={[{path: "/images/gr-10/IMG_6376.jpeg", caption: "This summer I walked from the Atlantic Ocean to the Mediterranean Sea, traversing the Pyrenees mountain range in 47 days."}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_4615.jpeg", caption: "Day 4"}, {path: "/images/gr-10/IMG_4974.jpeg", caption: "Day 14"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_5148.jpeg", caption: "Day 18"}, {path: "/images/gr-10/IMG_5761.jpeg", caption: "Day 37"}]} />
 
 Getting off the train in Hendaye intending to do the GR 10, I remember an interaction I had with a German guy who was starting the Haute Route Pyrénéene (HRP). As he sped off, leaving me in his dust, I thought to myself that the HRP would be way too difficult and out of my reach. A week later, I met Tristan and Tania, who took me off the GR to walk the ridge of Pic d'Orhi on a section of the HRP. From that point onwards I was hooked on the beauty of the Haute Route. I never came back to the GR 10, except where the two trails collided. Reaching the Mediterranean 47 days later and thinking back to this interaction, I feel a sense of accomplishment that was hard to imagine after each long day of trekking, each grueling climb.
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_4615.jpeg", caption: "Day 4"}, {path: "/images/gr-10/IMG_4974.jpeg", caption: "Day 14"}]} />
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5148.jpeg", caption: "Day 18"}, {path: "/images/gr-10/IMG_5761.jpeg", caption: "Day 37"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_6376.jpeg", caption: "This summer I walked from the Atlantic Ocean to the Mediterranean Sea, traversing the Pyrenees mountain range in 47 days."}]} />
 
 My journey took me to 3 countries,  Spain, France and Andorra, although it felt like 5. Basque country was unique to itself, with its own language, food and culture, same with Catalonia.
 
