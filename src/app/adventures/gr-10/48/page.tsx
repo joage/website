@@ -28,8 +28,8 @@ My french has gotten better. Talking to strangers was often a necessity in the m
 
 Walking alone, I met so many amazing people who kept me sane and safe on the trail. Thank you all for sharing a part of this adventure with me!
 
-    <ImageGroup images={[{path: "/images/gr-10/IMG_0824.jpeg", caption: "Tania, Tristan"}, {path: "/images/gr-10/CD434F41-8F0F-40EB-AF7A-5E9C37DF5335.jpeg", caption: "Leo, Camille"}]} />
-    <ImageGroup images={[{path: "/images/gr-10/IMG_5024.jpeg", caption: "Jacques"}, {path: "/images/gr-10/IMG_5424.jpeg", caption: "Thivo, Jade"}]} />
+    <ImageGroup images={[{path: "/images/gr-10/IMG_0284.jpeg", caption: "Tania, Tristan"}, {path: "/images/gr-10/CD434F41-8F0F-40EB-AF7A-5E9C37DF5335.jpeg", caption: "Leo, Camille"}]} />
+    <ImageGroup images={[{path: "/images/IMG_5024.jpeg", caption: "Jacques"}, {path: "/images/gr-10/IMG_5424.jpeg", caption: "Thivo, Jade"}]} />
     <ImageGroup images={[{path: "/images/gr-10/IMG_5462.jpeg", caption: "Benjamin, Dan"}, {path: "/images/gr-10/IMG_5687.jpeg", caption: "Pavol"}]} />
 
 The HRP was my first long hike, and my first time camping alone. After more than 2 months in France and Spain, I am done hiking for the time being. I have left the mountains to return to city life, but I know I will be back soon. The adventure continues! 💠
