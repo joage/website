@@ -31,7 +31,7 @@ Walking alone, I met some amazing people who kept me sane and safe on the trail.
     <ImageGroup images={[{path: "/images/IMG_5024.jpeg", caption: "Jacques"}, {path: "/images/gr-10/IMG_5424.jpeg", caption: "Thivo, Jade"}]} />
     <ImageGroup images={[{path: "/images/gr-10/IMG_5462.jpeg", caption: "Benjamin, Dan"}, {path: "/images/gr-10/IMG_5687.jpeg", caption: "Pavol"}]} />
 
-The HRP was my first long hike, and my first time camping alone. After more than 2 months in France and Spain, I am done hiking for the time being. I have left the mountains to return to city life, but I know I will be back soon. The adventure continues! 💠
+The HRP was my first long trek, and my first time camping by myself. After more than 2 months in France and Spain, I am done hiking for the time being. I have left the mountains to return to city life, but I know I will be back soon. The adventure continues! 💠
 
     <ImageGroup images={[{path: "/images/gr-10/IMG_4472.jpeg", caption: "Day 1 Start"}, {path: "/images/gr-10/IMG_6230.jpeg", caption: "Day 47 End"}]} />
 
