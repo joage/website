@@ -15,7 +15,7 @@ const ImageGroup = ({images}: ImageGroupProps) => {
     return (
         <div className="flex gap-4">
           {images.map((image, i) => (
-          <Link href={image.link ?? ':'} key={i} className="flex flex-col place-items-center gap-1">
+          <Link href={image.link ?? ''} key={i} className="flex flex-col place-items-center gap-1">
             <Image
               src={image.path}
               alt={image.path}
