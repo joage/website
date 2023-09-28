@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from "next/link";
 
 const Nav = () => (
   <nav className="nav flex p-5 font-mono gap-4">
