@@ -1,5 +1,6 @@
 import ImageGroup from "@/components/ImageGroup";
 import Post from "@/components/Post";
+import Link from "next/link";
 
 const GR = () => (
   <Post
@@ -7,6 +8,15 @@ const GR = () => (
     date="September 5, 2023"
     prev="/adventures/gr-10/47"
   >
+    <ImageGroup
+      images={[
+        {
+          path: "/images/gr-10/IMG_6376.jpeg",
+          caption:
+            "This summer I walked from the Atlantic Ocean to the Mediterranean Sea, traversing the Pyrenees mountain range in 47 days with my backpack and tent.",
+        },
+      ]}
+    />
     <ImageGroup
       images={[
         { path: "/images/gr-10/IMG_4615.jpeg", caption: "Day 4" },
@@ -19,22 +29,41 @@ const GR = () => (
         { path: "/images/gr-10/IMG_5761.jpeg", caption: "Day 37" },
       ]}
     />
-    Getting off the train in Hendaye intending to do the GR 10, I remember an
-    interaction I had with a German guy who was starting the Haute Route
-    Pyrénéene (HRP). As he sped off, leaving me in his dust, I thought to myself
-    that the HRP would be way too difficult and out of my reach. A week later, I
-    met Tristan and Tania, who took me off the GR to walk the ridge of Pic
-    d'Orhi on a section of the HRP. From that point onwards I was hooked on the
-    beauty of the Haute Route. I never came back to the GR 10, except where the
-    two trails collided. Reaching the Mediterranean 47 days later and thinking
-    back to this interaction, I feel a sense of accomplishment that was hard to
-    imagine after each long day of trekking, each grueling climb.
+    <p>
+      Getting off the train in Hendaye intending to do the{" "}
+      <Link
+        className="text-cyan-600"
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://en.wikipedia.org/wiki/GR_10"
+      >
+        GR 10
+      </Link>{" "}
+      , I remember an interaction I had with a German guy who was starting the{" "}
+      <Link
+        className="text-cyan-600"
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://en.wikipedia.org/wiki/Haute_Randonn%C3%A9e_Pyr%C3%A9n%C3%A9enne"
+      >
+        Haute Route Pyrénéene
+      </Link>{" "}
+      (HRP). As he sped off, leaving me in his dust, I thought to myself that
+      the HRP would be way too difficult and out of my reach. A week later, I
+      met Tristan and Tania, who took me off the GR to walk the ridge of Pic
+      d'Orhi on a section of the HRP. From that point onwards I was hooked on
+      the beauty of the Haute Route. I never came back to the GR 10, except
+      where the two trails collided. Reaching the Mediterranean 47 days later
+      and thinking back to this interaction, I feel a sense of accomplishment
+      that was hard to imagine after each long day of trekking, each grueling
+      climb.
+    </p>
     <ImageGroup
       images={[
+        { path: "/images/gr-10/IMG_5229.jpeg", caption: "Day 20" },
         {
-          path: "/images/gr-10/IMG_6376.jpeg",
-          caption:
-            "This summer I walked from the Atlantic Ocean to the Mediterranean Sea, traversing the Pyrenees mountain range in 47 days.",
+          path: "/images/gr-10/IMG_5655.jpeg",
+          caption: "Day 33",
         },
       ]}
     />
@@ -47,11 +76,22 @@ const GR = () => (
         { path: "/images/gr-10/IMG_5425.jpeg", caption: "Day 26" },
       ]}
     />
-    Following the Paul Whiteburn pocket guide (a pdf downloaded on my phone) and
-    Mapy.cz (a free offline map app with topo lines), I navigated the mountains
-    in weeklong sections. At the end of each section was a town, where I could
-    buy more groceries for the next section. I walked with new friends each
-    section, and many sections I walked alone.
+    <p>
+      Following the{" "}
+      <Link
+        className="text-cyan-600"
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://whiteburnswanderings.wordpress.com/2018/06/04/the-hrp-a-pocket-guide/"
+      >
+        Paul Whiteburn pocket guide
+      </Link>{" "}
+      (a pdf downloaded on my phone) and Mapy.cz (a free offline map app with
+      topo lines), I navigated the mountains in weeklong sections. At the end of
+      each section was a town, where I could buy more groceries for the next
+      section. I walked with new friends each section, and many sections I
+      walked alone.
+    </p>
     <p>
       My favorite section is hard to say. Basque Country was wet, but I made
       friends. Lescun to Gavarnie was magnificent and popular. Gavarnie to
@@ -83,7 +123,7 @@ const GR = () => (
         { path: "/images/gr-10/IMG_6020.jpeg", caption: "Day 42" },
       ]}
     />
-    Walking alone, I met some amazing people who kept me sane and safe on the
+    As I walked, I met some amazing people who kept me sane and safe on the
     trail. Thank you for sharing a part of this adventure with me!
     <ImageGroup
       images={[
