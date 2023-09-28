@@ -1,6 +1,6 @@
-import Link from 'next/link';
+import Link from "next/link";
 
-import Nav from '@/components/Nav';
+import Nav from "@/components/Nav";
 
 export default function Adventures() {
   return (
@@ -11,7 +11,9 @@ export default function Adventures() {
         <p>Haute Route Pyrénéenne (Aug 2023):</p>
         <ul className="list-disc text-cyan-600 mx-4">
           <li>
-            <Link href="/adventures/gr-10/48">HRP Recap - My Long Walk in the Pyrenees</Link>
+            <Link href="/adventures/gr-10/48">
+              HRP Recap - My Long Walk in the Pyrenees
+            </Link>
           </li>
           <li>
             <Link href="/adventures/gr-10/47">HRP Day 47 - Sunrise</Link>
@@ -44,7 +46,9 @@ export default function Adventures() {
             <Link href="/adventures/gr-10/38">HRP Day 38 - Mérens and Ax</Link>
           </li>
           <li>
-            <Link href="/adventures/gr-10/37">HRP Day 37 - Leaving Andorra</Link>
+            <Link href="/adventures/gr-10/37">
+              HRP Day 37 - Leaving Andorra
+            </Link>
           </li>
           <li>
             <Link href="/adventures/gr-10/36">HRP Day 36 - Oval</Link>
@@ -74,7 +78,9 @@ export default function Adventures() {
             <Link href="/adventures/gr-10/27">HRP Day 27 - Swimming</Link>
           </li>
           <li>
-            <Link href="/adventures/gr-10/26">HRP Day 26 - One day, two cols</Link>
+            <Link href="/adventures/gr-10/26">
+              HRP Day 26 - One day, two cols
+            </Link>
           </li>
           <li>
             <Link href="/adventures/gr-10/25">HRP Day 25 - Snowstorm</Link>
@@ -95,10 +101,14 @@ export default function Adventures() {
             <Link href="/adventures/gr-10/20">HRP Day 20 - Héas</Link>
           </li>
           <li>
-            <Link href="/adventures/gr-10/19">HRP Day 19 - Gavarnie 'Rest' Day</Link>
+            <Link href="/adventures/gr-10/19">
+              HRP Day 19 - Gavarnie 'Rest' Day
+            </Link>
           </li>
           <li>
-            <Link href="/adventures/gr-10/18">HRP Day 18 - Storm and summit!</Link>
+            <Link href="/adventures/gr-10/18">
+              HRP Day 18 - Storm and summit!
+            </Link>
           </li>
           <li>
             <Link href="/adventures/gr-10/17">HRP Day 17 - Gaube</Link>
@@ -107,7 +117,9 @@ export default function Adventures() {
             <Link href="/adventures/gr-10/16">HRP Day 16 - Getting lost</Link>
           </li>
           <li>
-            <Link href="/adventures/gr-10/15">HRP Day 15 - Reaching new heights</Link>
+            <Link href="/adventures/gr-10/15">
+              HRP Day 15 - Reaching new heights
+            </Link>
           </li>
           <li>
             <Link href="/adventures/gr-10/14">HRP Day 14 - Pombie</Link>
@@ -125,7 +137,9 @@ export default function Adventures() {
             <Link href="/adventures/gr-10/10">HRP Day 10 - Pic d'Anie</Link>
           </li>
           <li>
-            <Link href="/adventures/gr-10/9">HRP Day 9 - Leaving Basque Country</Link>
+            <Link href="/adventures/gr-10/9">
+              HRP Day 9 - Leaving Basque Country
+            </Link>
           </li>
           <li>
             <Link href="/adventures/gr-10/8">HRP Day 8 - Pic d'Orhi</Link>
@@ -197,5 +211,5 @@ export default function Adventures() {
         <p>Older trips coming soon!</p>
       </div>
     </main>
-  )
-};
+  );
+}
