@@ -1,4 +1,3 @@
-import ImageGroup from "@/components/ImageGroup";
 import Image from "next/image";
 import Nav from "@/components/Nav";
 
