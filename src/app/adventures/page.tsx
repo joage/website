@@ -7,7 +7,7 @@ export default function Adventures() {
     <main className="flex flex-col min-h-screen items-center p-4">
       <Nav />
       <div className="flex flex-col gap-6 max-w-3xl pt-8 text-sm">
-        <p>Trip reports from my hikes and travels. Newest first!</p>
+        <p>Reports from my hiking trips. Newest first!</p>
         <div>
           <p>Haute Route Pyrénéenne (Jul-Aug 2023):</p>
           <ul className="list-disc text-cyan-600 mx-4">
