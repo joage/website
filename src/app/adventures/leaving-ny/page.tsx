@@ -27,9 +27,10 @@ const Leaving = () => (
     </p>
 
     <p>
-      I'm leaving my laptop with my sister here in NY, so the trip reports that follow in the next few months will be written solely on my phone’s notes
-      app and uploaded using github mobile when I reach wifi. So
-      we'll see if they are any good! Here I go!
+      I'm leaving my laptop with my sister here in NY, so the trip reports that
+      follow in the next few months will be written solely on my phone’s notes
+      app and uploaded using github mobile when I reach wifi. So we'll see if
+      they are any good! Here I go!
     </p>
   </Post>
 );

@@ -19,14 +19,30 @@ const GR = () => (
     />
     <ImageGroup
       images={[
-        { path: "/images/gr-10/IMG_4615.jpeg", caption: "Day 4" },
-        { path: "/images/gr-10/IMG_4974.jpeg", caption: "Day 14" },
+        {
+          path: "/images/gr-10/IMG_4615.jpeg",
+          caption: "Day 4 (click me!)",
+          link: "/adventures/gr-10/4",
+        },
+        {
+          path: "/images/gr-10/IMG_4974.jpeg",
+          caption: "Day 14",
+          link: "/adventures/gr-10/14",
+        },
       ]}
     />
     <ImageGroup
       images={[
-        { path: "/images/gr-10/IMG_5148.jpeg", caption: "Day 18" },
-        { path: "/images/gr-10/IMG_5761.jpeg", caption: "Day 37" },
+        {
+          path: "/images/gr-10/IMG_5148.jpeg",
+          caption: "Day 18",
+          link: "/adventures/gr-10/18",
+        },
+        {
+          path: "/images/gr-10/IMG_5761.jpeg",
+          caption: "Day 37",
+          link: "/adventures/gr-10/37",
+        },
       ]}
     />
     <p>
@@ -60,10 +76,15 @@ const GR = () => (
     </p>
     <ImageGroup
       images={[
-        { path: "/images/gr-10/IMG_5229.jpeg", caption: "Day 20" },
+        {
+          path: "/images/gr-10/IMG_5229.jpeg",
+          caption: "Day 20",
+          link: "/adventures/gr-10/20",
+        },
         {
           path: "/images/gr-10/IMG_5655.jpeg",
           caption: "Day 33",
+          link: "/adventures/gr-10/33",
         },
       ]}
     />
@@ -72,8 +93,16 @@ const GR = () => (
     food and culture, same with Catalonia.
     <ImageGroup
       images={[
-        { path: "/images/gr-10/IMG_5318.jpeg", caption: "Day 22" },
-        { path: "/images/gr-10/IMG_5425.jpeg", caption: "Day 26" },
+        {
+          path: "/images/gr-10/IMG_5318.jpeg",
+          caption: "Day 22",
+          link: "/adventures/gr-10/22",
+        },
+        {
+          path: "/images/gr-10/IMG_5425.jpeg",
+          caption: "Day 26",
+          link: "/adventures/gr-10/26",
+        },
       ]}
     />
     <p>
@@ -101,17 +130,30 @@ const GR = () => (
     </p>
     <ImageGroup
       images={[
-        { path: "/images/gr-10/IMG_5396.jpeg", caption: "Day 25" },
+        {
+          path: "/images/gr-10/IMG_5396.jpeg",
+          caption: "Day 25",
+          link: "/adventures/gr-10/25",
+        },
         {
           path: "/images/gr-10/8cf1fb5c-92df-4e86-b0d3-70684506ea66.jpeg",
           caption: "Day 34",
+          link: "/adventures/gr-10/34",
         },
       ]}
     />
     <ImageGroup
       images={[
-        { path: "/images/gr-10/IMG_5127.jpeg", caption: "Day 18" },
-        { path: "/images/gr-10/IMG_5567.jpeg", caption: "Day 31" },
+        {
+          path: "/images/gr-10/IMG_5127.jpeg",
+          caption: "Day 18",
+          link: "/adventures/gr-10/18",
+        },
+        {
+          path: "/images/gr-10/IMG_5567.jpeg",
+          caption: "Day 31",
+          link: "/adventures/gr-10/31",
+        },
       ]}
     />
     My french has gotten better. Talking to strangers was often a necessity in
@@ -119,8 +161,16 @@ const GR = () => (
     I still cannot speak spanish.
     <ImageGroup
       images={[
-        { path: "/images/gr-10/IMG_4730.jpeg", caption: "Day 8" },
-        { path: "/images/gr-10/IMG_6020.jpeg", caption: "Day 42" },
+        {
+          path: "/images/gr-10/IMG_4730.jpeg",
+          caption: "Day 8",
+          link: "/adventures/gr-10/8",
+        },
+        {
+          path: "/images/gr-10/IMG_6020.jpeg",
+          caption: "Day 42",
+          link: "/adventures/gr-10/42",
+        },
       ]}
     />
     As I walked, I met some amazing people who kept me sane and safe on the
@@ -152,8 +202,16 @@ const GR = () => (
     soon. The adventure continues! 💠
     <ImageGroup
       images={[
-        { path: "/images/gr-10/IMG_4472.jpeg", caption: "Day 1 Start" },
-        { path: "/images/gr-10/IMG_6230.jpeg", caption: "Day 47 End" },
+        {
+          path: "/images/gr-10/IMG_4472.jpeg",
+          caption: "Day 1 Start",
+          link: "/adventures/gr-10/1",
+        },
+        {
+          path: "/images/gr-10/IMG_6230.jpeg",
+          caption: "Day 47 End",
+          link: "/adventures/gr-10/47",
+        },
       ]}
     />
     HRP totals:

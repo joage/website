@@ -22,8 +22,16 @@ const TMB = () => (
     </p>
     <ImageGroup
       images={[
-        { path: "/images/tmb/IMG_3941.jpeg", caption: "" },
-        { path: "/images/tmb/IMG_3966.jpeg", caption: "" },
+        {
+          path: "/images/tmb/IMG_3941.jpeg",
+          caption: "",
+          link: "/adventures/tmb-1",
+        },
+        {
+          path: "/images/tmb/IMG_3966.jpeg",
+          caption: "",
+          link: "/adventures/tmb-1",
+        },
       ]}
     />
     <ImageGroup
@@ -32,6 +40,7 @@ const TMB = () => (
           path: "/images/tmb/IMG_3970.jpeg",
           caption:
             "Day 1 picnic on a ridge in Italy: A Muller-Thurgau white wine from the Aosta valley, with smoked sprats, bread, prociutto, Fontina cheese also from Aosta",
+          link: "/adventures/tmb-1",
         },
       ]}
     />
@@ -41,16 +50,31 @@ const TMB = () => (
           path: "/images/tmb/IMG_4083.jpeg",
           caption:
             "Day 2 lunch in Switzerland: Gruyère, fresh bread, tomato, herring, more wine",
+          link: "/adventures/tmb-2",
         },
       ]}
     />
     <ImageGroup
-      images={[{ path: "/images/tmb/IMG_4807_Original.jpeg", caption: "" }]}
+      images={[
+        {
+          path: "/images/tmb/IMG_4807_Original.jpeg",
+          caption: "",
+          link: "/adventures/tmb-3",
+        },
+      ]}
     />
     <ImageGroup
       images={[
-        { path: "/images/tmb/IMG_4100.jpeg", caption: "" },
-        { path: "/images/tmb/IMG_4829_Original.jpeg", caption: "" },
+        {
+          path: "/images/tmb/IMG_4100.jpeg",
+          caption: "",
+          link: "/adventures/tmb-3",
+        },
+        {
+          path: "/images/tmb/IMG_4829_Original.jpeg",
+          caption: "",
+          link: "/adventures/tmb-3",
+        },
       ]}
     />
     <ImageGroup
@@ -59,35 +83,57 @@ const TMB = () => (
           path: "/images/tmb/IMG_4131.jpeg",
           caption:
             "Day 3 lunch in Switzerland: Gamay red from Valais, sausage, baguette, bits of leftover cheese",
+          link: "/adventures/tmb-3",
         },
       ]}
     />
-    <ImageGroup images={[{ path: "/images/tmb/IMG_4307.jpeg", caption: "" }]} />
+    <ImageGroup
+      images={[
+        {
+          path: "/images/tmb/IMG_4307.jpeg",
+          caption: "",
+          link: "/adventures/tmb-5",
+        },
+      ]}
+    />
     <ImageGroup
       images={[
         {
           path: "/images/tmb/IMG_4338.jpeg",
           caption: "France (Savoie department): Jambon, miel de Savoie, bread",
+          link: "/adventures/tmb-5",
         },
       ]}
     />
     <ImageGroup
-      images={[{ path: "/images/tmb/IMG_5064_Original.jpeg", caption: "" }]}
+      images={[
+        {
+          path: "/images/tmb/IMG_5064_Original.jpeg",
+          caption: "",
+          link: "/adventures/tmb-5",
+        },
+      ]}
     />
     <ImageGroup
-      images={[{ path: "/images/tmb/IMG_5065_Original.jpeg", caption: "" }]}
+      images={[
+        {
+          path: "/images/tmb/IMG_5065_Original.jpeg",
+          caption: "",
+          link: "/adventures/tmb-5",
+        },
+      ]}
     />
     <ImageGroup
       images={[
         {
           path: "/images/tmb/IMG_5067_Original.jpeg",
           caption: "France Part 2: Dinner at Refuge La Flegère",
+          link: "/adventures/tmb-5",
         },
       ]}
     />
-    The wine tour of mont blanc was fun, and totally worth sacrificing one
-    plastic smartwater bottle to carry wine up the mountain each day instead of
-    water.
+    The wine tour of Mont Blanc was totally worth sacrificing one plastic
+    smartwater bottle to carry wine up the mountain each day instead of water.
     <p>
       After taking the bus and train from Chamonix to Geneva to Paris, I had a
       few days to rest up before embarking on my next hike in the south of
