@@ -17,8 +17,8 @@ const Patagonia = () => (
       ]}
     />
     <p>
-      Earlier this year I was given a somewhat unexpected opportunity to travel
-      to Argentina for work. Knowing that the south of the country possessed
+      Earlier this year my work gave me a somewhat unexpected opportunity to
+      travel to Argentina. Knowing that the south of the country possessed
       beautiful mountains, I took up this offer excitedly in hopes of exploring
       them.
     </p>

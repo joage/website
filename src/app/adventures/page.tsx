@@ -7,7 +7,7 @@ export default function Adventures() {
     <main className="flex flex-col min-h-screen items-center p-4">
       <Nav />
       <div className="flex flex-col gap-6 max-w-3xl pt-8 text-sm">
-        <p>Reports from my hiking trips. Newest first!</p>
+        <p>Reports from my hiking trips - newest first!</p>
         <div>
           <p>Haute Route Pyrénéenne (Jul-Aug 2023):</p>
           <ul className="list-disc text-cyan-600 mx-4">
@@ -220,7 +220,7 @@ export default function Adventures() {
               <Link href="/adventures/leaving-ny">Leaving New York</Link>
             </li>
             <li>
-              <Link href="/adventures/shasta">Shasta</Link>
+              <Link href="/adventures/shasta">Mount Shasta</Link>
             </li>
             <li>
               <Link href="/adventures/pat">Patagonia</Link>
@@ -236,9 +236,82 @@ export default function Adventures() {
             <li>
               <Link href="/adventures/utah-1">Coyote Gulch (Utah Part 1)</Link>
             </li>
+            <li>
+              <p className="text-black">Clouds Rest</p>
+            </li>
+            <li>
+              <p className="text-black">Two attempts on Mount Sill</p>
+            </li>
           </ul>
         </div>
-        <p>Older trips coming soon!</p>
+        <details>
+          <summary>Older trips coming soon!</summary>
+          <div className="flex flex-col gap-6">
+            <div>
+              <p>2021:</p>
+              <ul className="list-disc mx-4">
+                <li>
+                  <p className="text-black">Mount St Helens</p>
+                </li>
+                <li>
+                  <p className="text-black">Jade Lake</p>
+                </li>
+                <li>
+                  <p className="text-black">Revisiting Rainier</p>
+                </li>
+                <li>
+                  <p className="text-black">Rocky Mtn Natl Park</p>
+                </li>
+                <li>
+                  <p className="text-black">Mojave</p>
+                </li>
+                <li>
+                  <p className="text-black">Trans Catalina</p>
+                </li>
+                <li>
+                  <p className="text-black">DV with Elaine</p>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <p>2020:</p>
+              <ul className="list-disc mx-4">
+                <li>
+                  <p className="text-black">Wonderland</p>
+                </li>
+                <li>
+                  <p className="text-black">Mt Langley</p>
+                </li>
+                <li>
+                  <p className="text-black">Steep Ravine</p>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <p>2019:</p>
+              <ul className="list-disc mx-4">
+                <li>
+                  <p className="text-black">Mt Whitney</p>
+                </li>
+                <li>
+                  <p className="text-black">Cinder Cone</p>
+                </li>
+                <li>
+                  <p className="text-black">Enchanted Valley</p>
+                </li>
+                <li>
+                  <p className="text-black">Skyline to the Sea</p>
+                </li>
+                <li>
+                  <p className="text-black">Northern Lost Coast</p>
+                </li>
+                <li>
+                  <p className="text-black">Spring Break 2019</p>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </details>
       </div>
     </main>
   );

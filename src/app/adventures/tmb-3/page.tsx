@@ -9,7 +9,10 @@ const TMB = () => (
     next="/adventures/tmb-4"
   >
     <ImageGroup
-      images={[{ path: "/images/tmb/IMG_4798_Original.jpeg", caption: "" }]}
+      images={[
+        { path: "/images/tmb/IMG_4798_Original.jpeg", caption: "" },
+        { path: "/images/tmb/IMG_4101.jpeg", caption: "" },
+      ]}
     />
     <p>
       Since yesterday was so long, today the goal was to chill and take the
@@ -19,15 +22,10 @@ const TMB = () => (
       were planning to go. Emma and I discussed our options a bit and decided
       instead to go for the high route through the Fenêtre d’Arpette.
     </p>
-    The moment we entered the Val (valley) d’Arpette we knew that we had made
-    the right move. Rising slowly at first through green meadows and pine
-    forest, then sharply over rocky, snow-streaked terrain, this trail reminded
-    me of the approaches to high peaks back home in California’s eastern sierra.
-    <ImageGroup
-      images={[
-        { path: "/images/tmb/IMG_4101.jpeg", caption: "Beginning the climb" },
-      ]}
-    />
+    The moment we entered the Val d’Arpette we knew that we had made the right
+    move. Rising slowly at first through green meadows and pine forest, then
+    sharply over rocky, snow-streaked terrain, this trail reminded me of the
+    approaches to high peaks back home in California’s eastern sierra.
     <ImageGroup
       images={[{ path: "/images/tmb/IMG_4102.jpeg", caption: "Val d'Arpette" }]}
     />
@@ -52,7 +50,7 @@ const TMB = () => (
     />
     <ImageGroup
       images={[
-        { path: "/images/tmb/IMG_4119.jpeg", caption: "The other side" },
+        { path: "/images/tmb/IMG_4134.jpeg", caption: "The other side" },
       ]}
     />
     We took in the views, had lunch, and started the long descent to Trient with
@@ -66,7 +64,7 @@ const TMB = () => (
     <ImageGroup
       images={[
         {
-          path: "images/tmb/IMG_4158.jpeg",
+          path: "/images/tmb/IMG_4158.jpeg",
           caption:
             "Dunking our heads in the river provided nice relief from the harsh afternoon sun",
         },
