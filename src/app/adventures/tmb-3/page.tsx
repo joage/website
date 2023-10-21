@@ -66,7 +66,7 @@ const TMB = () => (
     <ImageGroup
       images={[
         {
-          path: "images/tmb/IMG_4158.jpeg",
+          path: "/images/tmb/IMG_4158.jpeg",
           caption:
             "Dunking our heads in the river provided nice relief from the harsh afternoon sun",
         },
