@@ -5,6 +5,7 @@ const Coyote = () => (
   <Post
     title="Coyote Gulch (Utah Part 1)"
     date="November 2022"
+    prev="/adventures/clouds"
     next="/adventures/utah-2"
   >
     <ImageGroup
