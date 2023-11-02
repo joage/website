@@ -5,12 +5,12 @@ const Crete = () => (
   <Post
     title="Eight Cretan Sunsets"
     date="July 2022"
-    // prev="/adventures/"
+    prev="/adventures/helens"
     next="/adventures/sill"
   >
     <p>
-      A sunset for each night of the week I spent in Crete with Ayla, Jeff, and
-      Anamaria!
+      One sunset for each night of the week Ayla and I spent on the island of
+      Crete 🇬🇷
     </p>
     <ImageGroup
       images={[

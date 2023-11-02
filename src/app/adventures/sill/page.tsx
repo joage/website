@@ -66,6 +66,14 @@ const Sill = () => (
     set up camp by the lake's edge at 11000 ft. We cooked dinner and went to bed
     without setting an alarm, thinking that there'd be plenty of time to summit
     the next day.
+    <ImageGroup
+      images={[
+        {
+          path: "/images/sill/0436.jpeg",
+          caption: "Sunrise from camp at Elinor Lake (11,000 ft)",
+        },
+      ]}
+    />
     <p>
       On Sunday morning we caught a beautiful sunrise casting alpenglow on the
       Palisade Crest high above the lake. Mount Sill was the rightmost and
@@ -199,9 +207,9 @@ const Sill = () => (
     knowing that we didn't make any big mistakes this time.
     <p>
       Looking back on these two trips, I realized that sometimes we just need a
-      reason to get together and enjoy the beauty and challenge of the high
-      Sierra. Climbing Mount Sill was that reason. Getting to the top would have
-      been nice, but the real mission had already been accomplished.
+      reason to get out of the city and enjoy the beauty and challenge of the
+      high Sierra. Climbing Mount Sill was that reason. Getting to the top would
+      have been nice, but the real mission had already been accomplished.
     </p>
     <ImageGroup
       images={[
