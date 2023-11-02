@@ -237,39 +237,42 @@ export default function Adventures() {
               <Link href="/adventures/utah-1">Coyote Gulch (Utah Part 1)</Link>
             </li>
             <li>
-              <p className="text-black">Clouds Rest</p>
+              <Link href="/adventures/clouds">Clouds Rest</Link>
             </li>
             <li>
-              <p className="text-black">Two attempts on Mount Sill</p>
+              <Link href="/adventures/sill">Mount Sill</Link>
+            </li>
+            <li>
+              <Link href="/adventures/crete">Eight Cretan Sunsets</Link>
             </li>
           </ul>
         </div>
-        <details>
+        <details className="text-black dark:text-white">
           <summary>Older trips coming soon!</summary>
           <div className="flex flex-col gap-6">
             <div>
               <p>2021:</p>
               <ul className="list-disc mx-4">
                 <li>
-                  <p className="text-black">Mount St Helens</p>
+                  <p>Mount St Helens</p>
                 </li>
                 <li>
-                  <p className="text-black">Jade Lake</p>
+                  <p>Jade Lake</p>
                 </li>
                 <li>
-                  <p className="text-black">Revisiting Rainier</p>
+                  <p>Revisiting Rainier</p>
                 </li>
                 <li>
-                  <p className="text-black">Rocky Mtn Natl Park</p>
+                  <p>Rocky Mtn Natl Park</p>
                 </li>
                 <li>
-                  <p className="text-black">Mojave</p>
+                  <p>Mojave</p>
                 </li>
                 <li>
-                  <p className="text-black">Trans Catalina</p>
+                  <p>Trans Catalina</p>
                 </li>
                 <li>
-                  <p className="text-black">DV with Elaine</p>
+                  <p>DV with Elaine</p>
                 </li>
               </ul>
             </div>
@@ -277,13 +280,13 @@ export default function Adventures() {
               <p>2020:</p>
               <ul className="list-disc mx-4">
                 <li>
-                  <p className="text-black">Wonderland</p>
+                  <p>Wonderland</p>
                 </li>
                 <li>
-                  <p className="text-black">Mt Langley</p>
+                  <p>Mt Langley</p>
                 </li>
                 <li>
-                  <p className="text-black">Steep Ravine</p>
+                  <p>Steep Ravine</p>
                 </li>
               </ul>
             </div>
@@ -291,22 +294,22 @@ export default function Adventures() {
               <p>2019:</p>
               <ul className="list-disc mx-4">
                 <li>
-                  <p className="text-black">Mt Whitney</p>
+                  <p>Mt Whitney</p>
                 </li>
                 <li>
-                  <p className="text-black">Cinder Cone</p>
+                  <p>Cinder Cone</p>
                 </li>
                 <li>
-                  <p className="text-black">Enchanted Valley</p>
+                  <p>Enchanted Valley</p>
                 </li>
                 <li>
-                  <p className="text-black">Skyline to the Sea</p>
+                  <p>Skyline to the Sea</p>
                 </li>
                 <li>
-                  <p className="text-black">Northern Lost Coast</p>
+                  <p>Northern Lost Coast</p>
                 </li>
                 <li>
-                  <p className="text-black">Spring Break 2019</p>
+                  <p>Spring Break 2019</p>
                 </li>
               </ul>
             </div>

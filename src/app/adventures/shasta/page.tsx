@@ -3,18 +3,18 @@ import Post from "@/components/Post";
 
 const Shasta = () => (
   <Post
-    title="Shasta"
+    title="Mt Shasta (14,180 ft)"
     date="May 13, 2023"
     prev="/adventures/pat"
     next="/adventures/leaving-ny"
   >
     <ImageGroup images={[{ path: "/images/IMG_1741.jpeg", caption: "" }]} />
     <p>
-      Mount Shasta is my favorite mountain. Rising tall above the surrounding
-      northern CA plains, you can see it from 2 hours away on the approach from
-      Hwy 5. I didn’t take many photos on this trip because of how tired I was
-      the entire time, but here’s the story of David and I summiting this 14,000
-      ft active volcano.
+      Mount Shasta is one of my favorite mountains. Rising tall above the
+      surrounding northern CA plains, you can see it from 2 hours away on the
+      approach from Hwy 5. I didn’t take many photos on this trip because of how
+      tired I was the entire time, but here’s the story of David and I summiting
+      this 14,000 ft active volcano.
     </p>
     <p>
       One year ago, my coworker David flew up to SF to climb Shasta but we had
