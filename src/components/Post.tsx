@@ -27,6 +27,12 @@ const Post = ({ title, date, prev, next, children }: PostProps) => (
         </div>
       </div>
       {children}
+      <div className="flex gap-4 text-sm pt-4 ml-auto mr-auto text-gray-500">
+        {!!prev && <Link href={prev}>Prev</Link>}
+        {!!prev && !!next && <p>|</p>}
+        {!!next && <Link href={next}>Next</Link>}
+      </div>
+      {/* todo: Componentize prev/next toggle */}
     </div>
   </main>
 );

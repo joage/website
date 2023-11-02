@@ -247,35 +247,35 @@ export default function Adventures() {
             </li>
           </ul>
         </div>
+        <div>
+          <p>2021:</p>
+          <ul className="list-disc text-cyan-600 mx-4">
+            <li>
+              <Link href="/adventures/helens">Mount Saint Helens</Link>
+            </li>
+            <li>
+              <Link href="/adventures/jade">Jade Lake</Link>
+            </li>
+            <li>
+              <Link href="/adventures/rainier">Revisiting Rainier</Link>
+            </li>
+            <li>
+              <Link href="/adventures/rocky">Rocky Mtn Natl Park</Link>
+            </li>
+            {/* <li>
+              <p>Mojave</p>
+            </li>
+            <li>
+              <p>Trans Catalina</p>
+            </li>
+            <li>
+              <p>Death Valley New Year</p>
+            </li> */}
+          </ul>
+        </div>
         <details className="text-black dark:text-white">
           <summary>Older trips coming soon!</summary>
           <div className="flex flex-col gap-6">
-            <div>
-              <p>2021:</p>
-              <ul className="list-disc mx-4">
-                <li>
-                  <p>Mount St Helens</p>
-                </li>
-                <li>
-                  <p>Jade Lake</p>
-                </li>
-                <li>
-                  <p>Revisiting Rainier</p>
-                </li>
-                <li>
-                  <p>Rocky Mtn Natl Park</p>
-                </li>
-                <li>
-                  <p>Mojave</p>
-                </li>
-                <li>
-                  <p>Trans Catalina</p>
-                </li>
-                <li>
-                  <p>DV with Elaine</p>
-                </li>
-              </ul>
-            </div>
             <div>
               <p>2020:</p>
               <ul className="list-disc mx-4">
