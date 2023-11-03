@@ -262,15 +262,15 @@ export default function Adventures() {
             <li>
               <Link href="/adventures/rocky">Rocky Mtn Natl Park</Link>
             </li>
-            {/* <li>
-              <p>Mojave</p>
+            <li>
+              <Link href="/adventures/mojave">Mojave Natl Preserve</Link>
             </li>
             <li>
-              <p>Trans Catalina</p>
+              <Link href="/adventures/catalina">Trans Catalina</Link>
             </li>
             <li>
-              <p>Death Valley New Year</p>
-            </li> */}
+              <Link href="/adventures/dv">Death Valley New Year</Link>
+            </li>
           </ul>
         </div>
         <details className="text-black dark:text-white">

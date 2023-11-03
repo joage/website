@@ -5,7 +5,7 @@ const Page = () => (
   <Post
     title="Longs Peak attempt (Rocky Mountain NP)"
     date="June 19, 2021"
-    // prev="/adventures/"
+    prev="/adventures/mojave"
     next="/adventures/rainier"
   >
     <ImageGroup

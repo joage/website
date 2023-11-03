@@ -10,13 +10,13 @@ const Helens = () => (
   >
     <p>
       The drive to this trailhead was the most packed my car has ever been for a
-      hiking trip, mostly with unnecessary items. I had all my clothes,
-      belongings, desk, monitor, and wfh equipment with me because I was moving
-      back to California after living in Seattle for two months. Luckily for me
-      (unlucky for him), my roommate Anton was also in the car. Instead of
-      taking a plane from Seattle, he had kindly agreed to accompany me on this
-      adventure to climb Mount St Helens, and then take turns driving all the
-      way back to San Francisco in the same day.
+      hiking trip, mostly with unnecessary items. I had all my clothes, a desk,
+      monitor, and office equipment with me because I was moving back to
+      California after living in Seattle for two months. Luckily for me (unlucky
+      for him), my roommate Anton was also in the car. Instead of taking a plane
+      from Seattle, he had kindly agreed to accompany me on this adventure to
+      climb Mount St Helens, and then take turns driving all the way back to San
+      Francisco in the same day.
     </p>
     <p>
       We woke up super early in a motel somewhere along the I-5 in Southern
