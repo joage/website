@@ -20,7 +20,7 @@ const Page = () => (
     Trail, I had another backpacking trip planned. My new job was starting in a
     week, so I had to make the most out of my free time.
     <p>
-      I picked up my good friend Ashley from the airport and we drove to Orange
+      I picked up my dear friend Ashley from the airport and we drove to Orange
       County to meet up with Alex, my former roommate. After staying the night
       at Alex's house, we drove two cars to a remote corner of California called
       the Mojave National Preserve, which I had never heard of before.
