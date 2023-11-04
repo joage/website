@@ -2,7 +2,7 @@
 Made with:
 - NextJS (create-next-app)
 - Tailwind CSS
-- a desire to be outside <3
+- a love of being outside <3
 
 ## To make changes
 Run the dev server:
