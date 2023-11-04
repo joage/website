@@ -5,7 +5,7 @@ const Page = () => (
   <Post
     title="Death Valley New Year"
     date="January 2-4, 2021"
-    // prev="/adventures/"
+    prev="/adventures/wonderland"
     next="/adventures/catalina"
   >
     <ImageGroup

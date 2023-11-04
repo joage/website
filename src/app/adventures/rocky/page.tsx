@@ -11,20 +11,20 @@ const Page = () => (
     <ImageGroup
       images={[
         {
-          path: "/images/rocky/9596.jpeg",
-          caption: "Sunrise in Colorado",
+          path: "/images/rocky/9608.jpeg",
+          caption: "Longs Peak, 14259 ft (right)",
         },
       ]}
     />
     Sam and Chenyu invited me to visit them in Boulder for a weekend. We decided
-    to try and day hike Longs Peak (14,259 ft) in Rocky Mountain National Park.
-    Operating on no sleep, I didn't make it anywhere near the summit but it was
-    still a pretty cool trail for my first time in Colorado.
+    to try and day hike Longs Peak in Rocky Mountain National Park. Operating on
+    no sleep, I didn't make it anywhere near the summit but it was still a
+    pretty cool trail for my first time in Colorado.
     <ImageGroup
       images={[
         {
-          path: "/images/rocky/9608.jpeg",
-          caption: "Longs Peak, 14259 ft (right)",
+          path: "/images/rocky/9596.jpeg",
+          caption: "Sunrise in Colorado",
         },
       ]}
     />

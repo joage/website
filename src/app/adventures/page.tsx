@@ -13,7 +13,7 @@ export default function Adventures() {
           <ul className="list-disc text-cyan-600 mx-4">
             <li>
               <Link href="/adventures/gr-10/48">
-                HRP Recap - My Long Walk in the Pyrenees
+                My Long Walk in the Pyrenees
               </Link>
             </li>
             <details>
@@ -231,10 +231,10 @@ export default function Adventures() {
           <p>2022:</p>
           <ul className="list-disc text-cyan-600 mx-4">
             <li>
-              <Link href="/adventures/utah-2">Slot Canyons (Utah Part 2)</Link>
+              <Link href="/adventures/utah-2">Slot Canyons</Link>
             </li>
             <li>
-              <Link href="/adventures/utah-1">Coyote Gulch (Utah Part 1)</Link>
+              <Link href="/adventures/utah-1">Coyote Gulch</Link>
             </li>
             <li>
               <Link href="/adventures/clouds">Clouds Rest</Link>
@@ -273,23 +273,20 @@ export default function Adventures() {
             </li>
           </ul>
         </div>
+        <div>
+          <p>2020:</p>
+          <ul className="list-disc text-cyan-600 mx-4">
+            <li>
+              <Link href="/adventures/wonderland">Wonderland</Link>
+            </li>
+            <li>
+              <Link href="/adventures/langley">Mount Langley</Link>
+            </li>
+          </ul>
+        </div>
         <details className="text-black dark:text-white">
           <summary>Older trips coming soon!</summary>
           <div className="flex flex-col gap-6">
-            <div>
-              <p>2020:</p>
-              <ul className="list-disc mx-4">
-                <li>
-                  <p>Wonderland</p>
-                </li>
-                <li>
-                  <p>Mt Langley</p>
-                </li>
-                <li>
-                  <p>Steep Ravine</p>
-                </li>
-              </ul>
-            </div>
             <div>
               <p>2019:</p>
               <ul className="list-disc mx-4">
