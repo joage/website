@@ -41,10 +41,6 @@ const Page = () => (
           path: "/images/langley/1064.jpeg",
           caption: "Old Army Pass was not fun on the way down",
         },
-      ]}
-    />
-    <ImageGroup
-      images={[
         {
           path: "/images/langley/8057.jpeg",
           caption: "One of 6 Cottonwood Lakes on the trail",
@@ -55,7 +51,8 @@ const Page = () => (
       images={[
         {
           path: "/images/langley/8078.jpeg",
-          caption: "We drove past Manzanar Internment Camp on the way home.",
+          caption:
+            "Did a self guided driving tour of Manzanar Internment Camp on the way home",
         },
       ]}
     />

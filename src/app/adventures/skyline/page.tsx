@@ -19,7 +19,8 @@ const Page = () => (
       Skyline to the Sea is a classic Bay Area trail that traditionally starts
       from Castle Rock State Park and ends by the Pacific Ocean at Waddell
       Beach. Nithin and I added a day by starting from my parents' home in
-      Saratoga to make it and a 4 day trip in total, around 40 miles.
+      Saratoga to make it a 4 day trip in total, around 40 miles. Natalie and
+      Navid joined us on day 2!
     </p>
   </Post>
 );

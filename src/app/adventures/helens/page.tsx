@@ -77,7 +77,7 @@ const Helens = () => (
         },
       ]}
     />
-    At the crater rim I could spotted smoking fumaroles down below. In 1980 the
+    At the crater rim I spotted smoking fumaroles down below. In 1980 the
     volcano had erupted in the same direction I was looking, so I could see a
     huge path of destruction stretching far and wide from the summit. Clear
     skies revealed many peaks including Rainier, Adams, Baker, and Hood in the
