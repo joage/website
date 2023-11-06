@@ -6,7 +6,7 @@ export default function Adventures() {
   return (
     <main className="flex flex-col min-h-screen items-center p-4">
       <Nav />
-      <div className="flex flex-col gap-6 max-w-3xl pt-8 text-sm">
+      <div className="flex flex-col gap-6 max-w-3xl py-7 text-sm">
         <p>Reports from my hiking trips - newest first!</p>
         <div>
           <p>Haute Route Pyrénéenne (Jul-Aug 2023):</p>
@@ -284,34 +284,20 @@ export default function Adventures() {
             </li>
           </ul>
         </div>
-        <details className="text-black dark:text-white">
-          <summary>Older trips coming soon!</summary>
-          <div className="flex flex-col gap-6">
-            <div>
-              <p>2019:</p>
-              <ul className="list-disc mx-4">
-                <li>
-                  <p>Mt Whitney</p>
-                </li>
-                <li>
-                  <p>Cinder Cone</p>
-                </li>
-                <li>
-                  <p>Enchanted Valley</p>
-                </li>
-                <li>
-                  <p>Skyline to the Sea</p>
-                </li>
-                <li>
-                  <p>Northern Lost Coast</p>
-                </li>
-                <li>
-                  <p>Spring Break 2019</p>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </details>
+        <div>
+          <p>2019:</p>
+          <ul className="list-disc text-cyan-600 mx-4">
+            <li>
+              <Link href="/adventures/whitney">Mount Whitney</Link>
+            </li>
+            <li>
+              <Link href="/adventures/skyline">Skyline to the Sea</Link>
+            </li>
+            <li>
+              <Link href="/adventures/lost-coast">Northern Lost Coast</Link>
+            </li>
+          </ul>
+        </div>
       </div>
     </main>
   );
