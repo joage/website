@@ -5,7 +5,7 @@ const Page = () => (
   <Post
     title="Mount Langley (14,032 ft)"
     date="July 4, 2020"
-    // prev="/adventures/"
+    prev="/adventures/whitney"
     next="/adventures/wonderland"
   >
     <ImageGroup
