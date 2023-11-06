@@ -5,7 +5,7 @@ const Page = () => (
   <Post
     title="Mount Whitney (14,505 ft)"
     date="November 9-10, 2019"
-    prev="/adventures/loat-coast"
+    prev="/adventures/skyline"
     next="/adventures/langley"
   >
     <ImageGroup
