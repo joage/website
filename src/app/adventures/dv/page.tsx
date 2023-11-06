@@ -83,7 +83,7 @@ const Page = () => (
     On the way back down, the challenge was to locate our car in the desert. We
     could finally understand the struggle that the guys we picked up yesterday
     faced. Eventually a tiny glint of sunlight reflecting off my car's
-    windsheild led us back. We drove along a dirt path littered with rusty
+    windshield led us back. We drove along a dirt path littered with rusty
     abandoned cars, and back to the main road. Before it got dark we had time
     for another quick hike to Darwin Falls, a rare water source in Death Valley.
     <ImageGroup
