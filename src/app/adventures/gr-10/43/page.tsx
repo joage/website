@@ -73,7 +73,7 @@ const GR = () => (
         { path: "/images/gr-10/IMG_6067.jpeg", caption: "Dry and hot" },
         {
           path: "/images/gr-10/IMG_6070.jpeg",
-          caption: "Sandstone gullys to walk down",
+          caption: "Sandstone gullies to walk down",
         },
       ]}
     />

@@ -7,6 +7,7 @@ const GR = () => (
     title="My long walk in the Pyrenees (HRP Recap)"
     date="September 5, 2023"
     prev="/adventures/gr-10/47"
+    next="/adventures/lone"
   >
     <ImageGroup
       images={[

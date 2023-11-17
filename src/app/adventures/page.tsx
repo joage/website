@@ -9,6 +9,14 @@ export default function Adventures() {
       <div className="flex flex-col gap-6 max-w-3xl py-7 text-sm">
         <p>Reports from my hiking trips - newest first!</p>
         <div>
+          <p>Late 2023:</p>
+          <ul className="list-disc text-cyan-600 mx-4">
+            <li>
+              <Link href="/adventures/lone">Lone Pine Peak</Link>
+            </li>
+          </ul>
+        </div>
+        <div>
           <p>Haute Route Pyrénéenne (Jul-Aug 2023):</p>
           <ul className="list-disc text-cyan-600 mx-4">
             <li>
@@ -214,7 +222,7 @@ export default function Adventures() {
           </ul>
         </div>
         <div>
-          <p>Earlier 2023:</p>
+          <p>Early 2023:</p>
           <ul className="list-disc text-cyan-600 mx-4">
             <li>
               <Link href="/adventures/leaving-ny">Leaving New York</Link>
