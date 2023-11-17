@@ -62,10 +62,10 @@ const Sill = () => (
     grew fainter and fainter until there was no longer a trail at all. David
     navigated us through a tricky forested section to reach a boulder field. The
     going got much slower, and the last 1000 ft climb up to Elinor lake had some
-    steep gullys with overgrown bush. I was relieved when we decided to stop and
-    set up camp by the lake's edge at 11000 ft. We cooked dinner and went to bed
-    without setting an alarm, thinking that there'd be plenty of time to summit
-    the next day.
+    steep gullies with overgrown bush. I was relieved when we decided to stop
+    and set up camp by the lake's edge at 11000 ft. We cooked dinner and went to
+    bed without setting an alarm, thinking that there'd be plenty of time to
+    summit the next day.
     <ImageGroup
       images={[
         {
