@@ -12,37 +12,66 @@ const GR = () => (
     <ImageGroup
       images={[
         {
-          path: "/images/gr-10/IMG_6376.jpeg",
-          caption:
-            "This summer I walked from the Atlantic Ocean to the Mediterranean Sea, traversing the Pyrenees mountain range in 47 days with my backpack and tent.",
+          path: "/images/gr-10/IMG_4607.jpeg",
+          caption: "Day 2",
+          link: "/adventures/gr-10/2",
         },
-      ]}
-    />
-    <ImageGroup
-      images={[
         {
           path: "/images/gr-10/IMG_4615.jpeg",
-          caption: "Day 4 (click me!)",
+          caption: "Day 4",
           link: "/adventures/gr-10/4",
         },
         {
-          path: "/images/gr-10/IMG_4974.jpeg",
-          caption: "Day 14",
-          link: "/adventures/gr-10/14",
+          path: "/images/gr-10/IMG_4741.jpeg",
+          caption: "Day 8",
+          link: "/adventures/gr-10/8",
         },
       ]}
     />
     <ImageGroup
       images={[
         {
-          path: "/images/gr-10/IMG_5148.jpeg",
+          path: "/images/gr-10/IMG_4959.jpeg",
+          caption: "Day 14",
+          link: "/adventures/gr-10/14",
+        },
+        {
+          path: "/images/IMG_5031.jpeg",
+          caption: "Day 15",
+          link: "/adventures/gr-10/15",
+        },
+        {
+          path: "/images/gr-10/IMG_5164.jpeg",
           caption: "Day 18",
           link: "/adventures/gr-10/18",
+        },
+      ]}
+    />
+    <ImageGroup
+      images={[
+        {
+          path: "/images/gr-10/IMG_5299.jpeg",
+          caption: "Day 21",
+          link: "/adventures/gr-10/21",
         },
         {
           path: "/images/gr-10/IMG_5761.jpeg",
           caption: "Day 37",
           link: "/adventures/gr-10/37",
+        },
+        {
+          path: "/images/gr-10/IMG_5874.jpeg",
+          caption: "Day 40",
+          link: "/adventures/gr-10/40",
+        },
+      ]}
+    />
+    <ImageGroup
+      images={[
+        {
+          path: "/images/gr-10/IMG_6376.jpeg",
+          caption:
+            "This summer I walked from the Atlantic Ocean to the Mediterranean Sea, traversing the Pyrenees mountain range in 47 days with my backpack and tent.",
         },
       ]}
     />
@@ -66,26 +95,40 @@ const GR = () => (
         Haute Route Pyrénéene
       </Link>{" "}
       (HRP). As he sped off, leaving me in his dust, I thought to myself that
-      the HRP would be way too difficult and out of my reach. A week later, I
-      met Tristan and Tania, who took me off the GR to walk the ridge of Pic
-      d'Orhi on a section of the HRP. From that point onwards I was hooked on
-      the beauty of the Haute Route. I never came back to the GR 10, except
-      where the two trails collided. Reaching the Mediterranean 47 days later
-      and thinking back to this interaction, I feel a sense of accomplishment
-      that was hard to imagine after each long day of trekking, each grueling
-      climb.
+      the HRP would be way too difficult for my level of hiking experience. A
+      week later, I met Tristan and Tania, who took me off the GR to walk the
+      ridge of Pic d'Orhi on a section of the HRP. From that point onwards I was
+      hooked on the beauty of the Haute Route. I never came back to the GR 10,
+      except where the two trails collided. Reaching the Mediterranean 47 days
+      later and thinking back to this interaction, I feel a sense of
+      accomplishment that was hard to imagine after each long day of trekking,
+      each grueling climb.
     </p>
     <ImageGroup
       images={[
         {
-          path: "/images/gr-10/IMG_5229.jpeg",
+          path: "/images/gr-10/IMG_5148.jpeg",
+          caption: "Day 18",
+          link: "/adventures/gr-10/18",
+        },
+        {
+          path: "/images/gr-10/IMG_5184.jpeg",
+          caption: "Day 19",
+          link: "/adventures/gr-10/19",
+        },
+      ]}
+    />
+    <ImageGroup
+      images={[
+        {
+          path: "/images/gr-10/IMG_5213.jpeg",
           caption: "Day 20",
           link: "/adventures/gr-10/20",
         },
         {
-          path: "/images/gr-10/IMG_5655.jpeg",
-          caption: "Day 33",
-          link: "/adventures/gr-10/33",
+          path: "/images/gr-10/IMG_5579.jpeg",
+          caption: "Day 31",
+          link: "/adventures/gr-10/31",
         },
       ]}
     />
@@ -119,9 +162,22 @@ const GR = () => (
       (a pdf downloaded on my phone) and Mapy.cz (a free offline map app with
       topo lines), I navigated the mountains in weeklong sections. At the end of
       each section was a town, where I could buy more groceries for the next
-      section. I walked with new friends each section, and many sections I
-      walked alone.
+      section. I walked with new people each section, and many sections I walked
+      alone.
     </p>
+    <ImageGroup
+      images={[
+        {
+          path: "/images/gr-10/IMG_5630.jpeg",
+        },
+        {
+          path: "/images/gr-10/IMG_5455.jpeg",
+        },
+        {
+          path: "/images/gr-10/IMG_5934.jpeg",
+        },
+      ]}
+    />
     <p>
       My favorite section is hard to say. Basque Country was wet, but I made
       friends. Lescun to Gavarnie was magnificent and popular. Gavarnie to
@@ -146,14 +202,14 @@ const GR = () => (
     <ImageGroup
       images={[
         {
-          path: "/images/gr-10/IMG_5127.jpeg",
-          caption: "Day 18",
-          link: "/adventures/gr-10/18",
+          path: "/images/gr-10/IMG_4860.jpeg",
+          caption: "Day 11",
+          link: "/adventures/gr-10/11",
         },
         {
-          path: "/images/gr-10/IMG_5567.jpeg",
-          caption: "Day 31",
-          link: "/adventures/gr-10/31",
+          path: "/images/gr-10/IMG_5885.jpeg",
+          caption: "Day 40",
+          link: "/adventures/gr-10/40",
         },
       ]}
     />
@@ -183,16 +239,12 @@ const GR = () => (
           path: "/images/gr-10/CD434F41-8F0F-40EB-AF7A-5E9C37DF5335.jpeg",
           caption: "Leo, Camille",
         },
-      ]}
-    />
-    <ImageGroup
-      images={[
         { path: "/images/IMG_5024.jpeg", caption: "Jacques" },
-        { path: "/images/gr-10/IMG_5424.jpeg", caption: "Thivo, Jade" },
       ]}
     />
     <ImageGroup
       images={[
+        { path: "/images/gr-10/IMG_5424.jpeg", caption: "Thivo, Jade" },
         { path: "/images/gr-10/IMG_5462.jpeg", caption: "Benjamin, Dan" },
         { path: "/images/gr-10/IMG_5687.jpeg", caption: "Pavol" },
       ]}
@@ -237,6 +289,19 @@ const GR = () => (
       <p>Favorite cheese: Tomme de brebis</p>
       <p>Favorite peak: Canigou</p>
     </div>
+    <ImageGroup
+      images={[
+        {
+          path: "/images/gr-10/IMG_6116.jpeg",
+        },
+        {
+          path: "/images/gr-10/IMG_4948.jpeg",
+        },
+        {
+          path: "/images/gr-10/IMG_4879.jpeg",
+        },
+      ]}
+    />
   </Post>
 );
 
