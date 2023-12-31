@@ -7,6 +7,7 @@ const GR = () => (
     date="August 11, 2023"
     prev="/adventures/gr-10/31"
     next="/adventures/gr-10/33"
+    stravaID="10448572456"
   >
     Last night I slept outside my tent under the stars for the first half of the
     night to watch the Perseid meteor shower. I think I saw 5 shooting stars

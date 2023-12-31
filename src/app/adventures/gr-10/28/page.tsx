@@ -7,6 +7,7 @@ const GR = () => (
     date="August 7, 2023"
     prev="/adventures/gr-10/27"
     next="/adventures/gr-10/30"
+    stravaID="10448633358"
   >
     Today I took a direct path down a road to Arties, where I pitched my tent at
     a campground. Here I wanted to spend two nights to rest before the next
