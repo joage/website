@@ -7,6 +7,7 @@ const TMB = () => (
     date="July 5, 2023"
     prev="/adventures/tmb-3"
     next="/adventures/tmb-5"
+    stravaID="10454121689"
   >
     <ImageGroup
       images={[

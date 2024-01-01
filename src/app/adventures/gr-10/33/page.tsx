@@ -7,6 +7,7 @@ const GR = () => (
     date="August 12, 2023"
     prev="/adventures/gr-10/32"
     next="/adventures/gr-10/34"
+    stravaID="10448572240"
   >
     Although the last week has had really amazing scenery, I was missing some
     social contact due to walking alone. I looked forward to talking to people

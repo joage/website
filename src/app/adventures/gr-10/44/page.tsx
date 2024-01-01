@@ -7,6 +7,7 @@ const GR = () => (
     date="August 23, 2023"
     prev="/adventures/gr-10/43"
     next="/adventures/gr-10/45"
+    stravaID="10448571915"
   >
     <ImageGroup
       images={[

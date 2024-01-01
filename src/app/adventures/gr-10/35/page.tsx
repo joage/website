@@ -7,6 +7,7 @@ const GR = () => (
     date="August 14, 2023"
     prev="/adventures/gr-10/34"
     next="/adventures/gr-10/36"
+    stravaID="10448572057"
   >
     In the morning I woke up to thunder. Looking outside my tent, I spotted some
     clouds rolling over the southern hills of the valley.

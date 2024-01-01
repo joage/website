@@ -7,6 +7,7 @@ const GR = () => (
     date="August 24, 2023"
     prev="/adventures/gr-10/44"
     next="/adventures/gr-10/46"
+    stravaID="10448571972"
   >
     For breakfast today we were given free access to a kitchen with eggs! Dan
     fried up a couple for each of us to enjoy with the gîte's homemade bread.

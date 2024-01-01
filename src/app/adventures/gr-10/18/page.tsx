@@ -7,6 +7,7 @@ const GR = () => (
     date="July 28, 2023"
     prev="/adventures/gr-10/17"
     next="/adventures/gr-10/19"
+    stravaID="10448633202"
   >
     Last night a thunderstorm ripped through the region, causing heavy rain and
     70-80km/h winds. It was the scariest night in my tent so far, and at one

@@ -7,6 +7,7 @@ const GR = () => (
     date="July 30, 2023"
     prev="/adventures/gr-10/19"
     next="/adventures/gr-10/21"
+    stravaID="10448633229"
   >
     When I woke up the scene in the Gavarnie campground reminded me of a Basque
     village. Fog had arrived during the night, and I couldn’t see anything.

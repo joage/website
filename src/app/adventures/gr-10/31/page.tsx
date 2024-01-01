@@ -7,6 +7,7 @@ const GR = () => (
     date="August 10, 2023"
     prev="/adventures/gr-10/30"
     next="/adventures/gr-10/32"
+    stravaID="10448572132"
   >
     Today marks my one month on the Haute Route Pyrénéene! I have been walking
     for 31 days and over 500km.

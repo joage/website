@@ -7,6 +7,7 @@ const GR = () => (
     date="August 6, 2023"
     prev="/adventures/gr-10/26"
     next="/adventures/gr-10/28"
+    stravaID="10448633492"
   >
     I only had one goal in mind for today-to swim in a lake. My body needed a
     break from the past few days of high cols and difficult hiking, so I kept
