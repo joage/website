@@ -9,22 +9,17 @@ export default function Adventures() {
       <div className="flex flex-col gap-6 max-w-3xl py-7 text-sm">
         <p>Reports from my hiking trips - newest first!</p>
         <div>
-          <p>Late 2023:</p>
+          <p>2023:</p>
           <ul className="list-disc text-cyan-600 mx-4">
             <li>
               <Link href="/adventures/lone">Lone Pine Peak</Link>
             </li>
-          </ul>
-        </div>
-        <div>
-          <p>Haute Route Pyrénéenne (Jul-Aug 2023):</p>
-          <ul className="list-disc text-cyan-600 mx-4">
             <li>
               <Link href="/adventures/gr-10/48">
                 My Long Walk in the Pyrenees
               </Link>
             </li>
-            <details>
+            <details className="pb-1 pl-3">
               <summary className="cursor-pointer text-gray-500">
                 See individual days
               </summary>
@@ -163,7 +158,7 @@ export default function Adventures() {
               </li>
               <li>
                 <Link href="/adventures/gr-10/9">
-                  HRP Day 9 - Leaving Basque Country
+                  HRP Day 9 - Leaving Pays Basque
                 </Link>
               </li>
               <li>
@@ -191,15 +186,10 @@ export default function Adventures() {
                 <Link href="/adventures/gr-10/1">GR 10 Day 1 - Rain!</Link>
               </li>
             </details>
-          </ul>
-        </div>
-        <div>
-          <p>Tour du Mont Blanc (July 2023):</p>
-          <ul className="list-disc text-cyan-600 mx-4">
             <li>
-              <Link href="/adventures/tmb-6">Wine Tour du Mont Blanc</Link>
+              <Link href="/adventures/tmb-6">Tour du Mont Blanc</Link>
             </li>
-            <details>
+            <details className="pb-1 pl-3">
               <summary className="cursor-pointer text-gray-500">
                 See individual days
               </summary>
@@ -219,11 +209,6 @@ export default function Adventures() {
                 <Link href="/adventures/tmb-1">Tour du Mont Blanc Day 1</Link>
               </li>
             </details>
-          </ul>
-        </div>
-        <div>
-          <p>Early 2023:</p>
-          <ul className="list-disc text-cyan-600 mx-4">
             <li>
               <Link href="/adventures/leaving-ny">Leaving New York</Link>
             </li>
