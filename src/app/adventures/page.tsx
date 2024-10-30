@@ -8,6 +8,22 @@ export default function Adventures() {
       <Nav />
       <div className="flex flex-col gap-6 max-w-3xl py-7 text-sm">
         <div>
+          <p>Ongoing:</p>
+          <ul className="list-disc text-cyan-600 mx-4">
+            <li>
+              <Link href="/adventures/bart">Bay Area Ridge Trail</Link>
+            </li>
+            <details className="pb-1 pl-3">
+              <summary className="cursor-pointer text-gray-500">
+                See individual days
+              </summary>
+              <li>
+                <Link href="/adventures/bart/1">BART Part 1 - Castle Rock</Link>
+              </li>
+            </details>
+          </ul>
+        </div>
+        <div>
           <p>2024:</p>
           <ul className="list-disc text-cyan-600 mx-4">
             <li>
