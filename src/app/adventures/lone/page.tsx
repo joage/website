@@ -6,7 +6,7 @@ const Page = () => (
     title="Lone Pine Peak (12,949 ft)"
     date="Nov 11, 2023"
     prev="/adventures/gr-10/48"
-    // next=""
+    next="/adventures/shr"
   >
     <p>
       Every year I try to do at least one big hike in the Eastern Sierra of

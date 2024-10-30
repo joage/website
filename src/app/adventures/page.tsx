@@ -7,7 +7,25 @@ export default function Adventures() {
     <main className="flex flex-col min-h-screen items-center p-4">
       <Nav />
       <div className="flex flex-col gap-6 max-w-3xl py-7 text-sm">
-        <p>Reports from my hiking trips - newest first!</p>
+        <div>
+          <p>2024:</p>
+          <ul className="list-disc text-cyan-600 mx-4">
+            <li>
+              <Link href="">Bishop (coming soon)</Link>
+            </li>
+            <li>
+              <Link href="/adventures/shr">Sierra High Route</Link>
+            </li>
+            <details className="pb-1 pl-3">
+              <summary className="cursor-pointer text-gray-500">
+                See individual days
+              </summary>
+              <li>
+                <Link href="/adventures/shr/1">SHR Day 1 - Horse Creek</Link>
+              </li>
+            </details>
+          </ul>
+        </div>
         <div>
           <p>2023:</p>
           <ul className="list-disc text-cyan-600 mx-4">

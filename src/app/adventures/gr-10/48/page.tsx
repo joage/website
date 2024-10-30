@@ -29,29 +29,19 @@ const GR = () => (
           caption: "Day 4",
           link: "/adventures/gr-10/4",
         },
-        {
-          path: "/images/gr-10/IMG_4741.jpeg",
-          caption: "Day 8",
-          link: "/adventures/gr-10/8",
-        },
       ]}
     />
     <ImageGroup
       images={[
         {
-          path: "/images/gr-10/IMG_4959.jpeg",
-          caption: "Day 14",
-          link: "/adventures/gr-10/14",
+          path: "/images/gr-10/IMG_4741.jpeg",
+          caption: "Day 8",
+          link: "/adventures/gr-10/8",
         },
         {
           path: "/images/IMG_5031.jpeg",
           caption: "Day 15",
           link: "/adventures/gr-10/15",
-        },
-        {
-          path: "/images/gr-10/IMG_5164.jpeg",
-          caption: "Day 18",
-          link: "/adventures/gr-10/18",
         },
       ]}
     />
@@ -66,11 +56,6 @@ const GR = () => (
           path: "/images/gr-10/IMG_5761.jpeg",
           caption: "Day 37",
           link: "/adventures/gr-10/37",
-        },
-        {
-          path: "/images/gr-10/IMG_5874.jpeg",
-          caption: "Day 40",
-          link: "/adventures/gr-10/40",
         },
       ]}
     />
