@@ -10,7 +10,7 @@ const Page = () => (
     next="/adventures/shr/1"
   >
     <p>
-      In 2024 I moved to San Francisco for an in-person job. It was a nice
+      In early 2024 I moved to San Francisco for an in-person job. It was a nice
       change from the remote work I had been doing for the past two years, but
       it also limited my time in the mountains. As summer approached, I itched
       for a grand adventure. Having secured two weeks of time off, I began
@@ -34,13 +34,18 @@ const Page = () => (
       >
         drew out the line
       </Link>
-      , referencing Andrew Skurka's maps and other online resources.
+      , referencing Steve Roper's book, Andrew Skurka's maps and other online
+      resources.
     </p>
     <ImageGroup
       images={[
         {
           path: "/images/shr/IMG_0001.jpg",
-          caption: "The rough line",
+          caption: "The line",
+        },
+        {
+          path: "/images/shr/1001.jpeg",
+          caption: "The crew",
         },
       ]}
     />
