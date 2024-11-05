@@ -10,13 +10,16 @@ const Page = () => (
     stravaID="12000225729"
   >
     <p>
-      On July 19th, Emma Isabel and I drove from the bay to Twin Lakes, CA. We
+      On July 19th, Emma, Isabel and I drove from the bay to Twin Lakes, CA. We
       had invited our friends out to a camping weekend at the northern terminus
-      of the Sierra High Route. Dodging bouts of summer rain, we indulged in
-      lake swims and shared meals by the campfire in order to prep for for the
-      two weeks that laid ahead. We packed two full bear cans of backpacking
-      food to be stashed in Tuolumne Meadows, and shuttled Isabel's car to
-      Mammoth Lakes where we planned our second resupply.
+      of the Sierra High Route.
+      <p>
+        Dodging bouts of summer rain, we indulged in lake swims and shared meals
+        by the campfire in order to prep for for the two weeks that laid ahead.
+        We packed two full bear cans of backpacking food to be stashed in
+        Tuolumne Meadows, and shuttled Isabel's car to Mammoth Lakes where we
+        planned our second resupply.
+      </p>
     </p>
     <ImageGroup
       images={[

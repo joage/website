@@ -3,8 +3,8 @@ import Post from "@/components/Post";
 
 const Page = () => (
   <Post
-    title="Virginia Creek (SHR Day 2)"
-    date="July 21, 2024"
+    title="Intimate Canyons (SHR Day 2)"
+    date="July 22, 2024"
     prev="/adventures/shr/1"
     next="/adventures/shr/3"
     stravaID="12000224992"
@@ -41,7 +41,7 @@ const Page = () => (
         },
         {
           path: "/images/shr/2/3.jpg",
-          caption: "Horse Creek Pass, center notch (10,700ft)",
+          caption: "Horse Creek Pass (center notch), 10,700ft",
         },
       ]}
     />
@@ -50,11 +50,12 @@ const Page = () => (
     the traverse. At one point, Emma misstepped and slid a few feet over a small
     lip onto a boulder. It ended up being a short distance and she was okay, but
     we began to take snowfields more seriously from that point on. (Emma would
-    have her chance to redeem herself on day 5.)
+    have her chance to redeem herself on day 4.)
     <p>
       Topping out the pass and looking over to the other side rewarded us with
       new scenery. Spiller canyon looked insanely beautiful with its bowl-like
-      shape, and hillsides full of alpine wildflowers.
+      shape, and hillsides full of alpine wildflowers. Steve Roper describes
+      this area as one of two most "intimate" canyons of the Sierra.
     </p>
     <ImageGroup
       images={[
@@ -106,13 +107,13 @@ const Page = () => (
         },
         {
           path: "/images/shr/2/IMG_4638.jpeg",
-          caption: "Windy lake swim time",
+          caption: "First of many alpine lakes",
         },
       ]}
     />
-    After some initial fuckery on the steep, bouldery descent of Stanton pass,
-    the afternoon eased into a very pleasant cross-country walk through a
-    granite landscape dotted with lakes. We were making good time.
+    After some initial fuckery on the steep descent of Stanton pass, the
+    afternoon eased into a very pleasant cross-country walk through a granite
+    landscape dotted with lakes. We were making good time.
     <p>
       At Soldier Lake, it was decided that we had time for a swim! Isabel and I
       jumped into the crisp blue water. There was even a rock shaped perfectly
@@ -128,10 +129,10 @@ const Page = () => (
       ]}
     />
     Renewed by the refreshing dip, we continued down some large slabs into the
-    forest below. On the way down we passed one lone hiker coming the other way,
-    about 200 to our right on the slab. He waved but did not stop to chat. High
-    route hikers are really a different breed, I thought, as I watched him
-    continue up the slope.
+    forest below. On the way down we passed one solo hiker coming the other way,
+    about 200 ft to our right. He waved but did not stop to chat. High route
+    hikers are really a different breed, I thought, as I watched him continue up
+    the slab. He was only person we saw for the next two days.
     <p>
       Soon we reached the treeline and entered a lush wooded area with tall
       shrubbery. The steep slope finally gave way to a flat section.
@@ -154,8 +155,8 @@ const Page = () => (
     />
     <p>
       After a full day of walking/scrambling on varied terrain, I felt grateful
-      to have such reliable and fun hiking partners. We were evenly matched in
-      pace and I gained a lot more confidence that we could complete the trek
+      to have such reliable (and fun!) hiking partners. We were evenly matched
+      in pace and I gained a lot more confidence that we could complete the trek
       after this day.
     </p>
     <p>
