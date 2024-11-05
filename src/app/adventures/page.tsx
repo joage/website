@@ -7,12 +7,28 @@ export default function Adventures() {
     <main className="flex flex-col min-h-screen items-center p-4">
       <Nav />
       <div className="flex flex-col gap-6 max-w-3xl py-7 text-sm">
+        {/* <div>
+          <p>Ongoing:</p>
+          <ul className="list-disc text-cyan-600 mx-4">
+            <li>
+              <Link href="">Bay Area Ridge Trail</Link>
+            </li>
+            <details className="pb-1 pl-3">
+              <summary className="cursor-pointer text-gray-500">
+                See individual days
+              </summary>
+              <li>
+                <Link href="">BART Part 1 - Castle Rock</Link>
+              </li>
+            </details>
+          </ul>
+        </div> */}
         <div>
           <p>2024:</p>
           <ul className="list-disc text-cyan-600 mx-4">
-            <li>
+            {/* <li>
               <Link href="">Bishop (coming soon)</Link>
-            </li>
+            </li> */}
             <li>
               <Link href="/adventures/shr">Sierra High Route</Link>
             </li>
@@ -21,7 +37,23 @@ export default function Adventures() {
                 See individual days
               </summary>
               <li>
-                <Link href="/adventures/shr/1">SHR Day 1 - Horse Creek</Link>
+                <Link href="/adventures/shr/1">
+                  SHR Day 1 - Adventure Begins
+                </Link>
+              </li>
+              <li>
+                <Link href="/adventures/shr/2">
+                  SHR Day 2 - Intimate Canyons
+                </Link>
+              </li>
+              <li>
+                <Link href="/adventures/shr/3">SHR Day 3 - Sky Pilot</Link>
+              </li>
+              <li>
+                <Link href="/adventures/shr/4">SHR Day 4 - Mine shaft</Link>
+              </li>
+              <li>
+                <Link href="/adventures/shr/5">SHR Day 5 - Tuolumne</Link>
               </li>
             </details>
           </ul>
