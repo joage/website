@@ -55,6 +55,15 @@ export default function Adventures() {
               <li>
                 <Link href="/adventures/shr/5">SHR Day 5 - Tuolumne</Link>
               </li>
+              <li>
+                <Link href="/adventures/shr/6">SHR Day 6 - Donner Party</Link>
+              </li>
+              <li>
+                <Link href="/adventures/shr/7">SHR Day 7 - Minarets</Link>
+              </li>
+              <li>
+                <Link href="/adventures/shr/8">SHR Day 8 - Mammoth</Link>
+              </li>
             </details>
           </ul>
         </div>

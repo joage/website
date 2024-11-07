@@ -6,19 +6,19 @@ const Page = () => (
     title="Tuolumne (SHR Day 5)"
     date="July 25, 2024"
     prev="/adventures/shr/4"
-    // next="/adventures/shr/6"
+    next="/adventures/shr/6"
     stravaID="12000227229"
   >
     <ImageGroup
       images={[
         {
           path: "/images/shr/5/1.jpeg",
-          caption: "Entering Yosemite!",
+          caption: "Day 5, Entering Yosemite!",
         },
       ]}
     />
-    Today was going to be a mostly trail day. We were excited to reach Tuolumne
-    and resupply on food!
+    Today was mostly a trail day. We were excited to reach Tuolumne and resupply
+    on food!
     <p>
       It had been a windy night and the wind did not subside even as the sun
       came up. We quickly packed up our flapping tents and made our way down a

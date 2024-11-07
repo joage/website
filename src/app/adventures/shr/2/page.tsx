@@ -22,11 +22,17 @@ const Page = () => (
           path: "/images/shr/2/1.jpeg",
           caption: "Highest meadow in Horse Creek Canyon",
         },
+      ]}
+      thinner
+    />
+    <ImageGroup
+      images={[
         {
           path: "/images/shr/2/IMG_0111.jpeg",
           caption: "Reddish rock section",
         },
       ]}
+      thinner
     />
     We paced quickly this morning, mostly worried about making it to the planned
     destination for the day. However the constant change from reddish rock,
@@ -90,11 +96,17 @@ const Page = () => (
           path: "/images/shr/2/8.jpeg",
           caption: "Emma climbing up Stanton Pass",
         },
+      ]}
+      thinner
+    />
+    <ImageGroup
+      images={[
         {
           path: "/images/shr/2/IMG_0112.jpg",
           caption: "Class 3 crux on Stanton Pass (11,200ft)",
         },
       ]}
+      thinner
     />
     Stanton Pass was a knife-edge, so we descended a little before having
     another snack break. Now we could see the next canyon as well as our target
@@ -105,15 +117,21 @@ const Page = () => (
           path: "/images/shr/2/7.jpg",
           caption: "Other side of Stanton pass",
         },
+      ]}
+      thinner
+    />
+    After some initial fuckery on the steep descent of Stanton pass, the
+    afternoon eased into a very pleasant cross-country walk through a granite
+    landscape dotted with lakes. We were making good time.
+    <ImageGroup
+      images={[
         {
           path: "/images/shr/2/IMG_4638.jpeg",
           caption: "First of many alpine lakes",
         },
       ]}
+      thinner
     />
-    After some initial fuckery on the steep descent of Stanton pass, the
-    afternoon eased into a very pleasant cross-country walk through a granite
-    landscape dotted with lakes. We were making good time.
     <p>
       At Soldier Lake, it was decided that we had time for a swim! Isabel and I
       jumped into the crisp blue water. There was even a rock shaped perfectly
