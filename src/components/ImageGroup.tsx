@@ -9,9 +9,10 @@ type CaptionedImage = {
 
 interface ImageGroupProps {
   images: Array<CaptionedImage>;
+  thinner?: boolean;
 }
 
-const ImageGroup = ({ images }: ImageGroupProps) => {
+const ImageGroup = ({ images, thinner }: ImageGroupProps) => {
   return (
     <div className="flex gap-4">
       {images.map((image, i) =>
@@ -25,7 +26,12 @@ const ImageGroup = ({ images }: ImageGroupProps) => {
             <p className="text-sm opacity-50">{image.caption}</p>
           </Link>
         ) : (
-          <div key={i} className="flex flex-col place-items-center gap-1">
+          <div
+            key={i}
+            className={`flex flex-col place-items-center gap-1 ${
+              thinner ? "lg:px-[100px]" : ""
+            }`}
+          >
             <Image src={image.path} alt={image.path} width={800} height={800} />
             <p className="text-sm opacity-50">{image.caption}</p>
           </div>

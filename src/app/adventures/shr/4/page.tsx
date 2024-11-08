@@ -30,6 +30,7 @@ const Page = () => (
           caption: "Postcard moment",
         },
       ]}
+      thinner
     />
     <p>
       The day started by locating Conness pass. Unlike previous passes, our
@@ -99,6 +100,7 @@ const Page = () => (
           caption: "Tons of water on the traverse to the Great Sierra Mine.",
         },
       ]}
+      thinner
     />
     As it turned out, the poncho did very little in keeping me dry. Rain came
     down harder and harder but it made the next section of routefinding more
@@ -118,6 +120,7 @@ const Page = () => (
           caption: "Emma didn't fall through the thin ice",
         },
       ]}
+      thinner
     />
     When we reached the other side we realized how thin the ice was, melted out
     from the bottom. This brave move by Emma saved us a ton of time as the rain
