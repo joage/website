@@ -6,7 +6,8 @@ export default function Adventures() {
   return (
     <main className="flex flex-col min-h-screen items-center p-4">
       <Nav />
-      <div className="flex flex-col gap-6 max-w-3xl py-7 text-sm">
+      <div className="flex flex-col gap-6 w-[275px] py-7 text-sm">
+        some journeys I've been on :)
         {/* <div>
           <p>Ongoing:</p>
           <ul className="list-disc text-cyan-600 mx-4">
@@ -63,6 +64,14 @@ export default function Adventures() {
               </li>
               <li>
                 <Link href="/adventures/shr/8">SHR Day 8 - Mammoth</Link>
+              </li>
+              <li>
+                <Link href="/adventures/shr/9">SHR Day 9 - Trail Miles</Link>
+              </li>
+              <li>
+                <Link href="/adventures/shr/10">
+                  SHR Day 10 - Shout of Relief
+                </Link>
               </li>
             </details>
           </ul>

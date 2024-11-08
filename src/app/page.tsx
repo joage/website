@@ -6,8 +6,7 @@ export default function Home() {
     <main className="flex flex-col min-h-screen items-center p-4">
       <Nav />
       <p className="text-sm py-7 max-w-md text-center">
-        Hi, my name is George. I live in California, I write code for work, and
-        I like to be in the mountains. Welcome to my website!
+        Hi, my name is George. I live in California. Welcome to my website!
       </p>
       <Image
         src="/images/falling.jpeg"
