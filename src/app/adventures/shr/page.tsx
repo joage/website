@@ -9,6 +9,44 @@ const Page = () => (
     prev="/adventures/lone"
     next="/adventures/shr/1"
   >
+    <ImageGroup
+      images={[
+        {
+          path: "/images/shr/2/5.jpeg",
+          caption: "Day 2",
+          link: "/adventures/shr/2",
+        },
+        {
+          path: "/images/shr/4/8.jpeg",
+          caption: "Day 4",
+          link: "/adventures/shr/4",
+        },
+        {
+          path: "/images/shr/11/7.jpeg",
+          caption: "Day 11",
+          link: "/adventures/shr/11",
+        },
+      ]}
+    />
+    <ImageGroup
+      images={[
+        {
+          path: "/images/shr/5/7.jpeg",
+          caption: "Day 5",
+          link: "/adventures/shr/5",
+        },
+        {
+          path: "/images/shr/3/3.jpeg",
+          caption: "Day 3",
+          link: "/adventures/shr/3",
+        },
+        {
+          path: "/images/shr/6/2.jpeg",
+          caption: "Day 6",
+          link: "/adventures/shr/6",
+        },
+      ]}
+    />
     <p>
       In early 2024 I moved to San Francisco for an in-person job. It was a nice
       change from the remote work I had been doing for the past two years, but
@@ -20,6 +58,15 @@ const Page = () => (
       and route-finding at high elevation, but this was going be a challenge for
       everyone involved.
     </p>
+    <ImageGroup
+      images={[
+        {
+          path: "/images/shr/1001.jpeg",
+          caption: "The crew",
+        },
+      ]}
+      thinner
+    />
     <p>
       The High Route begins in Roads End, Kings Canyon NP and ends at Twin Lakes
       Mono Village. For logistical reasons, we decided to reverse the route and
@@ -43,12 +90,31 @@ const Page = () => (
           path: "/images/shr/IMG_0001.jpg",
           caption: "The line",
         },
-        {
-          path: "/images/shr/1001.jpeg",
-          caption: "The crew",
-        },
       ]}
+      thinner
     />
+    <p>
+      The day-by-day writeups that follow are only told from my point of view!
+      See Emma's perspective{" "}
+      <Link
+        className="text-cyan-600"
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://youtu.be/I-Me9gM-OnQ?si=H_I8kbZT4DPi6TFD"
+      >
+        here
+      </Link>{" "}
+      and Isabel's perspective{" "}
+      <Link
+        className="text-cyan-600"
+        rel="noopener noreferrer"
+        target="_blank"
+        href="https://www.instagram.com/p/C-EU6twyTkQ/"
+      >
+        here.
+      </Link>
+    </p>
+    Click "next" to begin the journey with us!
   </Post>
 );
 
