@@ -162,7 +162,7 @@ const Page = () => (
     <ImageGroup
       images={[
         {
-          path: "/images/shr/2/IMG_8622.jpg",
+          path: "/images/shr/2/10.jpeg",
           caption: "Wading through tall grass in Virginia Canyon",
         },
         {
