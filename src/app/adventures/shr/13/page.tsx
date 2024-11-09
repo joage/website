@@ -130,11 +130,7 @@ const Page = () => (
       </Link>
     </p>
     <p className="font-bold pt-5">Closing thoughts</p>
-    <p className="italic">
-      What a mind blowing two weeks it has been! Our first off-trail route went
-      pretty smoothly, and it only made me want to spend more time in these
-      mountains.
-    </p>
+    <p className="italic">What a mind blowing two weeks it has been!</p>
     <p className="italic">
       Every single day tested our skills in the backcountry, and rewarded us
       with landscapes and encounters like no other trip had offered me before.
