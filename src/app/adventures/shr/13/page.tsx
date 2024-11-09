@@ -7,7 +7,7 @@ const Page = () => (
     title="Bishop (SHR Day 13)"
     date="August 2, 2024"
     prev="/adventures/shr/12"
-    // next="/adventures/"
+    next="/adventures/sur"
     stravaID="12047589523"
   >
     <ImageGroup

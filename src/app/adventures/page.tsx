@@ -27,9 +27,20 @@ export default function Adventures() {
         <div>
           <p>2024:</p>
           <ul className="list-disc text-cyan-600 mx-4">
-            {/* <li>
-              <Link href="">Bishop (coming soon)</Link>
-            </li> */}
+            <li>
+              <Link href="/adventures/warren">Mount Warren</Link>
+            </li>
+            <li>
+              <Link href="/adventures/north-fork">
+                North Fork Big Pine Creek
+              </Link>
+            </li>
+            <li>
+              <Link href="/adventures/rocktober">Rocktober in Bishop</Link>
+            </li>
+            <li>
+              <Link href="/adventures/sur">Big Sur</Link>
+            </li>
             <li>
               <Link href="/adventures/shr">Sierra High Route</Link>
             </li>
@@ -301,10 +312,10 @@ export default function Adventures() {
           <p>2022:</p>
           <ul className="list-disc text-cyan-600 mx-4">
             <li>
-              <Link href="/adventures/utah-2">Slot Canyons</Link>
+              <Link href="/adventures/utah-2">Slot Canyons (Utah Part 2)</Link>
             </li>
             <li>
-              <Link href="/adventures/utah-1">Coyote Gulch</Link>
+              <Link href="/adventures/utah-1">Coyote Gulch (Utah Part 1)</Link>
             </li>
             <li>
               <Link href="/adventures/clouds">Clouds Rest</Link>
