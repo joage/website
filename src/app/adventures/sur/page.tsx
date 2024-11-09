@@ -6,7 +6,7 @@ const Page = () => (
     title="Timber Top (Big Sur)"
     date="October 5-6, 2024"
     prev="/adventures/shr/13"
-    next="/adventures/north-fork"
+    next="/adventures/rocktober"
     stravaID="12592496683"
   >
     <ImageGroup

@@ -61,24 +61,24 @@ const Page = () => (
     <ImageGroup
       images={[
         {
-          path: "/images/rocktober/5.JPG",
-          caption: "Slab climbing in Pine Creek Canyon",
-        },
-        {
-          path: "/images/rocktober/4.JPG",
-          caption: "At the third belay of The Big Deal",
-        },
-      ]}
-    />
-    <ImageGroup
-      images={[
-        {
           path: "/images/rocktober/8.JPG",
           caption: "Owens River Gorge!",
         },
         {
           path: "/images/rocktober/11.JPG",
           caption: "Margot on the Pub Wall",
+        },
+      ]}
+    />
+    <ImageGroup
+      images={[
+        {
+          path: "/images/rocktober/5.JPG",
+          caption: "Slab climbing in Pine Creek Canyon",
+        },
+        {
+          path: "/images/rocktober/4.JPG",
+          caption: "With Alex and Boyu at the third belay of The Big Deal",
         },
       ]}
     />
@@ -147,8 +147,9 @@ const Page = () => (
     </div>
     I wanted to climb everything I saw, there was so much stuff to do! Was lucky
     to run into friendly strangers at the boulders, and to meet up with friends
-    who were down to rope up for some routes. The climbing is magical here and I
-    will be back again soon!
+    who were down to rope up for some routes. The climbing is magical here and
+    I've been thoroughly inspired. I want to come back again once I'm stronger
+    and more confident in my climbing!
     <ImageGroup
       images={[
         {
