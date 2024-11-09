@@ -89,7 +89,7 @@ const Page = () => (
           caption: "Britt on Big Bad Wolf, Red Rocks NV",
         },
         {
-          path: "/images/rocktober/6.JPG",
+          path: "/images/rocktober/6.jpg",
           caption: "Perfect Poser",
         },
       ]}

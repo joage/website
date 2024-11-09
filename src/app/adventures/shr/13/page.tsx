@@ -131,18 +131,39 @@ const Page = () => (
     </p>
     <p className="font-bold pt-5">Closing thoughts</p>
     <p className="italic">
-      What a mind blowing two weeks it has been! Our first off-trail route was a
-      big success, and it only made me want to spend more time in these
+      What a mind blowing two weeks it has been! Our first off-trail route went
+      pretty smoothly, and it only made me want to spend more time in these
       mountains.
     </p>
     <p className="italic">
       Every single day tested our skills in the backcountry, and rewarded us
       with landscapes and encounters like no other trip had offered me before.
       Each pass we climbed revealed to us the scale of this mountain range,
-      making us feel small and our actions insignificant under the grandness of
-      the Sierra Nevada.
+      making us feel small and our movements insignificant under the grandness
+      of the Sierra Nevada.
     </p>
-    <p className="italic">A life time of exploring awaits!</p>
+    <p className="italic">
+      Hiking off trail went better than I expected. We were well prepared for
+      the mental aspect, the decision making, and the ambiguity, but what
+      surprised us was the feeling of absolute freedom once you leave the trail.
+      All of us expressed interest in doing more off trail routes, and making
+      our own routes for future trips.
+    </p>
+    <p className="italic">
+      I've learned a lot about properly fueling myself, and bringing the right
+      amount of food. Mistakes I made while packing for the first half led to
+      slightly better decisions in the second half. However, I still feel like I
+      don't have my food dialed 100%. Savory oatmeal, summer sausage, and fritos
+      were nice new additions to the backpacking pantry.
+    </p>
+    <p className="italic">
+      After two weeks, I felt mostly ready to go home. It was a good amount of
+      time to be away from the city and recharge. Toward the end I missed my
+      friends, and I missed my life in SF. If I were to do this again I'd go
+      even slower and spend more time in the places we merely passed through.
+      But the mountains will always be there, I guess. A lifetime of exploring
+      awaits.
+    </p>
     <ImageGroup
       images={[
         {
