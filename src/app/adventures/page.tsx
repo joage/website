@@ -7,7 +7,7 @@ export default function Adventures() {
     <main className="flex flex-col min-h-screen items-center p-4">
       <Nav />
       <div className="flex flex-col gap-6 w-[275px] py-7 text-sm">
-        journeys I've been on :)
+        journeys I've been on
         {/* <div>
           <p>Ongoing:</p>
           <ul className="list-disc text-cyan-600 mx-4">

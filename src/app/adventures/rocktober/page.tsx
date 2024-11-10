@@ -99,7 +99,7 @@ const Page = () => (
         {
           path: "/images/rocktober/10.JPG",
           caption:
-            "Thought I was on The Scoop, but turns out it was something harder! (Tuolumne Meadows)",
+            "Tuolumne Meadows. Thought I was on The Scoop, but turns out it was something else",
         },
       ]}
     />

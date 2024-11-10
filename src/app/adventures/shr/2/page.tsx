@@ -9,6 +9,15 @@ const Page = () => (
     next="/adventures/shr/3"
     stravaID="12000224992"
   >
+    <ImageGroup
+      images={[
+        {
+          path: "/images/shr/2/5.jpeg",
+          caption: "Spiller Canyon",
+        },
+      ]}
+      thinner
+    />
     <p>
       Today was all off-trail. Our goal was to go over two passes: Horse Creek
       Pass (class 2) and Stanton Pass (class 3). It would be the first test of
@@ -69,11 +78,8 @@ const Page = () => (
           path: "/images/shr/2/4.jpg",
           caption: "Spiller Canyon on the other side of Horse Creek Pass",
         },
-        {
-          path: "/images/shr/2/5.jpeg",
-          caption: "Our favorite part of the day, meadow walking",
-        },
       ]}
+      thinner
     />
     We stopped for a quick lunch break, during which marmots came to visit. They
     liked Isabel, probably because she had brought the best food. This would be
