@@ -61,8 +61,8 @@ const Page = () => (
     <ImageGroup
       images={[
         {
-          path: "/images/shr/1001.jpeg",
-          caption: "The crew",
+          path: "/images/shr/IMG_0001.jpg",
+          caption: "The line",
         },
       ]}
       thinner
@@ -87,8 +87,8 @@ const Page = () => (
     <ImageGroup
       images={[
         {
-          path: "/images/shr/IMG_0001.jpg",
-          caption: "The line",
+          path: "/images/shr/1001.jpeg",
+          caption: "The crew",
         },
       ]}
       thinner
