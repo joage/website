@@ -6,6 +6,7 @@ const Page = () => (
     title="Mount Warren (12,350ft)"
     date="October 23, 2024"
     prev="/adventures/north-fork"
+    next="/adventures/rr"
     stravaID="12735228031"
   >
     <ImageGroup

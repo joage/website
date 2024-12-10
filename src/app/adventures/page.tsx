@@ -8,22 +8,14 @@ export default function Adventures() {
       <Nav />
       <div className="flex flex-col gap-6 w-[275px] py-7 text-sm">
         journeys I've been on
-        {/* <div>
+        <div>
           <p>Ongoing:</p>
           <ul className="list-disc text-cyan-600 mx-4">
             <li>
-              <Link href="">Bay Area Ridge Trail</Link>
+              <Link href="/adventures/rr">Red Rocks Dec 2024</Link>
             </li>
-            <details className="pb-1 pl-3">
-              <summary className="cursor-pointer text-gray-500">
-                See individual days
-              </summary>
-              <li>
-                <Link href="">BART Part 1 - Castle Rock</Link>
-              </li>
-            </details>
           </ul>
-        </div> */}
+        </div>
         <div>
           <p>2024:</p>
           <ul className="list-disc text-cyan-600 mx-4">
