@@ -8,17 +8,43 @@ const Page = () => (
       to believe. In January I was really new to outdoor bouldering, doing V1s
       and V2s, and in October I led my first multipitch. Both trips felt short,
       especially the October one but it was also too hot then. Now with the
-      winter season getting into full swing, Margot invited me and Aaron on a
-      trip with some of her friends. I packed my car and drove to Vegas, with
-      the intention of camping at least a week, and meeting/finding partners on
-      site once my friends left. The following is a sort of ongoing journal of
-      my climbing, sorted by newest entries first. Enjoy!
+      winter season getting into full swing, Margot invited me and Aaron on
+      another trip with some of her friends. I packed my car and drove to Vegas,
+      with the intention of camping at least a week, and meeting/finding
+      partners on site once my friends left. The following is a sort of ongoing
+      journal of my climbing, sorted by newest entries first.
     </p>
+    <p className="font-bold text-lg">Day 7 - 12/10</p>
+    <p>
+      Met up with some friendly traveling vehicle-dwellers at the Red Springs
+      parking lot (and from facebook) for a morning of cragging at Cannibal
+      Crag. I led an easy 5.4 trad route, top roped a 5.8, and hopped on a
+      couple harder 5.11s on top rope. Caustic Cock, the famously aesthetic
+      arete problem, felt so cool to climb despite my flailing! Led a 5.10a
+      called What's Eating You, no falls. Weather got colder today so after
+      doing a few routes I wanted to be back in the sun. I headed to Kraft,
+      cooked a big pot of pasta with tofu, and decided to boulder for the rest
+      of the afternoon. Met some locals trying Sorange (V3). I gave it a go, and
+      flashed it! Then gave the route just left of it (Welcome to Detroit V4) a
+      few tries, it went on my third try. I got on a few other easier boulders,
+      got shut down by some harder stuff, and tired myself out as the sun set.
+      Another full day of climbing!
+    </p>
+    <ImageGroup
+      images={[
+        {
+          path: "/images/rr/5.jpeg",
+          caption: "Welcome to Detroit V4",
+        },
+      ]}
+      thinner
+    />
     <p className="font-bold text-lg">Day 6 - 12/9</p>
     <p>
       Actual rest day, forced myself not to climb and found a cool spot (Cafe
       Mong) to do some remote consulting work. Ate Hawaiian food from the
-      restaurant Antidote next door.
+      restaurant Antidote next door. Went on Mountain Project and facebook to
+      find some climbing partners for the coming days.
     </p>
     <p className="font-bold text-lg">Day 5 - 12/8</p>
     <p>
@@ -34,6 +60,15 @@ const Page = () => (
       grocery shopped, found a nice parking lot, called my friends and went to
       bed.
     </p>
+    <ImageGroup
+      images={[
+        {
+          path: "/images/rr/IMG_0477.jpeg",
+          caption: "Pulling the crux on Turtle on a Half Shell V5-",
+        },
+      ]}
+      thinner
+    />
     <p className="font-bold text-lg">Day 4 - 12/7</p>
     <p>
       Everyone I know is leaving, so I'll be on my own after today. Alex and I
@@ -50,6 +85,18 @@ const Page = () => (
       At night I met up with Aaron right before he flew back to the bay. Sounded
       like he had a successful crag day as well!
     </p>
+    <ImageGroup
+      images={[
+        {
+          path: "/images/rr/3.jpeg",
+          caption: "Alex on top of Ace of Hearts 5.10d",
+        },
+        {
+          path: "/images/rr/IMG_0454.jpeg",
+          caption: "Moderate Mecca sunset",
+        },
+      ]}
+    />
     <p className="font-bold text-lg">Day 3 - 12/6</p>
     <p>
       Today was a pumpfest. Alex and I woke up before sunrise to get into the
@@ -73,6 +120,39 @@ const Page = () => (
       the climbing was so sustained, my forearms never felt so pumped in my
       life.
     </p>
+    <ImageGroup
+      images={[
+        {
+          path: "/images/rr/IMG_0395.jpeg",
+          caption: "Approaching the climb",
+        },
+        {
+          path: "/images/rr/4.jpeg",
+          caption: "Desert cacti",
+        },
+      ]}
+    />
+    <ImageGroup
+      images={[
+        {
+          path: "/images/rr/IMG_0432.jpeg",
+          caption: "Unimpeachable Groping 5.10+ (named after Clinton)",
+        },
+        {
+          path: "/images/rr/IMG_0431.jpeg",
+          caption: "Looking down from the summit",
+        },
+      ]}
+    />
+    <ImageGroup
+      images={[
+        {
+          path: "/images/rr/IMG_0436.jpeg",
+          caption: "After rapping down in the dark",
+        },
+      ]}
+      thinner
+    />
     <p className="font-bold text-lg">Day 2 - 12/5</p>
     <p>
       Did Disclosure with Aaron and Margot. We started on a trail from Kraft
@@ -88,20 +168,24 @@ const Page = () => (
       I met up with my buddy Alex who drove up from LA today, in order to scheme
       up some plans for the coming days.
     </p>
+    <ImageGroup
+      images={[
+        {
+          path: "/images/rr/1.jpeg",
+          caption: "Aaron leading the first pitch of Disclosure (5.10a)",
+        },
+        {
+          path: "/images/rr/IMG_0395.jpeg",
+          caption: "Descent and sunset",
+        },
+      ]}
+    />
     <p className="font-bold text-lg">Day 1 - 12/4</p>
     <p>
       Drove to Vegas from SF, took way too long packing and left at 1:30. Made
       it to LV at 10:30, linked up with Margot, Aaron and friends who flew in.
       Slept in car outside their Airbnb.
     </p>
-    <ImageGroup
-      images={[
-        {
-          path: "/images/rr/",
-          caption: "",
-        },
-      ]}
-    />
   </Post>
 );
 
