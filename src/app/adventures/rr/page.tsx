@@ -4,8 +4,7 @@ import Post from "@/components/Post";
 const Page = () => (
   <Post title="Red Rocks" date="December 2024" prev="/adventures/warren">
     <p className="italic">
-      It's my third time climbing at Red Rocks (Nevada) this year, which is hard
-      to believe. In January I was really new to outdoor bouldering, doing V1s
+      It's my third time climbing at Red Rocks (Nevada) this year. In January I was really new to outdoor bouldering, doing V1s
       and V2s, and in October I led my first multipitch. Both trips felt short,
       especially the October one but it was also too hot then. Now with the
       winter season getting into full swing, Margot invited me and Aaron on
