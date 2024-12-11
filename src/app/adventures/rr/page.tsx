@@ -15,8 +15,8 @@ const Page = () => (
     </p>
     <p className="font-bold text-lg">Day 7 - 12/10</p>
     <p>
-      Met up with some friendly traveling vehicle-dwellers at the Red Springs
-      parking lot (and from facebook) for a morning of cragging at Cannibal
+      Met up with some friendly traveling vehicle-dwellers today. Ian, Randy and I found each other on a facebook group. We needed a fourth so we picked up Delaney, who we found in the Red Springs
+      parking lot!  It was going to be a morning of sport climbing at Cannibal
       Crag. I led an easy 5.4 trad route, top roped a 5.8, and hopped on a
       couple harder 5.11s on top rope. Caustic Cock, the famously aesthetic
       arete problem, felt so cool to climb despite my flailing! Led a 5.10a
