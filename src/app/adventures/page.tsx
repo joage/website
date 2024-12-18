@@ -9,16 +9,11 @@ export default function Adventures() {
       <div className="flex flex-col gap-6 w-[275px] py-7 text-sm">
         journeys I've been on
         <div>
-          <p>Ongoing:</p>
-          <ul className="list-disc text-cyan-600 mx-4">
-            <li>
-              <Link href="/adventures/rr">Red Rocks Dec 2024</Link>
-            </li>
-          </ul>
-        </div>
-        <div>
           <p>2024:</p>
           <ul className="list-disc text-cyan-600 mx-4">
+            <li>
+              <Link href="/adventures/rr">Red Rocks</Link>
+            </li>
             <li>
               <Link href="/adventures/warren">Mount Warren</Link>
             </li>
