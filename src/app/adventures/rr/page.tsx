@@ -8,12 +8,9 @@ const Page = () => (
     prev="/adventures/warren"
   >
     <p className="italic">
-      It's my third time climbing at Red Rocks (Nevada) this year. In January I
-      was really new to outdoor bouldering, doing V1s and V2s, and in October I
-      led my first multipitch. Both trips felt short, especially the October one
-      but it was also too hot then. Now with the winter season getting into full
-      swing, Margot invited me and Aaron on another trip with some of her
-      friends. I packed my car and drove to Vegas, with the hope of camping at
+      With the winter climbing season getting into full
+      swing, Margot invited me and Aaron on a Red Rocks trip with some of her
+      crew. I packed my car and drove to Vegas, with the hope of camping at
       least a week and finding partners on site once my friends left. The
       following is a journal of my climbing.
     </p>
@@ -21,7 +18,7 @@ const Page = () => (
       images={[
         {
           path: "/images/rr/title.jpeg",
-          caption: "",
+          caption: "My third time at Red Rocks (Nevada) this year",
         },
       ]}
       thinner
