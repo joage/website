@@ -36,8 +36,8 @@ const Page = () => (
     <p>
       Did Disclosure with Aaron and Margot. We started on a trail from Kraft
       parking lot, navigated up a wash to Midway Ledge. Aaron led the first
-      pitch with Margot belaying. The joy of climbing in a team of 3 was
-      realized this day. Sharing belay ledges, taking abundant photos and
+      pitch with Margot belaying. We realized how much fun climbing in a team of 3 was
+      today. Sharing belay ledges, taking abundant photos and
       generally having a great time on the wall, we cruised to the top of Tank
       Peak in 5 pitches. Margot led the super scenic last pitch. After signing
       the register, we followed a bunch of day hikers down the wrong side of the
