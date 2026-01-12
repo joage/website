@@ -199,9 +199,9 @@ const Taiwan = () => (
     />
     On day 8, the call from my job finally came: I would be starting work in
     California the next week. I could see myself spending lots more time in
-    Taiwan, months even, but it was time to go home. I pedaled to Hualien,
-    enjoyed one last stunning sea view, and took the train back to Taipei. I had
-    biked for 10 days in total.
+    Taiwan, months even, but it was time to go home. I pedaled a few more days
+    to Hualien, enjoyed one last stunning sea view, and took the train back to
+    Taipei. I had biked for 11 days in total.
     <ImageGroup
       images={[
         {
