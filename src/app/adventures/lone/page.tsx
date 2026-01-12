@@ -24,7 +24,7 @@ const Page = () => (
         {
           path: "/images/lone/macos.jpeg",
           caption:
-            "Lone Pine Peak (12,949 ft) happens to be the Mac OS Sierra default desktop (image credit: Apple).",
+            "Lone Pine Peak is the Mac OS Sierra default desktop background (image credit: Apple).",
         },
       ]}
     />
