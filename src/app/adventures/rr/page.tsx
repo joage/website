@@ -3,16 +3,16 @@ import Post from "@/components/Post";
 
 const Page = () => (
   <Post
-    title="Red Rocks Dirtbagging"
+    title="Red Rocks"
     date="December 2024"
     prev="/adventures/warren"
+    next="/adventures/tuolumne"
   >
     <p className="italic">
-      With the winter climbing season getting into full
-      swing, Margot invited me and Aaron on a Red Rocks trip with some of her
-      crew. I packed my car and drove to Vegas, with the hope of camping at
-      least a week and finding partners on site once my friends left. The
-      following is a journal of my climbing.
+      As the winter climbing season began, Margot invited me and Aaron on a Red
+      Rocks trip with some friends. I packed my car and drove to Vegas, with the
+      hope of camping at least a week and finding partners on site once my
+      friends left. This is a journal of my climbing.
     </p>
     <ImageGroup
       images={[
@@ -33,11 +33,11 @@ const Page = () => (
     <p>
       Did Disclosure with Aaron and Margot. We started on a trail from Kraft
       parking lot, navigated up a wash to Midway Ledge. Aaron led the first
-      pitch with Margot belaying. We realized how much fun climbing in a team of 3 was
-      today. Sharing belay ledges, taking abundant photos and
-      generally having a great time on the wall, we cruised to the top of Tank
-      Peak in 5 pitches. Margot led the super scenic last pitch. After signing
-      the register, we followed a bunch of day hikers down the wrong side of the
+      pitch with Margot belaying. We realized how much fun climbing in a team of
+      3 was today. Sharing belay ledges, taking abundant photos and generally
+      having a great time on the wall, we cruised to the top of Tank Peak in 5
+      pitches. Margot led the super scenic last pitch. After signing the
+      register, we followed a bunch of day hikers down the wrong side of the
       mountain. In fact the real descent path was a class 3 gully back to Midway
       Ledge where we started. We retraced our steps, and with Aaron leading the
       way on the correct path now, we made it back to the car at sunset. Later,

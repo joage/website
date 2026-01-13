@@ -6,8 +6,21 @@ export default function Adventures() {
   return (
     <main className="flex flex-col min-h-screen items-center p-4">
       <Nav />
-      <div className="flex flex-col gap-6 w-[275px] py-7 text-sm">
-        journeys I've been on
+      <div className="flex flex-col gap-6 w-[250px] py-7 text-sm">
+        <div>
+          <p>2025:</p>
+          <ul className="list-disc text-cyan-600 mx-4">
+            <li>
+              <Link href="/adventures/taiwan">Cycling around Taiwan</Link>
+            </li>
+            <li>
+              <Link href="/adventures/arizona">Arizona and Utah</Link>
+            </li>
+            <li>
+              <Link href="/adventures/tuolumne">Tuolumne Meadows</Link>
+            </li>
+          </ul>
+        </div>
         <div>
           <p>2024:</p>
           <ul className="list-disc text-cyan-600 mx-4">
@@ -15,16 +28,21 @@ export default function Adventures() {
               <Link href="/adventures/rr">Red Rocks</Link>
             </li>
             <li>
-              <Link href="/adventures/warren">Mount Warren</Link>
-            </li>
-            <li>
-              <Link href="/adventures/north-fork">
-                North Fork Big Pine Creek
-              </Link>
-            </li>
-            <li>
               <Link href="/adventures/rocktober">Rocktober in Bishop</Link>
             </li>
+            <details className="pb-1 pl-3">
+              <summary className="cursor-pointer text-gray-500">
+                See individual days
+              </summary>
+              <li>
+                <Link href="/adventures/warren">Mount Warren</Link>
+              </li>
+              <li>
+                <Link href="/adventures/north-fork">
+                  North Fork Big Pine Creek
+                </Link>
+              </li>
+            </details>
             <li>
               <Link href="/adventures/sur">Big Sur</Link>
             </li>
@@ -90,9 +108,7 @@ export default function Adventures() {
               <Link href="/adventures/lone">Lone Pine Peak</Link>
             </li>
             <li>
-              <Link href="/adventures/gr-10/48">
-                My Long Walk in the Pyrenees
-              </Link>
+              <Link href="/adventures/gr-10/48">Pyrenees High Route</Link>
             </li>
             <details className="pb-1 pl-3">
               <summary className="cursor-pointer text-gray-500">
@@ -299,10 +315,10 @@ export default function Adventures() {
           <p>2022:</p>
           <ul className="list-disc text-cyan-600 mx-4">
             <li>
-              <Link href="/adventures/utah-2">Slot Canyons (Utah Part 2)</Link>
+              <Link href="/adventures/utah-2">Slot Canyons</Link>
             </li>
             <li>
-              <Link href="/adventures/utah-1">Coyote Gulch (Utah Part 1)</Link>
+              <Link href="/adventures/utah-1">Coyote Gulch</Link>
             </li>
             <li>
               <Link href="/adventures/clouds">Clouds Rest</Link>
@@ -311,7 +327,7 @@ export default function Adventures() {
               <Link href="/adventures/sill">Mount Sill</Link>
             </li>
             <li>
-              <Link href="/adventures/crete">Eight Cretan Sunsets</Link>
+              <Link href="/adventures/crete">8 Cretan Sunsets</Link>
             </li>
           </ul>
         </div>
@@ -337,7 +353,7 @@ export default function Adventures() {
               <Link href="/adventures/catalina">Trans Catalina</Link>
             </li>
             <li>
-              <Link href="/adventures/dv">Death Valley New Year</Link>
+              <Link href="/adventures/dv">Death Valley</Link>
             </li>
           </ul>
         </div>

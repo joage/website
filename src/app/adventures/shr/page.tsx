@@ -94,8 +94,8 @@ const Page = () => (
       thinner
     />
     <p>
-      The day-by-day writeups that follow are only told from my point of view!
-      See Emma's perspective{" "}
+      These writeups on this site are only my point of view! See Emma's
+      perspective{" "}
       <Link
         className="text-cyan-600"
         rel="noopener noreferrer"

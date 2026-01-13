@@ -17,8 +17,8 @@ const Page = () => (
         },
       ]}
     />
-    I am known for only eating mac and cheese while backpacking, but this time I
-    tried something different. Kari, Kathy and I feasted on Timber Top!
+    I usually only eat mac and cheese while backpacking, but this time Kari,
+    Kathy and I feasted on Timber Top!
     <ImageGroup
       images={[
         {
@@ -56,7 +56,7 @@ const Page = () => (
         },
         {
           path: "/images/sur/10.JPG",
-          caption: "Dinner: Steak, peppers, onions, rice (not pictured)",
+          caption: "Dinner: Steak, peppers, onions, rice",
         },
       ]}
     />
