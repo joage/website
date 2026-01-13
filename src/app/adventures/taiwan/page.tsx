@@ -20,12 +20,11 @@ const Taiwan = () => (
       job in December, but the call I was waiting for didn't come.
     </p>
     <p>
-      While I waited, I wanted to see a new place. I had heard from several
-      people that Taiwan is good for cycling, but I'm not a cyclist. I decided
-      to go for it only after getting some encouraging advice from a friend back
-      home. Since I was already seeing family in Asia at the time, it was a
-      short flight. I landed in Taipei, rented a bike, and started my cycle
-      journey around Taiwan.
+      While I waited, I wanted to see a new place. Several friends told me that
+      Taiwan is good for cycling, but I'm not a cyclist. I decided to go for it
+      only after getting some encouraging advice from Kari. Since I was already
+      seeing family in Asia at the time, it was a short flight. I landed in
+      Taipei, rented a bike, and started my cycle journey around Taiwan.
     </p>
     <ImageGroup
       images={[
