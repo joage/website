@@ -4,6 +4,7 @@ import Post from "@/components/Post";
 const Taiwan = () => (
   <Post
     title="環島臺灣 Cycling around Taiwan"
+    stravaID="16851410747"
     date="December 2025"
     prev="/adventures/arizona"
   >
