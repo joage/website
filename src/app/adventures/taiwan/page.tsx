@@ -183,7 +183,7 @@ const Taiwan = () => (
       my Mandarin improved and I began discussing deeper topics in conversation
       with people: history, Taiwan's political landscape, the current job market
       for college grads. It was very interesting to learn about people's hopes
-      and dreams, many of which are not different than my own.
+      and dreams, which aren't that different than my own.
     </p>
     <ImageGroup
       images={[
